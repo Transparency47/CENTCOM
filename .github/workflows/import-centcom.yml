@@ -1,0 +1,139 @@
+name: Import CENTCOM Media
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Scrape mode: incremental or backfill."
+        required: false
+        default: "incremental"
+        type: choice
+        options:
+          - incremental
+          - backfill
+      section:
+        description: "Optional section filter: all, text, news, releases, transcripts, or videos."
+        required: false
+        default: "all"
+        type: string
+      language:
+        description: "Optional public-release language filter."
+        required: false
+        type: string
+      since:
+        description: "Only archive records published at or after this date/time."
+        required: false
+        default: "2025-01-20T00:00:00Z"
+        type: string
+      until:
+        description: "Only archive records published at or before this date/time, or 'now'."
+        required: false
+        type: string
+      max_pages:
+        description: "Optional text listing page limit for testing or controlled runs."
+        required: false
+        type: string
+      max_items:
+        description: "Optional record limit for testing or controlled runs."
+        required: false
+        type: string
+      force:
+        description: "Re-fetch and overwrite known records."
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-centcom
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    env:
+      R2_BUCKET: comparifycdn
+      R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      R2_PUBLIC_BASE_URL: https://cdn.comparify.app/
+      R2_KEY_PREFIX: archive
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install -r Scrapers/requirements.txt
+
+      - name: Import CENTCOM media
+        shell: bash
+        env:
+          MODE: ${{ inputs.mode || 'incremental' }}
+          SECTION: ${{ inputs.section || 'all' }}
+          LANGUAGE: ${{ inputs.language }}
+          SINCE: ${{ inputs.since || '2025-01-20T00:00:00Z' }}
+          UNTIL: ${{ inputs.until }}
+          MAX_PAGES: ${{ inputs.max_pages }}
+          MAX_ITEMS: ${{ inputs.max_items }}
+          FORCE: ${{ inputs.force || false }}
+        run: |
+          set -euo pipefail
+          args=("--${MODE}" "--section" "${SECTION}" "--since" "${SINCE}")
+          if [[ -n "${LANGUAGE}" ]]; then
+            args+=("--language" "${LANGUAGE}")
+          fi
+          if [[ -n "${UNTIL}" ]]; then
+            args+=("--until" "${UNTIL}")
+          fi
+          if [[ -n "${MAX_PAGES}" ]]; then
+            args+=("--max-pages" "${MAX_PAGES}")
+          fi
+          if [[ -n "${MAX_ITEMS}" ]]; then
+            args+=("--max-items" "${MAX_ITEMS}")
+          fi
+          if [[ "${FORCE}" == "true" ]]; then
+            args+=("--force")
+          fi
+          args+=("--require-r2-upload")
+          python Scrapers/centcom_scraper.py "${args[@]}"
+
+      - name: Generate listing
+        run: python Scrapers/generate_listing.py
+
+      - name: Verify generated output
+        run: |
+          set -euo pipefail
+          test -f listing.json
+          if grep -R -nI -E '/Users/|Local source|sourcePath' README.md "News Articles" "Public Releases" Transcripts Videos listing.json Scrapers 2>/dev/null; then
+            echo "Generated output contains a forbidden local path." >&2
+            exit 1
+          fi
+          if find . -type f \( -name '*.mp4' -o -name '*.mov' -o -name '*.m4v' -o -name '*.webm' -o -name '*.mkv' -o -name '*.avi' \) -not -path './.git/*' | grep -q .; then
+            echo "Video binaries must not be committed." >&2
+            exit 1
+          fi
+
+      - name: Commit generated changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+
+          git add README.md "News Articles" "Public Releases" Transcripts Videos Scrapers/state.json listing.json
+          git commit -m "Import CENTCOM media"
+          git push
