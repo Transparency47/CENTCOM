@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-02T22:15:00.300402+00:00",
+  "generatedAt": "2026-06-02T23:48:32.676145+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-02",
+      "id": "centcom:545d752bd8676e2f",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4506969",
+        "dateAccessed": "2026-06-02T23:48:12.845440Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/02/4506969_CENTCOM_Disables_Non_Compliant_Vessel_in_Arabian_Gulf.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4506969/centcom-disables-non-compliant-vessel-in-arabian-gulf/",
+      "summary": null,
+      "title": "CENTCOM Disables Non-Compliant Vessel in Arabian Gulf"
+    },
     {
       "category": "Videos",
       "date": "2026-06-02",
