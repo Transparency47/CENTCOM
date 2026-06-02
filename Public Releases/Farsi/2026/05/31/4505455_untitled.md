@@ -1,6 +1,6 @@
 <!-- source: https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4505455/ -->
 <!-- date_published: 2026-05-31T00:00:00Z -->
-<!-- date_accessed: 2026-06-02T12:30:09.774427Z -->
+<!-- date_accessed: 2026-06-02T21:53:40.099320Z -->
 <!-- section: Public Releases -->
 <!-- language: Farsi -->
 <!-- article_id: 4505455 -->
@@ -14,7 +14,7 @@
 - Section: Public Releases
 - Language: Farsi
 - Date published: 2026-05-31T00:00:00Z
-- Date accessed: 2026-06-02T12:30:09.774427Z
+- Date accessed: 2026-06-02T21:53:40.099320Z
 
 تامپا، فلوریدا - فرماندهی مرکزی ایالات متحده (سنتکام) آخر هفته گذشته حملات دفاع از خود را علیه رادارها  و سایت‌های فرماندهی و کنترل پهپادها در دهستان گورک و جزیره قشم ایران انجام داد.
 

@@ -1,0 +1,128 @@
+<!-- source: https://www.dvidshub.net/video/999124/us-air-force-kc-135-conducts-aerial-refueling-during-operation-epic-fury -->
+<!-- date_published: 2026-03-12T01:30:15Z -->
+<!-- date_accessed: 2026-06-02T22:02:45.619823Z -->
+<!-- section: Videos -->
+<!-- dvids_video_id: 999124 -->
+
+# US Air Force KC-135 Conducts Aerial Refueling During Operation Epic Fury
+
+## Source Metadata
+
+- Source URL: https://www.dvidshub.net/video/999124/us-air-force-kc-135-conducts-aerial-refueling-during-operation-epic-fury
+- DVIDS video ID: 999124
+- Date published: 2026-03-12T01:30:15Z
+- Date recorded: 2026-03-08T00:00:00-05:00
+- Date accessed: 2026-06-02T22:02:45.619823Z
+- Unit: U.S. Central Command Public Affairs
+- Credit: Courtesy
+- Duration seconds: 63
+- Thumbnail: https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2603/999124/DOD_111569663.0000001/122x92_q95.jpg
+- HLS URL: https://api.dvidshub.net/hls/video/999124.m3u8?api_key=REDACTED
+- Download URL: https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111569663/DOD_111569663-1920x1080-6000k.mp4
+- Download content type: video/mp4
+- Download width: 1920
+- Download height: 1080
+- Download size: 18337399
+- Local file: media/DOD_111569663-1920x1080-6000k.mp4
+- Remote URL: https://cdn.comparify.app/archive/centcom/DOD_111569663-1920x1080-6000k.mp4
+- Remote path: archive/centcom/DOD_111569663-1920x1080-6000k.mp4
+
+## Description
+
+A U.S. Navy F/A-18F Super Hornet aircraft refuels from a U.S. Air Force KC-135 Stratotanker aircraft during a mission in support of Operation Epic Fury over the U.S. Central Command area of responsibility, March 8, 2026. (U.S. Air Force video)
+
+## DVIDS API Data
+
+```json
+{
+  "aspect_ratio": "16:9",
+  "branch": "Joint",
+  "category": "B-Roll",
+  "credit": "Courtesy",
+  "date": "2026-03-08T00:00:00-05:00",
+  "date_published": "2026-03-11T21:30:15-04:00",
+  "description": "A U.S. Navy F/A-18F Super Hornet aircraft refuels from a U.S. Air Force KC-135 Stratotanker aircraft during a mission in support of Operation Epic Fury over the U.S. Central Command area of responsibility, March 8, 2026. (U.S. Air Force video)",
+  "duration": 63,
+  "files": [
+    {
+      "bitrate": 0,
+      "height": 2160,
+      "size": 73222612,
+      "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111569663/DOD_111569663.mp4",
+      "type": "video/mp4",
+      "width": 3840
+    },
+    {
+      "bitrate": 0,
+      "height": 1080,
+      "size": 29597942,
+      "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111569663/DOD_111569663-1920x1080-9000k.mp4",
+      "type": "video/mp4",
+      "width": 1920
+    },
+    {
+      "bitrate": 0,
+      "height": 1080,
+      "size": 18337399,
+      "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111569663/DOD_111569663-1920x1080-6000k.mp4",
+      "type": "video/mp4",
+      "width": 1920
+    },
+    {
+      "bitrate": 0,
+      "height": 720,
+      "size": 8770182,
+      "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111569663/DOD_111569663-1280x720-3000k.mp4",
+      "type": "video/mp4",
+      "width": 1280
+    },
+    {
+      "bitrate": 0,
+      "height": 576,
+      "size": 5669402,
+      "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111569663/DOD_111569663-1024x576-2000k.mp4",
+      "type": "video/mp4",
+      "width": 1024
+    },
+    {
+      "bitrate": 0,
+      "height": 288,
+      "size": 3032229,
+      "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111569663/DOD_111569663-512x288-1000k.mp4",
+      "type": "video/mp4",
+      "width": 512
+    },
+    {
+      "bitrate": 0,
+      "height": 144,
+      "size": 1830582,
+      "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111569663/DOD_111569663-256x144-1000k.mp4",
+      "type": "video/mp4",
+      "width": 256
+    }
+  ],
+  "hls_url": "https://api.dvidshub.net/hls/video/999124.m3u8?api_key=REDACTED",
+  "id": "video:999124",
+  "image": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2603/999124/DOD_111569663.0000001/2000w_q95.jpg",
+  "keywords": "Iran, CENTCOM, epicfury",
+  "location": {
+    "city": "",
+    "country": "Undisclosed Location",
+    "country_abbreviation": "UL",
+    "state": ""
+  },
+  "thumbnail": {
+    "height": 92,
+    "url": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2603/999124/DOD_111569663.0000001/122x92_q95.jpg",
+    "width": 122
+  },
+  "time_start": 0,
+  "timestamp": "2026-03-12T08:08:32-04:00",
+  "title": "US Air Force KC-135 Conducts Aerial Refueling During Operation Epic Fury",
+  "type": "video",
+  "unit_id": "72",
+  "unit_name": "U.S. Central Command Public Affairs",
+  "url": "https://www.dvidshub.net/video/999124/us-air-force-kc-135-conducts-aerial-refueling-during-operation-epic-fury",
+  "virin": "260308-D-D0477-7001"
+}
+```

@@ -1,6 +1,6 @@
 <!-- source: https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4505460/ -->
 <!-- date_published: 2026-05-31T00:00:00Z -->
-<!-- date_accessed: 2026-06-02T12:30:13.201556Z -->
+<!-- date_accessed: 2026-06-02T21:54:00.809449Z -->
 <!-- section: Public Releases -->
 <!-- language: Urdu -->
 <!-- article_id: 4505460 -->
@@ -14,7 +14,7 @@
 - Section: Public Releases
 - Language: Urdu
 - Date published: 2026-05-31T00:00:00Z
-- Date accessed: 2026-06-02T12:30:13.201556Z
+- Date accessed: 2026-06-02T21:54:00.809449Z
 
 ٹیمپا، فلوریڈا — امریکی سینٹرل کمانڈ نے اس ہفتے کے آخر میں ایران کے گورک اور جزیرہ قشم میں واقع ایرانی ریڈار اور ڈرونز کے کمانڈ اینڈ کنٹرول مراکز پر دفاعی حملے کیے۔
 

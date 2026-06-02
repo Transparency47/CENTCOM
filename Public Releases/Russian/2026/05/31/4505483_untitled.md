@@ -1,6 +1,6 @@
 <!-- source: https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4505483/ -->
 <!-- date_published: 2026-05-31T00:00:00Z -->
-<!-- date_accessed: 2026-06-02T12:30:03.060751Z -->
+<!-- date_accessed: 2026-06-02T21:52:44.309026Z -->
 <!-- section: Public Releases -->
 <!-- language: Russian -->
 <!-- article_id: 4505483 -->
@@ -14,7 +14,7 @@
 - Section: Public Releases
 - Language: Russian
 - Date published: 2026-05-31T00:00:00Z
-- Date accessed: 2026-06-02T12:30:03.060751Z
+- Date accessed: 2026-06-02T21:52:44.309026Z
 
 ТАМПА, штат Флорида — В минувшие выходные Центральное командование США (ЦЕНТКОМ) нанесло удары в целях самообороны по иранским радиолокационным станциям и пунктам управления беспилотными летательными аппаратами, расположенным в населенном пункте Горук (Иран) и на острове Кешм.
 

@@ -1,6 +1,6 @@
 <!-- source: https://www.centcom.mil/MEDIA/NEWS-ARTICLES/News-Article-View/Article/4398492/us-navy-and-royal-saudi-naval-forces-conclude-exercise-indigo-defender/ -->
 <!-- date_published: 2026-02-05T00:00:00Z -->
-<!-- date_accessed: 2026-06-02T12:29:50.717854Z -->
+<!-- date_accessed: 2026-06-02T21:51:10.336848Z -->
 <!-- section: News Articles -->
 <!-- language: English -->
 <!-- article_id: 4398492 -->
@@ -14,7 +14,7 @@
 - Section: News Articles
 - Language: English
 - Date published: 2026-02-05T00:00:00Z
-- Date accessed: 2026-06-02T12:29:50.717854Z
+- Date accessed: 2026-06-02T21:51:10.336848Z
 
 MANAMA, Bahrain – U.S. Naval Forces Central Command (NAVCENT) and the Royal Saudi Naval Forces West Fleet (RSNF-WF) concluded the NAVCENT-led, bilateral exercise Indigo Defender 2026, Feb. 5.
 

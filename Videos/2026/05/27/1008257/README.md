@@ -1,6 +1,6 @@
 <!-- source: https://www.dvidshub.net/video/1008257/uss-tripoli-refueling-sea -->
 <!-- date_published: 2026-05-27T00:44:42Z -->
-<!-- date_accessed: 2026-06-02T12:31:45.534005Z -->
+<!-- date_accessed: 2026-06-02T21:54:34.410538Z -->
 <!-- section: Videos -->
 <!-- dvids_video_id: 1008257 -->
 
@@ -12,7 +12,7 @@
 - DVIDS video ID: 1008257
 - Date published: 2026-05-27T00:44:42Z
 - Date recorded: 2026-05-24T00:00:00-04:00
-- Date accessed: 2026-06-02T12:31:45.534005Z
+- Date accessed: 2026-06-02T21:54:34.410538Z
 - Unit: U.S. Central Command Public Affairs
 - Credit: NAVCENT Public Affairs
 - Duration seconds: 59
@@ -23,6 +23,9 @@
 - Download width: 1920
 - Download height: 1080
 - Download size: 35560238
+- Local file: media/DOD_111728868-1920x1080-6000k.mp4
+- Remote URL: https://cdn.comparify.app/archive/centcom/DOD_111728868-1920x1080-6000k.mp4
+- Remote path: archive/centcom/DOD_111728868-1920x1080-6000k.mp4
 
 ## Description
 
