@@ -1,6 +1,6 @@
 # CENTCOM Public Media - Mirror
 
-This repository is a read-only mirror of public media published by U.S. Central Command. It is part of the Restoring American Sovereignty Project and exists to preserve CENTCOM public source material in a structured local archive.
+This repository is a read-only mirror of public media published by U.S. Central Command. It is part of Citizens for Government Transparency and exists to preserve CENTCOM public source material in a structured local archive.
 
 The archive starts on **January 20, 2025** and mirrors:
 
