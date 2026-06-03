@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-02T23:48:32.676145+00:00",
+  "generatedAt": "2026-06-03T04:23:26.810269+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-02",
+      "id": "centcom:1b4ee2f75f21c78f",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4507109",
+        "dateAccessed": "2026-06-03T04:23:10.187567Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/02/4507109_U_S_Partner_Forces_Defend_Against_Aggressive_Iranian_Behavior.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4507109/us-partner-forces-defend-against-aggressive-iranian-behavior/",
+      "summary": null,
+      "title": "U.S., Partner Forces Defend Against Aggressive Iranian Behavior"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-02",
