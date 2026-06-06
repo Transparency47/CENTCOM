@@ -570,6 +570,12 @@
       "path": "Public Releases/Arabic/2026/05/08/4502616_untitled.md",
       "title": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u062a\u0642\u0648\u0645 \u0628\u062a\u0639\u0637\u064a\u0644 \u0633\u0641\u064a\u0646\u062a\u064a\u0646 \u0625\u0636\u0627\u0641\u064a\u062a\u064a\u0646 \u062e\u0631\u0642\u062a\u0627 \u0627\u0644\u062d\u0635\u0627\u0631 \u0641\u064a \u062e\u0644\u064a\u062c \u0639\u064f\u0645\u0627\u0646"
     },
+    "releases:Arabic:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4510670/": {
+      "dateAccessed": "2026-06-06T04:55:12.860938Z",
+      "datePublished": "2026-06-05T00:00:00Z",
+      "path": "Public Releases/Arabic/2026/06/05/4510670_untitled.md",
+      "title": "\u0642\u0648\u0627\u062a \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u062a\u0635\u062f\u0649 \u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u064f\u0633\u064a\u0651\u0631\u0629 \u0623\u0637\u0644\u0642\u062a\u0647\u0627 \u0625\u064a\u0631\u0627\u0646"
+    },
     "releases:English:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4048853/centcom-forces-kill-senior-operative-of-terror-group-hurras-al-din-an-al-qaeda/": {
       "dateAccessed": "2026-06-02T21:52:09.576606Z",
       "datePublished": "2025-01-30T00:00:00Z",
@@ -1253,6 +1259,12 @@
       "datePublished": "2026-06-04T00:00:00Z",
       "path": "Public Releases/English/2026/06/04/4508950_U_S_Army_Central_Third_Army_Conducts_Change_of_Command.md",
       "title": "U.S. Army Central & Third Army Conducts Change of Command"
+    },
+    "releases:English:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4510668/centcom-forces-defeat-missiles-drones-launched-by-iran/": {
+      "dateAccessed": "2026-06-06T04:55:09.801269Z",
+      "datePublished": "2026-06-05T00:00:00Z",
+      "path": "Public Releases/English/2026/06/05/4510668_CENTCOM_Forces_Defeat_Missiles_Drones_Launched_by_Iran.md",
+      "title": "CENTCOM Forces Defeat Missiles, Drones Launched by Iran"
     },
     "releases:Farsi:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4322267/": {
       "dateAccessed": "2026-06-02T21:53:55.513443Z",
@@ -3077,6 +3089,13 @@
       "remotePath": "archive/centcom/DOD_111743715-1920x1080-6000k.mp4",
       "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111743715-1920x1080-6000k.mp4",
       "title": "CENTCOM Disables Non-Compliant Vessel in Arabian Gulf"
+    },
+    "1009586": {
+      "datePublished": "2026-06-06T02:21:09Z",
+      "path": "Videos/2026/06/06/1009586/README.md",
+      "remotePath": "archive/centcom/DOD_111752568-1920x1080-6000k.mp4",
+      "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111752568-1920x1080-6000k.mp4",
+      "title": "CENTCOM Forces Defeat Missiles, Drones Launched by Iran"
     },
     "952789": {
       "datePublished": "2025-02-18T21:07:27Z",
