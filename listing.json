@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-08T14:11:59.563319+00:00",
+  "generatedAt": "2026-06-08T17:56:59.635670+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-08",
+      "id": "centcom:b0d364a4a1b89110",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4511257",
+        "dateAccessed": "2026-06-08T17:56:41.598672Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/08/4511257_U_S_Forces_Disable_Non_Compliant_Oil_Tanker_in_Gulf_of_Oman.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4511257/us-forces-disable-non-compliant-oil-tanker-in-gulf-of-oman/",
+      "summary": null,
+      "title": "U.S. Forces Disable Non-Compliant Oil Tanker in Gulf of Oman"
+    },
     {
       "category": "Videos",
       "date": "2026-06-06",
