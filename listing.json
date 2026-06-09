@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-09T12:40:29.913737+00:00",
+  "generatedAt": "2026-06-09T15:58:14.390569+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-09",
+      "id": "centcom:21549b8b24f82741",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4511999",
+        "dateAccessed": "2026-06-09T15:58:05.543318Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/06/09/4511999_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4511999/",
+      "summary": null,
+      "title": "\u05e6\u05d5\u05d5\u05ea \u05de\u05e1\u05d5\u05e7 \u05e9\u05dc \u05e6\u05d1\u05d0 \u05d0\u05e8\u05e6\u05d5\u05ea \u05d4\u05d1\u05e8\u05d9\u05ea \u05d7\u05d5\u05dc\u05e5 \u05d1\u05e9\u05dc\u05d5\u05dd \u05dc\u05d0\u05d7\u05e8 \u05e9\u05d4\u05de\u05e1\u05d5\u05e7 \u05d0\u05d1\u05d3 \u05d1\u05d9\u05dd"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-09",
