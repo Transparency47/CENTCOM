@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-09T09:54:04.003875+00:00",
+  "generatedAt": "2026-06-09T12:40:29.913737+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-09",
+      "id": "centcom:5ca750dd54e36fcc",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4511869",
+        "dateAccessed": "2026-06-09T12:40:09.917272Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/09/4511869_U_S_Army_Crew_Safely_Rescued_After_Helicopter_Lost_at_Sea.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4511869/us-army-crew-safely-rescued-after-helicopter-lost-at-sea/",
+      "summary": null,
+      "title": "U.S. Army Crew Safely Rescued After Helicopter Lost at Sea"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-08",
