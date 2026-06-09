@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-06-09T15:58:14.390569+00:00",
+  "generatedAt": "2026-06-09T18:16:49.952997+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-09",
+      "id": "centcom:df0457064756bb76",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512194",
+        "dateAccessed": "2026-06-09T18:16:32.890475Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/06/09/4512194_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4512194/",
+      "summary": null,
+      "title": "\u0633\u0645\u0646\u062f\u0631 \u0645\u06cc\u06ba \u06a9\u06be\u0648\u0626\u06d2 \u06af\u0626\u06d2 \u0627\u0645\u0631\u06cc\u06a9\u06cc \u0641\u0648\u062c\u06cc \u06c1\u06cc\u0644\u06cc \u06a9\u0627\u067e\u0679\u0631 \u0645\u06cc\u06ba \u0633\u0648\u0627\u0631 \u0639\u0645\u0644\u06d2 \u06a9\u06d2 \u0627\u0631\u06a9\u0627\u0646 \u06a9\u0648 \u0628\u062d\u0641\u0627\u0638\u062a \u0631\u06cc\u0633\u06a9\u06cc\u0648 \u06a9\u0631 \u0644\u06cc\u0627 \u06af\u06cc\u0627\u06d4"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-09",
+      "id": "centcom:9742db881583a4a2",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512202",
+        "dateAccessed": "2026-06-09T18:16:25.989571Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/06/09/4512202_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4512202/",
+      "summary": null,
+      "title": "\u062e\u062f\u0645\u0647 \u0627\u0631\u062a\u0634 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u067e\u0633 \u0627\u0632 \u06af\u0645 \u0634\u062f\u0646 \u0647\u0644\u06cc\u06a9\u0648\u067e\u062a\u0631 \u062f\u0631 \u062f\u0631\u06cc\u0627\u060c \u0628\u0647 \u0633\u0644\u0627\u0645\u062a \u0646\u062c\u0627\u062a \u06cc\u0627\u0641\u062a\u0646\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-09",
+      "id": "centcom:c99c69343ba60625",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512205",
+        "dateAccessed": "2026-06-09T18:16:12.252151Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/06/09/4512205_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4512205/",
+      "summary": null,
+      "title": "\u0625\u0646\u0642\u0627\u0630 \u0637\u0627\u0642\u0645 \u062a\u0627\u0628\u0639 \u0644\u0644\u062c\u064a\u0634 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0628\u0633\u0644\u0627\u0645 \u0628\u0639\u062f \u0633\u0642\u0648\u0637 \u0645\u0631\u0648\u062d\u064a\u062a\u0647\u0645 \u0641\u064a \u0627\u0644\u0628\u062d\u0631"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-09",
@@ -16,6 +64,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4511999/",
       "summary": null,
       "title": "\u05e6\u05d5\u05d5\u05ea \u05de\u05e1\u05d5\u05e7 \u05e9\u05dc \u05e6\u05d1\u05d0 \u05d0\u05e8\u05e6\u05d5\u05ea \u05d4\u05d1\u05e8\u05d9\u05ea \u05d7\u05d5\u05dc\u05e5 \u05d1\u05e9\u05dc\u05d5\u05dd \u05dc\u05d0\u05d7\u05e8 \u05e9\u05d4\u05de\u05e1\u05d5\u05e7 \u05d0\u05d1\u05d3 \u05d1\u05d9\u05dd"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-09",
+      "id": "centcom:3a6c8107f30a3cb7",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512197",
+        "dateAccessed": "2026-06-09T18:16:17.959760Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/06/09/4512197_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4512197/",
+      "summary": null,
+      "title": "\u042d\u043a\u0438\u043f\u0430\u0436 \u0432\u0435\u0440\u0442\u043e\u043b\u0435\u0442\u0430 \u0410\u0440\u043c\u0438\u0438 \u0421\u0428\u0410 \u0441\u043f\u0430\u0441\u0435\u043d \u043f\u043e\u0441\u043b\u0435 \u043f\u0430\u0434\u0435\u043d\u0438\u044f \u043c\u0430\u0448\u0438\u043d\u044b \u0432 \u043c\u043e\u0440\u0435"
     },
     {
       "category": "Public Releases",
@@ -36,6 +100,54 @@
     {
       "category": "Public Releases",
       "date": "2026-06-08",
+      "id": "centcom:f9e64fe6c53238ad",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512238",
+        "dateAccessed": "2026-06-09T18:16:33.579315Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/06/08/4512238_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4512238/",
+      "summary": null,
+      "title": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0641\u0648\u0627\u062c \u0646\u06d2 \u062e\u0644\u06cc\u062c\u0650 \u0639\u0645\u0627\u0646 \u0645\u06cc\u06ba \u0646\u0627\u06a9\u06c1 \u0628\u0646\u062f\u06cc \u06a9\u06cc \u062e\u0644\u0627\u0641 \u0648\u0631\u0632\u06cc \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0627\u06cc\u06a9 \u0628\u062d\u0631\u06cc \u062c\u06c1\u0627\u0632 \u06a9\u0648 \u0646\u0627\u06a9\u0627\u0631\u06c1 \u0628\u0646\u0627 \u062f\u06cc\u0627"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-08",
+      "id": "centcom:2f9c30e7af619558",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512269",
+        "dateAccessed": "2026-06-09T18:16:22.506165Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/06/08/4512269_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4512269/",
+      "summary": null,
+      "title": "\u05db\u05d5\u05d7\u05d5\u05ea \u05d0\u05e8\u05e6\u05d5\u05ea \u05d4\u05d1\u05e8\u05d9\u05ea \u05d4\u05e9\u05d1\u05d9\u05ea\u05d5 \u05de\u05db\u05dc\u05d9\u05ea \u05e0\u05e4\u05d8 \u05e9\u05e1\u05d9\u05e8\u05d1\u05d4 \u05dc\u05e6\u05d9\u05d9\u05ea \u05dc\u05d4\u05e0\u05d7\u05d9\u05d5\u05ea \u05d1\u05de\u05e4\u05e8\u05e5 \u05e2\u05d5\u05de\u05d0\u05df"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-08",
+      "id": "centcom:59283fc14e6c1863",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512265",
+        "dateAccessed": "2026-06-09T18:16:18.618164Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/06/08/4512265_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4512265/",
+      "summary": null,
+      "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u0432\u044b\u0432\u0435\u043b\u0438 \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u043d\u0430\u0440\u0443\u0448\u0438\u0432\u0448\u0438\u0439 \u0440\u0435\u0436\u0438\u043c \u0431\u043b\u043e\u043a\u0430\u0434\u044b \u043d\u0435\u0444\u0442\u044f\u043d\u043e\u0439 \u0442\u0430\u043d\u043a\u0435\u0440 \u0432 \u041e\u043c\u0430\u043d\u0441\u043a\u043e\u043c \u0437\u0430\u043b\u0438\u0432\u0435"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-08",
       "id": "centcom:b0d364a4a1b89110",
       "kind": "centcom_public_release",
       "metadata": {
@@ -48,6 +160,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4511257/us-forces-disable-non-compliant-oil-tanker-in-gulf-of-oman/",
       "summary": null,
       "title": "U.S. Forces Disable Non-Compliant Oil Tanker in Gulf of Oman"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-08",
+      "id": "centcom:f935bb8b9b2924fa",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512248",
+        "dateAccessed": "2026-06-09T18:16:26.896549Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/06/08/4512248_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4512248/",
+      "summary": null,
+      "title": ".\u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u06cc\u06a9 \u0646\u0641\u062a\u06a9\u0634 \u0645\u062a\u062e\u0644\u0641 \u0631\u0627 \u062f\u0631 \u062e\u0644\u06cc\u062c \u0639\u0645\u0627\u0646 \u0627\u0632 \u06a9\u0627\u0631 \u0627\u0646\u062f\u0627\u062e\u062a\u0646\u062f"
     },
     {
       "category": "Videos",
@@ -71,6 +199,22 @@
     {
       "category": "Public Releases",
       "date": "2026-06-05",
+      "id": "centcom:054ada5f66040679",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512282",
+        "dateAccessed": "2026-06-09T18:16:27.799420Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/06/05/4512282_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4512282/",
+      "summary": null,
+      "title": "\u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0633\u0646\u062a\u06a9\u0627\u0645 \u0645\u0648\u0634\u06a9\u200c\u0647\u0627 \u0648 \u067e\u0647\u067e\u0627\u062f\u0647\u0627\u06cc \u0634\u0644\u06cc\u06a9\u200c\u0634\u062f\u0647 \u062a\u0648\u0633\u0637 \u0627\u06cc\u0631\u0627\u0646 \u0631\u0627 \u0634\u06a9\u0633\u062a \u062f\u0627\u062f\u0646\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-05",
       "id": "centcom:74443011634582a5",
       "kind": "centcom_public_release",
       "metadata": {
@@ -83,6 +227,54 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4510670/",
       "summary": null,
       "title": "\u0642\u0648\u0627\u062a \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u062a\u0635\u062f\u0649 \u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0637\u0627\u0626\u0631\u0627\u062a \u0645\u064f\u0633\u064a\u0651\u0631\u0629 \u0623\u0637\u0644\u0642\u062a\u0647\u0627 \u0625\u064a\u0631\u0627\u0646"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-05",
+      "id": "centcom:ebc7c908f193729c",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512276",
+        "dateAccessed": "2026-06-09T18:16:34.422400Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/06/05/4512276_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4512276/",
+      "summary": null,
+      "title": "\u0633\u06cc\u0646\u0679 \u06a9\u0627\u0645 \u0641\u0648\u0631\u0633\u0632 \u0646\u06d2 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0645\u06cc\u0632\u0627\u0626\u0644 \u0627\u0648\u0631 \u0688\u0631\u0648\u0646 \u062d\u0645\u0644\u06d2 \u0646\u0627\u06a9\u0627\u0645 \u0628\u0646\u0627 \u062f\u06cc\u06d2"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-05",
+      "id": "centcom:507812a59cb301bf",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512286",
+        "dateAccessed": "2026-06-09T18:16:23.470145Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/06/05/4512286_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4512286/",
+      "summary": null,
+      "title": "\u05db\u05d5\u05d7\u05d5\u05ea \u05e1\u05e0\u05d8\u05e7\u05d5\u05dd \u05e1\u05d9\u05db\u05dc\u05d5 \u05de\u05ea\u05e7\u05e4\u05ea \u05d8\u05d9\u05dc\u05d9\u05dd \u05d5\u05db\u05d8\u05d1\u05f4\u05de\u05d9\u05dd \u05d0\u05d9\u05e8\u05d0\u05e0\u05d9\u05ea"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-05",
+      "id": "centcom:a61cf1cecf2b5929",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512292",
+        "dateAccessed": "2026-06-09T18:16:19.461541Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/06/05/4512292_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4512292/",
+      "summary": null,
+      "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0426\u0415\u041d\u0422\u041a\u041e\u041c \u043f\u0435\u0440\u0435\u0445\u0432\u0430\u0442\u0438\u043b\u0438 \u0440\u0430\u043a\u0435\u0442\u044b \u0438 \u0431\u0435\u0441\u043f\u0438\u043b\u043e\u0442\u043d\u0438\u043a\u0438, \u0437\u0430\u043f\u0443\u0449\u0435\u043d\u043d\u044b\u0435 \u0418\u0440\u0430\u043d\u043e\u043c"
     },
     {
       "category": "Public Releases",
@@ -215,6 +407,38 @@
     {
       "category": "Public Releases",
       "date": "2026-06-02",
+      "id": "centcom:fc269c184d74c98a",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512216",
+        "dateAccessed": "2026-06-09T18:16:13.278980Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/06/02/4512216_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4512216/",
+      "summary": null,
+      "title": "\u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u064f\u0639\u0637\u0651\u0644 \u0633\u0641\u064a\u0646\u0629 \u063a\u064a\u0631 \u0645\u0645\u062a\u062b\u0644\u0629 \u0641\u064a \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-02",
+      "id": "centcom:78f3266b14538cfb",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512211",
+        "dateAccessed": "2026-06-09T18:16:13.844012Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/06/02/4512211_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4512211/",
+      "summary": null,
+      "title": "\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0648\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0634\u0631\u064a\u0643\u0629 \u062a\u062a\u0635\u062f\u0649 \u0644\u0644\u0633\u0644\u0648\u0643 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a \u0627\u0644\u0639\u062f\u0648\u0627\u0646\u064a"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-02",
       "id": "centcom:51f7b095b01e16f8",
       "kind": "centcom_public_release",
       "metadata": {
@@ -326,6 +550,54 @@
       "sourceUrl": "https://www.dvidshub.net/video/1008989/centcom-disables-non-compliant-vessel-arabian-gulf",
       "summary": "U.S. Central Command (CENTCOM) enforced blockade measures against Botswana-flagged M/T Lexie as it transited international waters toward Kharg Island. The ship\u2019s crew ignored repeated warnings, failing to comply with directions from U.S. forces multiple times over a 24-hour perio",
       "title": "CENTCOM Disables Non-Compliant Vessel in Arabian Gulf"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-01",
+      "id": "centcom:6298c5d52ecd485a",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512319",
+        "dateAccessed": "2026-06-09T18:16:28.377301Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/06/01/4512319_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4512319/",
+      "summary": null,
+      "title": "\u0633\u06cc\u200c\u0627\u0645\u06cc\u0646 \u0631\u0632\u0645\u0627\u06cc\u0634 \u0647\u0645\u06a9\u0627\u0631\u06cc \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0633\u0646\u062a\u06a9\u0627\u0645 \u0628\u0631\u06af\u0632\u0627\u0631 \u0634\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-01",
+      "id": "centcom:3c05a0362c065e4a",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512317",
+        "dateAccessed": "2026-06-09T18:16:35.235878Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/06/01/4512317_30.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4512317/30/",
+      "summary": null,
+      "title": "\u0633\u06cc\u0646\u0679\u06a9\u0627\u0645 \u0646\u06d2 30\u0648\u06cc\u06ba \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u062a\u0639\u0627\u0648\u0646 \u0645\u0634\u0642 \u06a9\u06cc \u0645\u06cc\u0632\u0628\u0627\u0646\u06cc \u06a9\u06cc"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-01",
+      "id": "centcom:03ca77cd2089021d",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512230",
+        "dateAccessed": "2026-06-09T18:16:14.650402Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/06/01/4512230_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4512230/",
+      "summary": null,
+      "title": "\u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u0633\u062a\u0636\u064a\u0641 \u0627\u0644\u062f\u0648\u0631\u0629 \u0627\u0644\u062b\u0644\u0627\u062b\u064a\u0646 \u0645\u0646 \u0645\u0646\u0627\u0648\u0631\u0627\u062a \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a"
     },
     {
       "category": "Public Releases",
@@ -1540,6 +1812,22 @@
     {
       "category": "Public Releases",
       "date": "2026-04-19",
+      "id": "centcom:4e944275acc7587e",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512314",
+        "dateAccessed": "2026-06-09T18:16:29.499879Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/04/19/4512314_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4512314/",
+      "summary": null,
+      "title": "\u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u06a9\u0634\u062a\u06cc\u200c\u0627\u06cc \u0631\u0627 \u06a9\u0647 \u0642\u0635\u062f \u0648\u0631\u0648\u062f \u0628\u0647 \u0628\u0646\u062f\u0631 \u0627\u06cc\u0631\u0627\u0646 \u0631\u0627 \u062f\u0627\u0634\u062a \u0648 \u0645\u062d\u0627\u0635\u0631\u0647 \u0631\u0627 \u0646\u0642\u0636 \u06a9\u0631\u062f\u0647 \u0628\u0648\u062f \u063a\u06cc\u0631\u0641\u0639\u0627\u0644 \u06a9\u0631\u062f\u0646\u062f."
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-04-19",
       "id": "centcom:79622ba9cc093e7a",
       "kind": "centcom_public_release",
       "metadata": {
@@ -1747,6 +2035,22 @@
     {
       "category": "Public Releases",
       "date": "2026-04-12",
+      "id": "centcom:c837021adc4b4f50",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512310",
+        "dateAccessed": "2026-06-09T18:16:30.198684Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/04/12/4512310_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4512310/",
+      "summary": null,
+      "title": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u06a9\u0634\u062a\u06cc\u200c\u0647\u0627\u06cc\u06cc \u0631\u0627 \u06a9\u0647 \u0648\u0627\u0631\u062f \u06cc\u0627 \u0627\u0632 \u0628\u0646\u0627\u062f\u0631 \u0627\u06cc\u0631\u0627\u0646 \u062e\u0627\u0631\u062c \u0645\u06cc\u200c\u0634\u0648\u0646\u062f\u060c \u0645\u0633\u062f\u0648\u062f \u0645\u06cc\u200c\u06a9\u0646\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-04-12",
       "id": "centcom:25db9af45999c986",
       "kind": "centcom_public_release",
       "metadata": {
@@ -1791,6 +2095,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4457255/us-to-blockade-ships-entering-or-exiting-iranian-ports/",
       "summary": null,
       "title": "U.S. to Blockade Ships Entering or Exiting Iranian Ports"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-04-11",
+      "id": "centcom:e3e63b0a2904e142",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4512305",
+        "dateAccessed": "2026-06-09T18:16:30.914463Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/04/11/4512305_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4512305/",
+      "summary": null,
+      "title": "\u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0645\u0627\u0645\u0648\u0631\u06cc\u062a \u067e\u0627\u06a9\u0633\u0627\u0632\u06cc \u0645\u06cc\u0646 \u062f\u0631 \u062a\u0646\u06af\u0647 \u0647\u0631\u0645\u0632 \u0631\u0627 \u0622\u063a\u0627\u0632 \u06a9\u0631\u062f\u0646\u062f"
     },
     {
       "category": "Public Releases",
