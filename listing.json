@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-06-10T12:23:43.721598+00:00",
+  "generatedAt": "2026-06-10T16:36:59.505094+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-06-10",
+      "id": "centcom:0d8a294e5f838a31",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-10T16:36:58.823020Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111763850/DOD_111763850-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010233",
+        "remotePath": "archive/centcom/DOD_111763850-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111763850-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010233/DOD_111763850.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/10/1010233/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010233/centcom-disables-non-compliant-vessel-gulf-oman",
+      "summary": "U.S. Central Command (CENTCOM) disables Palau-flagged M/T Settebello as it transits the Gulf of Oman, June 9, 2026. (U.S. Central Command Video)",
+      "title": "CENTCOM Disables Non-Compliant Vessel in Gulf of Oman"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-09",
@@ -32,6 +51,38 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4512202/",
       "summary": null,
       "title": "\u062e\u062f\u0645\u0647 \u0627\u0631\u062a\u0634 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u067e\u0633 \u0627\u0632 \u06af\u0645 \u0634\u062f\u0646 \u0647\u0644\u06cc\u06a9\u0648\u067e\u062a\u0631 \u062f\u0631 \u062f\u0631\u06cc\u0627\u060c \u0628\u0647 \u0633\u0644\u0627\u0645\u062a \u0646\u062c\u0627\u062a \u06cc\u0627\u0641\u062a\u0646\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-09",
+      "id": "centcom:eaf862f7725c711a",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4513209",
+        "dateAccessed": "2026-06-10T16:36:40.608251Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/06/09/4513209_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4513209/",
+      "summary": null,
+      "title": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u062f\u0631 \u067e\u0627\u0633\u062e \u0628\u0647 \u062d\u0645\u0644\u0647 \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u0622\u067e\u0627\u0686\u06cc \u062d\u0645\u0644\u0627\u062a \u062e\u0648\u062f \u0631\u0627 \u062a\u06a9\u0645\u06cc\u0644 \u06a9\u0631\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-09",
+      "id": "centcom:535c1e51c85482e6",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4513071",
+        "dateAccessed": "2026-06-10T16:36:46.217295Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/06/09/4513071_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4513071/",
+      "summary": null,
+      "title": "\u0627\u0645\u0631\u06cc\u06a9\u0627 \u0646\u06d2 \u0627\u067e\u0627\u0686\u06cc \u06c1\u06cc\u0644\u06cc \u06a9\u0627\u067e\u0679\u0631 \u06a9\u0648 \u06af\u0631\u0627\u0626\u06d2 \u062c\u0627\u0646\u06d2 \u06a9\u06d2 \u0631\u062f\u0639\u0645\u0644 \u0645\u06cc\u06ba \u0627\u06cc\u0631\u0627\u0646 \u06a9\u06d2 \u062e\u0644\u0627\u0641 \u0634\u0631\u0648\u0639 \u06a9\u06cc\u06d2 \u06af\u0626\u06d2 \u062d\u0645\u0644\u0648\u06ba \u06a9\u0627 \u0633\u0644\u0633\u0644\u06c1 \u0645\u06a9\u0645\u0644 \u06a9\u0631 \u0644\u06cc\u0627 \u06c1\u06d2\u06d4"
     },
     {
       "category": "Public Releases",
