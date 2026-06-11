@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-06-11T00:18:46.458179+00:00",
+  "generatedAt": "2026-06-11T05:51:11.676210+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:18e9039a026cfb69",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T05:51:11.017602Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111765385/DOD_111765385-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010357",
+        "remotePath": "archive/centcom/DOD_111765385-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111765385-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010357/DOD_111765385.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1010357/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010357/us-forces-complete-latest-strikes-iran",
+      "summary": "USS Michael Murphy (DDG 112) launches Tomahawk cruise missiles in support of self-defense strikes against Iran, June 10, 2026. (U.S. Navy Video)",
+      "title": "U.S. Forces Complete Latest Strikes in Iran"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-10",
@@ -64,6 +83,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4513545/",
       "summary": null,
       "title": "\u0412 \u041e\u043c\u0430\u043d\u0441\u043a\u043e\u043c \u0437\u0430\u043b\u0438\u0432\u0435 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0432\u044b\u0432\u0435\u043b\u043e \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u0441\u0443\u0434\u043d\u043e, \u043d\u0435 \u043f\u043e\u0434\u0447\u0438\u043d\u0438\u0432\u0448\u0435\u0435\u0441\u044f \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f\u043c."
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-10",
+      "id": "centcom:e654518ff3e9ea93",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514154",
+        "dateAccessed": "2026-06-11T05:50:53.957593Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/10/4514154_U_S_Forces_Complete_Latest_Strikes_in_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4514154/us-forces-complete-latest-strikes-in-iran/",
+      "summary": null,
+      "title": "U.S. Forces Complete Latest Strikes in Iran"
     },
     {
       "category": "Videos",
