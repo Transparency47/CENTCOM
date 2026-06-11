@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-06-11T10:41:13.963428+00:00",
+  "generatedAt": "2026-06-11T14:40:31.367882+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-11",
+      "id": "centcom:ff369b4251d966e9",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514268",
+        "dateAccessed": "2026-06-11T14:40:09.210382Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/11/4514268_U_S_Forces_Disable_3rd_Oil_Tanker_Violating_Blockade_in_Gulf_of_Oman.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4514268/us-forces-disable-3rd-oil-tanker-violating-blockade-in-gulf-of-oman/",
+      "summary": null,
+      "title": "U.S. Forces Disable 3rd Oil Tanker Violating Blockade in Gulf of Oman"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:83d3908b7510d69a",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T14:40:28.172844Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111766255/DOD_111766255-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010393",
+        "remotePath": "archive/centcom/DOD_111766255-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111766255-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010393/DOD_111766255.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1010393/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010393/us-forces-disable-3rd-oil-tanker-violating-blockade-gulf-oman",
+      "summary": "U.S. Central Command (CENTCOM) disables Guinea-Bissau flagged M/T Jalveer as it attempts to transport oil from Iran through the Gulf of Oman, June 10, 2026. (U.S. Central Command Video)",
+      "title": "U.S. Forces Disable 3rd Oil Tanker Violating Blockade in Gulf of Oman"
+    },
     {
       "category": "Videos",
       "date": "2026-06-11",
@@ -118,6 +153,25 @@
       "sourceUrl": "https://www.dvidshub.net/video/1008910/regional-cooperation-2026-obstacle-course",
       "summary": "Soldiers from eight partner nations completed the obstacle course at Fort Harrison, Mont. during exercise Regional Cooperation 26. Regional Cooperation 2026 is an annual, multinational U.S. Central Command-sponsored command-post, field training and cyber defense exercise conducte",
       "title": "Regional Cooperation 2026 Obstacle Course"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-10",
+      "id": "centcom:d1d9f95c524bb1a5",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T14:40:30.649704Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111754888/DOD_111754888-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1009705",
+        "remotePath": "archive/centcom/DOD_111754888-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111754888-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1009705/DOD_111754888.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/10/1009705/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1009705/exercise-regional-cooperation-26-unmanned-aircraft-system-familiarization",
+      "summary": "U.S. Soldiers demonstrate the capabilities of unmanned aerial systems as U.S. National Guardsmen along with Central and South Asian partners observe during exercise Regional Cooperation 26 at Fort Harrison, Montana, June 6, 2026. Regional Cooperation 26 is an annual, multi-nation",
+      "title": "Exercise Regional Cooperation 26 Unmanned Aircraft System Familiarization"
     },
     {
       "category": "Videos",

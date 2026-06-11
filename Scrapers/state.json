@@ -1332,6 +1332,12 @@
       "path": "Public Releases/English/2026/06/10/4514154_U_S_Forces_Complete_Latest_Strikes_in_Iran.md",
       "title": "U.S. Forces Complete Latest Strikes in Iran"
     },
+    "releases:English:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4514268/us-forces-disable-3rd-oil-tanker-violating-blockade-in-gulf-of-oman/": {
+      "dateAccessed": "2026-06-11T14:40:09.210382Z",
+      "datePublished": "2026-06-11T00:00:00Z",
+      "path": "Public Releases/English/2026/06/11/4514268_U_S_Forces_Disable_3rd_Oil_Tanker_Violating_Blockade_in_Gulf_of_Oman.md",
+      "title": "U.S. Forces Disable 3rd Oil Tanker Violating Blockade in Gulf of Oman"
+    },
     "releases:Farsi:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4322267/": {
       "dateAccessed": "2026-06-02T21:53:55.513443Z",
       "datePublished": "2025-10-07T00:00:00Z",
@@ -3321,6 +3327,13 @@
       "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111754055-1920x1080-6000k.mp4",
       "title": "Exercise Regional Cooperation 2026 Multinational Training"
     },
+    "1009705": {
+      "datePublished": "2026-06-10T23:50:03Z",
+      "path": "Videos/2026/06/10/1009705/README.md",
+      "remotePath": "archive/centcom/DOD_111754888-1920x1080-6000k.mp4",
+      "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111754888-1920x1080-6000k.mp4",
+      "title": "Exercise Regional Cooperation 26 Unmanned Aircraft System Familiarization"
+    },
     "1010233": {
       "datePublished": "2026-06-10T16:20:35Z",
       "path": "Videos/2026/06/10/1010233/README.md",
@@ -3334,6 +3347,13 @@
       "remotePath": "archive/centcom/DOD_111765385-1920x1080-6000k.mp4",
       "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111765385-1920x1080-6000k.mp4",
       "title": "U.S. Forces Complete Latest Strikes in Iran"
+    },
+    "1010393": {
+      "datePublished": "2026-06-11T11:33:34Z",
+      "path": "Videos/2026/06/11/1010393/README.md",
+      "remotePath": "archive/centcom/DOD_111766255-1920x1080-6000k.mp4",
+      "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111766255-1920x1080-6000k.mp4",
+      "title": "U.S. Forces Disable 3rd Oil Tanker Violating Blockade in Gulf of Oman"
     },
     "952789": {
       "datePublished": "2025-02-18T21:07:27Z",
