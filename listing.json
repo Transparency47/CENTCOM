@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T18:18:16.193518+00:00",
+  "generatedAt": "2026-06-11T23:25:39.425410+00:00",
   "records": [
     {
       "category": "Public Releases",
@@ -292,6 +292,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1010060/delbert-d-black-conducts-operations-middle-east",
       "summary": "U.S. Sailors, assigned to Arleigh Burke-class guided-missile destroyer USS Delbert D. Black (DDG 119), stand a bridge watch, June 9, 2026. Delbert D. Black is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Na",
       "title": "Delbert D. Black Conducts Operations in the Middle East"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-11",
+      "id": "centcom:fd6f819ab06790b0",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4515040",
+        "dateAccessed": "2026-06-11T23:25:17.781908Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/11/4515040_CENTCOM_to_Conclude_30th_Regional_Cooperation_Exercise.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4515040/centcom-to-conclude-30th-regional-cooperation-exercise/",
+      "summary": null,
+      "title": "CENTCOM to Conclude 30th Regional Cooperation Exercise"
     },
     {
       "category": "Videos",
