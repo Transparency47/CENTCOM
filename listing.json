@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T22:05:25.655455+00:00",
+  "generatedAt": "2026-06-11T00:18:46.458179+00:00",
   "records": [
     {
       "category": "Public Releases",
@@ -64,6 +64,44 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4513545/",
       "summary": null,
       "title": "\u0412 \u041e\u043c\u0430\u043d\u0441\u043a\u043e\u043c \u0437\u0430\u043b\u0438\u0432\u0435 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0432\u044b\u0432\u0435\u043b\u043e \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u0441\u0443\u0434\u043d\u043e, \u043d\u0435 \u043f\u043e\u0434\u0447\u0438\u043d\u0438\u0432\u0448\u0435\u0435\u0441\u044f \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f\u043c."
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-10",
+      "id": "centcom:b94dfa4884d5aea1",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T00:18:45.791652Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111742292/DOD_111742292-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1008910",
+        "remotePath": "archive/centcom/DOD_111742292-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111742292-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1008910/DOD_111742292.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/10/1008910/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1008910/regional-cooperation-2026-obstacle-course",
+      "summary": "Soldiers from eight partner nations completed the obstacle course at Fort Harrison, Mont. during exercise Regional Cooperation 26. Regional Cooperation 2026 is an annual, multinational U.S. Central Command-sponsored command-post, field training and cyber defense exercise conducte",
+      "title": "Regional Cooperation 2026 Obstacle Course"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-10",
+      "id": "centcom:b088f3059da19130",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T00:18:43.993860Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111754055/DOD_111754055-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1009669",
+        "remotePath": "archive/centcom/DOD_111754055-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111754055-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1009669/DOD_111754055.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/10/1009669/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1009669/exercise-regional-cooperation-2026-multinational-training",
+      "summary": "U.S. forces conducts a joint exercise, including land navigation, unmanned aerial systems, command post exercise, patrolling and combatives during exercise Regional Cooperation 25, at Fort Harrison, Helena, Mt, June 6, 2026. Regional Cooperation 2026 is an annual, multinational U",
+      "title": "Exercise Regional Cooperation 2026 Multinational Training"
     },
     {
       "category": "Public Releases",
