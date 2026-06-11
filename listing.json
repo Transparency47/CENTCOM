@@ -1,6 +1,187 @@
 {
-  "generatedAt": "2026-06-11T14:40:31.367882+00:00",
+  "generatedAt": "2026-06-11T18:18:16.193518+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-11",
+      "id": "centcom:518e0bed015e9aff",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514389",
+        "dateAccessed": "2026-06-11T18:17:02.368059Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/06/11/4514389_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4514389/",
+      "summary": null,
+      "title": "\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u064f\u0639\u0637\u0651\u0644 \u0646\u0627\u0642\u0644\u0629 \u0646\u0641\u0637 \u062b\u0627\u0644\u062b\u0629 \u062e\u0627\u0644\u0641\u062a \u0627\u0644\u062d\u0635\u0627\u0631 \u0641\u064a \u062e\u0644\u064a\u062c \u0639\u064f\u0645\u0627\u0646"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-11",
+      "id": "centcom:1da1ef1744606e11",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514597",
+        "dateAccessed": "2026-06-11T18:17:09.140395Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/06/11/4514597_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4514597/",
+      "summary": null,
+      "title": "\u05db\u05d5\u05d7\u05d5\u05ea \u05d0\u05e8\u05e6\u05d5\u05ea \u05d4\u05d1\u05e8\u05d9\u05ea \u05d4\u05e9\u05d1\u05d9\u05ea\u05d5 \u05de\u05db\u05dc\u05d9\u05ea \u05e0\u05e4\u05d8 \u05e9\u05dc\u05d9\u05e9\u05d9\u05ea \u05e9\u05d4\u05e4\u05e8\u05d4 \u05d0\u05ea \u05d4\u05de\u05e6\u05d5\u05e8 \u05d1\u05de\u05e4\u05e8\u05e5 \u05e2\u05d5\u05de\u05d0\u05df"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-11",
+      "id": "centcom:40a74b2afba1d1dd",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514367",
+        "dateAccessed": "2026-06-11T18:17:06.497183Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/06/11/4514367_o.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4514367/o/",
+      "summary": null,
+      "title": "\u0412o\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u0432\u044b\u0432\u0435\u043b\u0438 \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u0442\u0440\u0435\u0442\u0438\u0439 \u043d\u0435\u0444\u0442\u044f\u043d\u043e\u0439 \u0442\u0430\u043d\u043a\u0435\u0440, \u043d\u0430\u0440\u0443\u0448\u0438\u0432\u0448\u0438\u0439 \u0431\u043b\u043e\u043a\u0430\u0434\u0443 \u0432 \u041e\u043c\u0430\u043d\u0441\u043a\u043e\u043c \u0437\u0430\u043b\u0438\u0432\u0435"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:77145236a417bf93",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:18:13.118573Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111730594/DOD_111730594-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1008342",
+        "remotePath": "archive/centcom/DOD_111730594-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111730594-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1008342/DOD_111730594.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1008342/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1008342/uss-tripoli-rappel-training",
+      "summary": "U.S. Sailors and Marines conduct rappel training with an MH-60S Sea Hawk helicopter, attached to Helicopter Sea Combat Squadron (HSC) 25, on the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7), May 8, 2026. Tripoli is deployed to the U.S. 5th Fleet area o",
+      "title": "USS Tripoli Rappel Training"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:1d29996dcbcb314e",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:18:00.711261Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111745103/DOD_111745103-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1009098",
+        "remotePath": "archive/centcom/DOD_111745103-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111745103-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1009098/DOD_111745103.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1009098/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1009098/uss-tripoli-lookout-watchstanding",
+      "summary": "U.S. Sailors stand lookout watch aboard America-class amphibious assault ship USS Tripoli (LHA 7), June 2, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+      "title": "USS Tripoli Lookout Watchstanding"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:2f783f1933d63242",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:18:15.519862Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111741998/DOD_111741998-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1008893",
+        "remotePath": "archive/centcom/DOD_111741998-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111741998-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1008893/DOD_111741998.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1008893/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1008893/uss-tripoli-flight-operations",
+      "summary": "A CH-53 Super Stallion, attached to Marine Medium Tiltrotor Squadron (VMM) 265, takes off from the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7), April 23, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security a",
+      "title": "USS Tripoli Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:b3cd7d1725c02b65",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:17:51.918115Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111748436/DOD_111748436-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1009327",
+        "remotePath": "archive/centcom/DOD_111748436-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111748436-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1009327/DOD_111748436.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1009327/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1009327/uss-rafael-peralta-watchstanding-combat-information-center",
+      "summary": "A U.S. Sailor stands watch in the combat information center of Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG 115) as it patrols the Arabian Sea enforcing a maritime blockade against ships entering or exiting Iranian ports, June 3, 2026. Rafael Peralta is de",
+      "title": "USS Rafael Peralta Watchstanding in the Combat Information Center"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:37bb211946f39c2a",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:17:47.303833Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111765222/DOD_111765222-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010346",
+        "remotePath": "archive/centcom/DOD_111765222-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111765222-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010346/DOD_111765222.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1010346/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010346/uss-rafael-peralta-patrols-during-blockade",
+      "summary": "U.S. Sailors operating an MH-60R Sea Hawk, assigned to Helicopter Maritime Strike Squadron (HSM) 51, deployed from Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG 115) conduct an aerial patrol during the U.S. blockade against ships entering or exiting Iranian",
+      "title": "USS Rafael Peralta Patrols during Blockade"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:b06985e51ee71b7a",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:17:54.544088Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111744954/DOD_111744954-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1009085",
+        "remotePath": "archive/centcom/DOD_111744954-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111744954-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1009085/DOD_111744954.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1009085/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1009085/uss-rafael-peralta-enforces-blockade",
+      "summary": "U.S. Sailors stand watch in the bridge of Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG 115) as it patrols the Arabian Sea enforcing a maritime blockade against ships entering or exiting Iranian ports, June 2, 2026. Rafael Peralta is deployed to the U.S. 5t",
+      "title": "USS Rafael Peralta Enforces Blockade"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:7f58bfafd2eac254",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:17:44.486432Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111760604/DOD_111760604-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010042",
+        "remotePath": "archive/centcom/DOD_111760604-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111760604-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010042/DOD_111760604.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1010042/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010042/uss-miguel-keith-conducts-flight-operations",
+      "summary": "U.S. Sailors conduct flight operations with two V-22 Ospreys and a MH-53E Sea Dragon assigned to America-class amphibious assault ship USS Tripoli (LHA-7) aboard Lewis B. Puller-class expeditionary sea base USS Miguel Keith (ESB 5), June 8, 2026.",
+      "title": "USS Miguel Keith Conducts Flight Operations"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-11",
@@ -56,6 +237,82 @@
       "title": "U.S. Forces Complete Latest Strikes in Iran"
     },
     {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:005113f0bcc01a5c",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:17:57.343886Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111745156/DOD_111745156-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1009103",
+        "remotePath": "archive/centcom/DOD_111745156-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111745156-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1009103/DOD_111745156.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1009103/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1009103/miguel-keith-executes-vertical-replenishment-sea",
+      "summary": "U.S. Sailors execute vertical replenishment at sea with MH-60S Seahawk assigned to Supply-class fast combat support ship USNS Arctic (T-AOE 8) aboard Lewis B. Puller-class expeditionary sea base USS Miguel Keith (ESB 5), June 2, 2026. Miguel Keith is deployed to the U.S. 5th Flee",
+      "title": "Miguel Keith Executes Vertical Replenishment at Sea"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:99878561de5dfce8",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:17:50.656958Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111748481/DOD_111748481-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1009331",
+        "remotePath": "archive/centcom/DOD_111748481-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111748481-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1009331/DOD_111748481.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1009331/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1009331/delbert-d-black-sailors-stand-watch",
+      "summary": "U.S. Sailors, assigned to Arleigh Burke-class guided-missile destroyer USS Delbert D. Black (DDG 119), stand a bridge watch, June 4, 2026. Delbert D. Black is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Na",
+      "title": "Delbert D. Black Sailors Stand Watch"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:e7a02f128b518700",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:17:36.103274Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111760931/DOD_111760931-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010060",
+        "remotePath": "archive/centcom/DOD_111760931-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111760931-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010060/DOD_111760931.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1010060/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010060/delbert-d-black-conducts-operations-middle-east",
+      "summary": "U.S. Sailors, assigned to Arleigh Burke-class guided-missile destroyer USS Delbert D. Black (DDG 119), stand a bridge watch, June 9, 2026. Delbert D. Black is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Na",
+      "title": "Delbert D. Black Conducts Operations in the Middle East"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-11",
+      "id": "centcom:dbce8b61a5fcb08a",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-11T18:18:03.648105Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111718550/DOD_111718550-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1007667",
+        "remotePath": "archive/centcom/DOD_111718550-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111718550-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2605/1007667/DOD_111718550.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/11/1007667/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1007667/31st-meu-shotgun-shoot",
+      "summary": "U.S. Marines conduct an M500 shotgun live-fire exercise on the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7), May 12, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S.",
+      "title": "31st MEU Shotgun Shoot"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-06-10",
       "id": "centcom:04596dbf4a19aed6",
@@ -70,6 +327,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4513839/",
       "summary": null,
       "title": "\u0633\u06cc\u0646\u0679\u0631\u0644 \u06a9\u0645\u0627\u0646\u0688 \u0646\u06d2 \u062e\u0644\u06cc\u062c\u0650 \u0639\u0645\u0627\u0646 \u0645\u06cc\u06ba \u0627\u06cc\u06a9 \u0645\u062a\u062e\u0644\u0641 \u062c\u06c1\u0627\u0632 \u06a9\u0648 \u0646\u0627\u06a9\u0627\u0631\u06c1 \u0628\u0646\u0627 \u062f\u06cc\u0627\u06d4"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-10",
+      "id": "centcom:dc3003aa6b554f93",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514587",
+        "dateAccessed": "2026-06-11T18:17:13.779190Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/06/10/4514587_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4514587/",
+      "summary": null,
+      "title": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0641\u0648\u0627\u062c \u0646\u06d2 \u0627\u06cc\u0631\u0627\u0646 \u0645\u06cc\u06ba \u062a\u0627\u0632\u06c1 \u062a\u0631\u06cc\u0646 \u062d\u0645\u0644\u06d2 \u0645\u06a9\u0645\u0644 \u06a9\u0631 \u062f\u06cc\u06d2"
     },
     {
       "category": "Public Releases",
@@ -90,6 +363,22 @@
     {
       "category": "Public Releases",
       "date": "2026-06-10",
+      "id": "centcom:e30d5f4d2ba5bda5",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514405",
+        "dateAccessed": "2026-06-11T18:17:03.596486Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/06/10/4514405_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4514405/",
+      "summary": null,
+      "title": "\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u0633\u062a\u0643\u0645\u0644 \u0636\u0631\u0628\u0627\u062a\u0647\u0627 \u0627\u0644\u0627\u062e\u064a\u0631\u0629 \u0641\u064a \u0625\u064a\u0631\u0627\u0646"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-10",
       "id": "centcom:32e9bbe3b1cba016",
       "kind": "centcom_public_release",
       "metadata": {
@@ -102,6 +391,38 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4513499/",
       "summary": null,
       "title": "\u05e1\u05e0\u05d8\u05e7\u05d5\u05dd \u05d4\u05e9\u05d1\u05d9\u05ea \u05db\u05dc\u05d9 \u05e9\u05d9\u05d8 \u05e9\u05e1\u05d9\u05e8\u05d1 \u05dc\u05e6\u05d9\u05d9\u05ea \u05dc\u05d4\u05e0\u05d7\u05d9\u05d5\u05ea \u05d1\u05de\u05e4\u05e8\u05e5 \u05e2\u05d5\u05de\u05d0\u05df"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-10",
+      "id": "centcom:f022ebb95fae8794",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514329",
+        "dateAccessed": "2026-06-11T18:17:09.342416Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/06/10/4514329_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4514329/",
+      "summary": null,
+      "title": "\u05db\u05d5\u05d7\u05d5\u05ea \u05d0\u05e8\u05e6\u05d5\u05ea \u05d4\u05d1\u05e8\u05d9\u05ea \u05d4\u05e9\u05dc\u05d9\u05de\u05d5 \u05e1\u05d1\u05d1 \u05e0\u05d5\u05e1\u05e3 \u05e9\u05dc \u05ea\u05e7\u05d9\u05e4\u05d5\u05ea \u05d1\u05d0\u05d9\u05e8\u05d0\u05df"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-10",
+      "id": "centcom:a1884829916dfd44",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4514383",
+        "dateAccessed": "2026-06-11T18:17:06.696007Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/06/10/4514383_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4514383/",
+      "summary": null,
+      "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u044b\u0435 \u0443\u0434\u0430\u0440\u044b \u043f\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c \u0432 \u0418\u0440\u0430\u043d\u0435"
     },
     {
       "category": "Public Releases",
