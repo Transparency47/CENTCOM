@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-12T12:28:39.905911+00:00",
+  "generatedAt": "2026-06-12T16:21:44.109500+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-11",
+      "id": "centcom:9d8b34799a87bef1",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4515468",
+        "dateAccessed": "2026-06-12T16:21:35.870703Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/06/11/4515468_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4515468/",
+      "summary": null,
+      "title": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0641\u0648\u0627\u062c \u0646\u06d2 \u062e\u0644\u06cc\u062c\u0650 \u0639\u0645\u0627\u0646 \u0645\u06cc\u06ba \u0646\u0627\u06a9\u06c1 \u0628\u0646\u062f\u06cc \u06a9\u06cc \u062e\u0644\u0627\u0641 \u0648\u0631\u0632\u06cc \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u062a\u06cc\u0633\u0631\u06d2 \u0622\u0626\u0644 \u0679\u06cc\u0646\u06a9\u0631 \u06a9\u0648 \u0646\u0627\u06a9\u0627\u0631\u06c1 \u0628\u0646\u0627 \u062f\u06cc\u0627"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-11",
