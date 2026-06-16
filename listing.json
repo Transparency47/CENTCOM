@@ -1,6 +1,158 @@
 {
-  "generatedAt": "2026-06-16T10:10:39.469284+00:00",
+  "generatedAt": "2026-06-16T15:58:31.591520+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-06-16",
+      "id": "centcom:5e98cc0eb4677e29",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:58:23.832502Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111775219/DOD_111775219-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011011",
+        "remotePath": "archive/centcom/DOD_111775219-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111775219-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011011/DOD_111775219.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/16/1011011/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011011/uss-tripoli-flight-operations",
+      "summary": "F-35B Lighting II jets, attached to Marine Fighter Attack Squadron (VMFA) 121, land and taxi on the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7), June 11, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security a",
+      "title": "USS Tripoli Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-16",
+      "id": "centcom:c87201df99d8d6ad",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:58:16.072749Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111775367/DOD_111775367-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011020",
+        "remotePath": "archive/centcom/DOD_111775367-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111775367-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011020/DOD_111775367.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/16/1011020/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011020/uss-tripoli-flight-operations",
+      "summary": "F-35B Lighting II aircraft, attached to Marine Fighter Attack Squadron (VMFA) 121, take off from the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7), June 13, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security ",
+      "title": "USS Tripoli Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-16",
+      "id": "centcom:49762a938b410952",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:58:19.111341Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111775371/DOD_111775371-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011021",
+        "remotePath": "archive/centcom/DOD_111775371-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111775371-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011021/DOD_111775371.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/16/1011021/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011021/uss-tripoli-flight-operations",
+      "summary": "F-35B Lighting II aircraft, attached to Marine Fighter Attack Squadron (VMFA) 121, take off from the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7), June 13, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security ",
+      "title": "USS Tripoli Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-16",
+      "id": "centcom:70e2b53dbb1d17e4",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:58:30.851881Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111767196/DOD_111767196-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010449",
+        "remotePath": "archive/centcom/DOD_111767196-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111767196-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010449/DOD_111767196.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/16/1010449/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010449/uss-rafael-peralta-transits-arabian-sea",
+      "summary": "U.S. Sailors stand watch in the bridge of Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG 115) as it transits the Arabian Sea, June 10, 2026. Rafael Peralta is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the",
+      "title": "USS Rafael Peralta Transits Arabian Sea"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-16",
+      "id": "centcom:35bb22ea3577259a",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:58:25.075940Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111770086/DOD_111770086-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010676",
+        "remotePath": "archive/centcom/DOD_111770086-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111770086-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010676/DOD_111770086.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/16/1010676/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010676/uss-rafael-peralta-conducts-night-flight-operations",
+      "summary": "A U.S. Sailor signals during flight operations on the flight deck of Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG 115) as it transits the Arabian Sea, June 11, 2026. Rafael Peralta is deployed to the U.S. 5th Fleet area of operations to support maritime se",
+      "title": "USS Rafael Peralta Conducts Night Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-16",
+      "id": "centcom:7fbf7c1a903eb1a2",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:58:21.132930Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111775217/DOD_111775217-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011010",
+        "remotePath": "archive/centcom/DOD_111775217-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111775217-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011010/DOD_111775217.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/16/1011010/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011010/uss-delbert-d-black-ddg-119-conducts-replenishment-sea",
+      "summary": "U.S. Sailors, assigned to Arleigh Burke-class guided-missile destroyer USS Delbert D. Black (DDG 119), participate in a replenishment-at-sea with the Lewis and Clark-class dry cargo ship USNS Wally Schirra (T-AKE 8), June 13, 2026. Delbert D. Black is deployed to the U.S. 5th Fle",
+      "title": "USS Delbert D. Black (DDG 119) Conducts a Replenishment-at-Sea"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-16",
+      "id": "centcom:b94d97c970b87f60",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:58:11.854585Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111775339/DOD_111775339-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011018",
+        "remotePath": "archive/centcom/DOD_111775339-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111775339-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011018/DOD_111775339.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/16/1011018/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011018/milius-conducts-flight-operations",
+      "summary": "An MH-60S Sea Hawk lands on the flight deck of Arleigh Burke-class guided-missile destroyer USS Milius (DDG 69) during flight operations June 14, 2026. Milius is deployed to the U.S. 5th Fleet area of operation to support maritime security and stability in the Middle East. (U.S. ",
+      "title": "Milius Conducts Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-16",
+      "id": "centcom:ba7e9b1d1744a382",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-16T15:58:28.284320Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111767092/DOD_111767092-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1010440",
+        "remotePath": "archive/centcom/DOD_111767092-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111767092-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1010440/DOD_111767092.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/16/1010440/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1010440/delbert-d-black-conducts-flight-operations",
+      "summary": "U.S. Sailors, assigned to Helicopter Maritime Strike Squadron (HSM) 46, conduct flight quarters aboard Arleigh Burke-class guided-missile destroyer USS Delbert D. Black (DDG 119), June 11, 2026. Delbert D. Black is deployed to the U.S. 5th Fleet area of operations to support mari",
+      "title": "Delbert D. Black Conducts Flight Operations"
+    },
     {
       "category": "Videos",
       "date": "2026-06-12",
