@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-20T14:24:09.479199+00:00",
+  "generatedAt": "2026-06-20T16:21:20.083506+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-20",
+      "id": "centcom:4f034242cb70d642",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4522490",
+        "dateAccessed": "2026-06-20T16:21:03.206884Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/20/4522490_Commercial_Vessels_Flow_Through_Open_Strait_of_Hormuz.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4522490/commercial-vessels-flow-through-open-strait-of-hormuz/",
+      "summary": null,
+      "title": "Commercial Vessels Flow Through Open Strait of Hormuz"
+    },
     {
       "category": "Videos",
       "date": "2026-06-16",
