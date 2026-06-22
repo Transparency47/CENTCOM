@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-06-22T10:41:30.465313+00:00",
+  "generatedAt": "2026-06-22T15:54:46.783395+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-22",
+      "id": "centcom:f5e92999910b22b8",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4522621",
+        "dateAccessed": "2026-06-22T15:54:38.079037Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/06/22/4522621_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4522621/",
+      "summary": null,
+      "title": "\u0622\u0628\u0646\u0627\u0626\u06d2 \u06c1\u0631\u0645\u0632 \u06a9\u06be\u0644\u06cc\u2014\u062a\u062c\u0627\u0631\u062a\u06cc \u062c\u06c1\u0627\u0632\u0648\u06ba \u06a9\u06cc \u0622\u0645\u062f\u0648\u0631\u0641\u062a \u062c\u0627\u0631\u06cc"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-06-22",
+      "id": "centcom:83dd64ed8fc79b01",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4522617",
+        "dateAccessed": "2026-06-22T15:54:31.476655Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/06/22/4522617_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4522617/",
+      "summary": null,
+      "title": "\u041a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0443\u0434\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e\u0442 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0447\u0435\u0440\u0435\u0437 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u041e\u0440\u043c\u0443\u0437\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u043b\u0438\u0432"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-20",
