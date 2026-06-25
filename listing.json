@@ -1,6 +1,63 @@
 {
-  "generatedAt": "2026-06-25T13:22:09.243784+00:00",
+  "generatedAt": "2026-06-25T16:28:18.774687+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-06-25",
+      "id": "centcom:ab5aade311303931",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-25T16:28:18.063660Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111791644/DOD_111791644-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011917",
+        "remotePath": "archive/centcom/DOD_111791644-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111791644-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011917/DOD_111791644.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/25/1011917/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011917/uss-tripoli-flight-ops",
+      "summary": "U.S. Sailors and Marines conduct rotary aircraft flight operations aboard America-class amphibious assault ship USS Tripoli (LHA 7), June 16, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Na",
+      "title": "USS Tripoli Flight Ops"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-25",
+      "id": "centcom:29af81d5e1a85366",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-25T16:28:13.242911Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111791648/DOD_111791648-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011918",
+        "remotePath": "archive/centcom/DOD_111791648-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111791648-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011918/DOD_111791648.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/25/1011918/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011918/uss-tripoli-flight-ops",
+      "summary": "A UH-1Y Venom, attached to Marine Medium Tiltrotor Squadron (VMM) 265, lands on the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7), June 18, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in ",
+      "title": "USS Tripoli Flight Ops"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-25",
+      "id": "centcom:e9b2e1f938930277",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-25T16:28:16.006149Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111793229/DOD_111793229-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011985",
+        "remotePath": "archive/centcom/DOD_111793229-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111793229-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011985/DOD_111793229.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/25/1011985/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011985/uss-rafael-peralta-conducts-flight-operations",
+      "summary": "U.S. Sailor execute flight operations as an MH-60S Sea Hawk, assigned to Helicopter Sea Combat Squadron (HSC) 14, takes off from the flight deck of Arleigh Burke-class guided-missile destroyer USS Rafael Peralta (DDG 115) as it patrols the Arabian Sea, June 17, 2026. Rafael Peral",
+      "title": "USS Rafael Peralta Conducts Flight Operations"
+    },
     {
       "category": "Videos",
       "date": "2026-06-25",
@@ -76,6 +133,25 @@
       "sourceUrl": "https://www.dvidshub.net/video/1012246/frank-e-petersen-jr-conducts-helicopter-operations",
       "summary": "U.S. Sailors aboard Arleigh Burke-class guided-missile destroyer USS Frank E. Petersen Jr. (DDG 121) conduct helicopter operations, June 23, 2026. Frank E. Petersen Jr. is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle E",
       "title": "Frank E. Petersen Jr. Conducts Helicopter Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-25",
+      "id": "centcom:3535ba0c8f5354f5",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-25T16:28:10.252959Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111791630/DOD_111791630-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1011913",
+        "remotePath": "archive/centcom/DOD_111791630-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111791630-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1011913/DOD_111791630.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/25/1011913/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1011913/delbert-d-black-conducts-flight-operations",
+      "summary": "Arleigh Burke-class guided-missile destroyer USS Delbert D. Black (DDG 119), conducts a flight quarters evolution, June 19, 2026. Delbert D. Black is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+      "title": "Delbert D. Black Conducts Flight Operations"
     },
     {
       "category": "Public Releases",
