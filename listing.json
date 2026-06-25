@@ -1,6 +1,82 @@
 {
-  "generatedAt": "2026-06-25T10:45:14.205728+00:00",
+  "generatedAt": "2026-06-25T13:22:09.243784+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-06-25",
+      "id": "centcom:1ed65ca08f50631c",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-25T13:22:00.899407Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111796747/DOD_111796747-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1012169",
+        "remotePath": "archive/centcom/DOD_111796747-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111796747-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1012169/DOD_111796747.0000002/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/25/1012169/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1012169/uss-george-hw-bush-flight-operations",
+      "summary": "U.S. Sailors conduct flight operations aboard Nimitz-class aircraft carrier USS George H.W. Bush (CVN 77) while sailing in the Arabian Sea, June 22, 2026. George H.W. Bush is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middl",
+      "title": "USS George H.W. Bush Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-25",
+      "id": "centcom:9ce8f4648702016a",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-25T13:22:08.523816Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111796750/DOD_111796750-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1012170",
+        "remotePath": "archive/centcom/DOD_111796750-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111796750-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1012170/DOD_111796750.0000014/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/25/1012170/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1012170/george-hw-bush-strike-group-aerial-b-roll",
+      "summary": "The crew of an MH-60R Sea Hawk, attached to Helicopter Maritime Strike Squadron (HSM) 46, conducts flight operations with Nimitz-class aircraft carrier USS George H.W. Bush (CVN 77) while sailing in the Arabian Sea, June 16, 2026. George H.W. Bush is deployed to the U.S. 5th Flee",
+      "title": "George H.W. Bush Strike Group Aerial B-Roll"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-25",
+      "id": "centcom:ff9cd44b1ebb7aa0",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-25T13:22:03.311596Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111796702/DOD_111796702-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1012164",
+        "remotePath": "archive/centcom/DOD_111796702-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111796702-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1012164/DOD_111796702.0000003/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/25/1012164/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1012164/george-hw-bush-night-flight-operations",
+      "summary": "Nimitz-class aircraft carrier USS George H.W. Bush (CVN 77) conducts flight operations while sailing in the Arabian Sea, June 21, 2026. George H.W. Bush is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy ",
+      "title": "George H.W. Bush Night Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-06-25",
+      "id": "centcom:af7e28c96fcf20aa",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-06-25T13:21:58.718182Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111798585/DOD_111798585-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1012246",
+        "remotePath": "archive/centcom/DOD_111798585-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111798585-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2606/1012246/DOD_111798585.0000002/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/06/25/1012246/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1012246/frank-e-petersen-jr-conducts-helicopter-operations",
+      "summary": "U.S. Sailors aboard Arleigh Burke-class guided-missile destroyer USS Frank E. Petersen Jr. (DDG 121) conduct helicopter operations, June 23, 2026. Frank E. Petersen Jr. is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle E",
+      "title": "Frank E. Petersen Jr. Conducts Helicopter Operations"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-24",
