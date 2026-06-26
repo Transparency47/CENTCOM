@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-26T21:21:10.260267+00:00",
+  "generatedAt": "2026-06-26T23:09:25.819853+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-26",
+      "id": "centcom:3bf628a0da0ce31f",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4528341",
+        "dateAccessed": "2026-06-26T23:09:04.039776Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/26/4528341_U_S_Strikes_Iran_in_Response_to_Attack_on_Commercial_Vessel.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4528341/us-strikes-iran-in-response-to-attack-on-commercial-vessel/",
+      "summary": null,
+      "title": "U.S. Strikes Iran in Response to Attack on Commercial Vessel"
+    },
     {
       "category": "Videos",
       "date": "2026-06-25",
