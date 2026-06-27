@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-27T21:06:27.094903+00:00",
+  "generatedAt": "2026-06-27T23:04:38.499124+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-06-27",
+      "id": "centcom:f8e563d3fed0ebdf",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4528488",
+        "dateAccessed": "2026-06-27T23:04:16.916001Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/06/27/4528488_U_S_Forces_Conduct_Additional_Strikes_After_Irans_Latest_Commercial_Ship_Attack.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4528488/us-forces-conduct-additional-strikes-after-irans-latest-commercial-ship-attack/",
+      "summary": null,
+      "title": "U.S. Forces Conduct Additional Strikes After Iran\u2019s Latest Commercial Ship Attack"
+    },
     {
       "category": "Public Releases",
       "date": "2026-06-26",
