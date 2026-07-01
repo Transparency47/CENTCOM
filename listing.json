@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-07-01T15:44:15.251786+00:00",
+  "generatedAt": "2026-07-01T17:59:10.078697+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-07-01",
+      "id": "centcom:0361890524efbfa6",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4531625",
+        "dateAccessed": "2026-07-01T17:58:59.267332Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/07/01/4531625_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4531625/",
+      "summary": null,
+      "title": "\u0641\u0631\u0645\u0627\u0646\u062f\u0647\u06cc \u0645\u0631\u06a9\u0632\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 (\u0633\u0646\u062a\u06a9\u0627\u0645) \u06af\u0641\u062a\u06af\u0648\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc \u0645\u0646\u0637\u0642\u0647\u0627\u06cc \u0631\u0627 \u0628\u0627 \u06f1\u06f2 \u06a9\u0634\u0648\u0631 \u062f\u0631 \u0628\u062d\u0631\u06cc\u0646 \u0631\u0647\u0628\u0631\u06cc \u0645\u06cc\u06a9\u0646\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-01",
+      "id": "centcom:17a4706498bd2ae3",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4531666",
+        "dateAccessed": "2026-07-01T17:59:01.563764Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/07/01/4531666_12.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4531666/12/",
+      "summary": null,
+      "title": "\u0633\u06cc\u0646\u0679 \u06a9\u0627\u0645 \u0646\u06d2 \u0628\u062d\u0631\u06cc\u0646 \u0645\u06cc\u06ba 12 \u0645\u0645\u0627\u0644\u06a9 \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u0633\u06cc\u06a9\u06cc\u0648\u0631\u0679\u06cc \u0688\u0627\u0626\u06cc\u0644\u0627\u06af \u06a9\u06cc \u0642\u06cc\u0627\u062f\u062a \u06a9\u06cc"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-01",
+      "id": "centcom:70626e838dc8c253",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4531556",
+        "dateAccessed": "2026-07-01T17:58:56.415064Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/07/01/4531556_12.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4531556/12/",
+      "summary": null,
+      "title": "\u05e1\u05e0\u05d8\u05e7\u05d5\u05dd \u05de\u05d5\u05d1\u05d9\u05dc \u05d3\u05d9\u05d0\u05dc\u05d5\u05d2 \u05d1\u05d9\u05d8\u05d7\u05d5\u05e0\u05d9 \u05d0\u05d6\u05d5\u05e8\u05d9 \u05d1\u05d4\u05e9\u05ea\u05ea\u05e4\u05d5\u05ea 12 \u05de\u05d3\u05d9\u05e0\u05d5\u05ea \u05d1\u05d1\u05d7\u05e8\u05d9\u05d9\u05df"
+    },
     {
       "category": "Videos",
       "date": "2026-07-01",
@@ -38,6 +86,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1012947/uss-tripoli-sailors-stand-bridge-watch",
       "summary": "U.S. Sailors stand watch in the bridge of America-class amphibious assault ship USS Tripoli (LHA 7), June 28, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
       "title": "USS Tripoli Sailors Stand Bridge Watch"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-01",
+      "id": "centcom:9e3d07a62087542a",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4531502",
+        "dateAccessed": "2026-07-01T17:58:51.338441Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/01/4531502_CENTCOM_Leads_Regional_Security_Dialogue_with_12_Nations_in_Bahrain.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4531502/centcom-leads-regional-security-dialogue-with-12-nations-in-bahrain/",
+      "summary": null,
+      "title": "CENTCOM Leads Regional Security Dialogue with 12 Nations in Bahrain"
     },
     {
       "category": "Public Releases",
