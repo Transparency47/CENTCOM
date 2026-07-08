@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:07:38.180952+00:00",
+  "generatedAt": "2026-07-08T14:17:13.318631+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,38 @@
       "sourceUrl": "https://www.dvidshub.net/video/1013909/us-forces-complete-new-round-retaliatory-strikes-against-iran",
       "summary": "U.S. Central Command (CENTCOM) forces completed a new round of offensive strikes against Iran, July 7, hitting over 80 targets with precision munitions as an immediate response to Iran's latest attacks on commercial vessels transiting the Strait of Hormuz. (U.S. Central Command V",
       "title": "U.S. Forces Complete New Round of Retaliatory Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-07",
+      "id": "centcom:e3628bb544208b42",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4537687",
+        "dateAccessed": "2026-07-08T14:17:02.008336Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/07/07/4537687_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4537687/",
+      "summary": null,
+      "title": "\u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u062f\u0648\u0631 \u062c\u062f\u06cc\u062f\u06cc \u0627\u0632 \u062d\u0645\u0644\u0627\u062a \u062a\u0644\u0627\u0641\u06cc\u200c\u062c\u0648\u06cc\u0627\u0646\u0647 \u0639\u0644\u06cc\u0647 \u0627\u06cc\u0631\u0627\u0646 \u0631\u0627 \u062a\u06a9\u0645\u06cc\u0644 \u06a9\u0631\u062f\u0646\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-07",
+      "id": "centcom:bc5a2d9d593451e0",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4537650",
+        "dateAccessed": "2026-07-08T14:16:58.782679Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/07/07/4537650_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4537650/",
+      "summary": null,
+      "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u043d\u0430\u043d\u0435\u0441\u043b\u0438 \u043d\u043e\u0432\u0443\u044e \u0441\u0435\u0440\u0438\u044e \u043e\u0442\u0432\u0435\u0442\u043d\u044b\u0445 \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0418\u0440\u0430\u043d\u0443"
     },
     {
       "category": "Public Releases",
