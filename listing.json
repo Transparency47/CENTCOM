@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T12:07:37.434422+00:00",
+  "generatedAt": "2026-07-09T15:57:59.971312+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,38 @@
       "sourceUrl": "https://www.dvidshub.net/video/1014046/us-forces-complete-another-round-strikes-against-iran",
       "summary": "U.S. Central Command forces launch strikes against military targets within Iran, July 7-8, 2026. (U.S. Central Command Video)",
       "title": "U.S. Forces Complete Another Round of Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-08",
+      "id": "centcom:837e69d797bf84aa",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4538955",
+        "dateAccessed": "2026-07-09T15:57:53.097175Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/07/08/4538955_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4538955/",
+      "summary": null,
+      "title": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0641\u0648\u0627\u062c \u0646\u06d2 \u0627\u06cc\u0631\u0627\u0646 \u06a9\u06d2 \u062e\u0644\u0627\u0641 \u062d\u0645\u0644\u0648\u06ba \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u0633\u0644\u0633\u0644\u06c1 \u0645\u06a9\u0645\u0644 \u06a9\u0631 \u0644\u06cc\u0627"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-08",
+      "id": "centcom:3a44168e710a682b",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4538935",
+        "dateAccessed": "2026-07-09T15:57:49.026814Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/07/08/4538935_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4538935/",
+      "summary": null,
+      "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u043d\u0430\u043d\u0435\u0441\u043b\u0438 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u0443\u044e \u0441\u0435\u0440\u0438\u044e \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0418\u0440\u0430\u043d\u0443"
     },
     {
       "category": "Videos",
