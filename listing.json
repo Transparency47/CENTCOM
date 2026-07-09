@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-09T00:13:13.368014+00:00",
+  "generatedAt": "2026-07-09T04:55:42.312573+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-09",
+      "id": "centcom:23b7490f82d05a30",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-09T04:55:41.583318Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111828962/DOD_111828962-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1014046",
+        "remotePath": "archive/centcom/DOD_111828962-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111828962-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1014046/DOD_111828962.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/09/1014046/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1014046/us-forces-complete-another-round-strikes-against-iran",
+      "summary": "U.S. Central Command forces launch strikes against military targets within Iran, July 7-8, 2026. (U.S. Central Command Video)",
+      "title": "U.S. Forces Complete Another Round of Strikes Against Iran"
+    },
     {
       "category": "Videos",
       "date": "2026-07-08",
@@ -38,6 +57,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1013909/us-forces-complete-new-round-retaliatory-strikes-against-iran",
       "summary": "U.S. Central Command (CENTCOM) forces completed a new round of offensive strikes against Iran, July 7, hitting over 80 targets with precision munitions as an immediate response to Iran's latest attacks on commercial vessels transiting the Strait of Hormuz. (U.S. Central Command V",
       "title": "U.S. Forces Complete New Round of Retaliatory Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-08",
+      "id": "centcom:495d5b2be464c87f",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4538814",
+        "dateAccessed": "2026-07-09T04:55:20.613494Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/08/4538814_U_S_Forces_Complete_Another_Round_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4538814/us-forces-complete-another-round-of-strikes-against-iran/",
+      "summary": null,
+      "title": "U.S. Forces Complete Another Round of Strikes Against Iran"
     },
     {
       "category": "Public Releases",
