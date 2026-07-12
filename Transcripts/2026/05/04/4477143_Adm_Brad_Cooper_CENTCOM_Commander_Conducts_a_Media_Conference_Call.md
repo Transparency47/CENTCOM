@@ -1,6 +1,6 @@
-<!-- source: https://www.centcom.mil/MEDIA/Transcripts/Article/4477143/adm-brad-cooper-centcom-commander-conducts-a-media-conference-call/ -->
+<!-- source: https://www.centcom.mil/MEDIA/TRANSCRIPTS/Article/4477143/adm-brad-cooper-centcom-commander-conducts-a-media-conference-call/ -->
 <!-- date_published: 2026-05-04T00:00:00Z -->
-<!-- date_accessed: 2026-06-02T21:54:19.584190Z -->
+<!-- date_accessed: 2026-07-12T03:40:35.686780Z -->
 <!-- section: Transcripts -->
 <!-- language: English -->
 <!-- article_id: 4477143 -->
@@ -9,12 +9,12 @@
 
 ## Source Metadata
 
-- Source URL: https://www.centcom.mil/MEDIA/Transcripts/Article/4477143/adm-brad-cooper-centcom-commander-conducts-a-media-conference-call/
+- Source URL: https://www.centcom.mil/MEDIA/TRANSCRIPTS/Article/4477143/adm-brad-cooper-centcom-commander-conducts-a-media-conference-call/
 - Article ID: 4477143
 - Section: Transcripts
 - Language: English
 - Date published: 2026-05-04T00:00:00Z
-- Date accessed: 2026-06-02T21:54:19.584190Z
+- Date accessed: 2026-07-12T03:40:35.686780Z
 
 Admiral Cooper: Good afternoon, everybody. Admiral Brad Cooper here, commander of U.S. Central Command. Thanks for joining me to discuss the U.S. military support to Project Freedom. But let me first start by providing a general frame. Today, the U.S. military is taking two separate actions in two different bodies of water. First, as many of you have already covered, we're enforcing the blockade in the Gulf of Oman. There is no commerce going into and out of Iran and we will be sustaining this effort. Second, we've now opened a passage through the Strait of Hormuz to allow for the free flow of commerce to proceed. As the President announced yesterday, U.S. forces in the Middle East are supporting efforts to restore freedom of navigation through the Strait of Hormuz for commercial shipping.
 

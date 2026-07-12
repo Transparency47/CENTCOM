@@ -1,6 +1,6 @@
-<!-- source: https://www.centcom.mil/MEDIA/Transcripts/Article/4316068/adm-coopers-remarks-at-the-high-level-international-conference-on-the-repatriat/ -->
+<!-- source: https://www.centcom.mil/MEDIA/TRANSCRIPTS/Article/4316068/adm-coopers-remarks-at-the-high-level-international-conference-on-the-repatriat/ -->
 <!-- date_published: 2025-09-26T00:00:00Z -->
-<!-- date_accessed: 2026-06-02T21:54:19.804716Z -->
+<!-- date_accessed: 2026-07-12T03:40:35.875630Z -->
 <!-- section: Transcripts -->
 <!-- language: English -->
 <!-- article_id: 4316068 -->
@@ -9,12 +9,12 @@
 
 ## Source Metadata
 
-- Source URL: https://www.centcom.mil/MEDIA/Transcripts/Article/4316068/adm-coopers-remarks-at-the-high-level-international-conference-on-the-repatriat/
+- Source URL: https://www.centcom.mil/MEDIA/TRANSCRIPTS/Article/4316068/adm-coopers-remarks-at-the-high-level-international-conference-on-the-repatriat/
 - Article ID: 4316068
 - Section: Transcripts
 - Language: English
 - Date published: 2025-09-26T00:00:00Z
-- Date accessed: 2026-06-02T21:54:19.804716Z
+- Date accessed: 2026-07-12T03:40:35.875630Z
 
 Your Excellencies, and representatives of the international community,
 

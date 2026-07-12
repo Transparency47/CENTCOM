@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-11T23:57:28.433426+00:00",
+  "generatedAt": "2026-07-12T03:40:44.778773+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-12",
+      "id": "centcom:1ff6c1184b12b339",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-12T03:40:44.017205Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111835497/DOD_111835497-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1014371",
+        "remotePath": "archive/centcom/DOD_111835497-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111835497-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1014371/DOD_111835497.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/12/1014371/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1014371/us-forces-finish-latest-round-strikes-against-iran",
+      "summary": "Video footage of U.S. Central Command forces striking Iranian military targets after launching aircraft and cruise missiles in response to Iran's attack on commercial vessels transiting the Strait of Hormuz during the week of July 6-11, 2026. (U.S. Central Command Video)",
+      "title": "U.S. Forces Finish Latest Round of Strikes Against Iran"
+    },
     {
       "category": "Videos",
       "date": "2026-07-09",
@@ -3316,12 +3335,12 @@
       "kind": "centcom_transcript",
       "metadata": {
         "articleId": "4477143",
-        "dateAccessed": "2026-06-02T21:54:19.584190Z",
+        "dateAccessed": "2026-07-12T03:40:35.686780Z",
         "language": "English",
         "section": "Transcripts"
       },
       "path": "Transcripts/2026/05/04/4477143_Adm_Brad_Cooper_CENTCOM_Commander_Conducts_a_Media_Conference_Call.md",
-      "sourceUrl": "https://www.centcom.mil/MEDIA/Transcripts/Article/4477143/adm-brad-cooper-centcom-commander-conducts-a-media-conference-call/",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/TRANSCRIPTS/Article/4477143/adm-brad-cooper-centcom-commander-conducts-a-media-conference-call/",
       "summary": null,
       "title": "Adm. Brad Cooper, CENTCOM Commander, Conducts a Media Conference Call"
     },
@@ -11297,12 +11316,12 @@
       "kind": "centcom_transcript",
       "metadata": {
         "articleId": "4316068",
-        "dateAccessed": "2026-06-02T21:54:19.804716Z",
+        "dateAccessed": "2026-07-12T03:40:35.875630Z",
         "language": "English",
         "section": "Transcripts"
       },
       "path": "Transcripts/2025/09/26/4316068_Adm_Coopers_Remarks_at_the_High_Level_International_Conference_on_the_Repatriation_of_Persons_fr.md",
-      "sourceUrl": "https://www.centcom.mil/MEDIA/Transcripts/Article/4316068/adm-coopers-remarks-at-the-high-level-international-conference-on-the-repatriat/",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/TRANSCRIPTS/Article/4316068/adm-coopers-remarks-at-the-high-level-international-conference-on-the-repatriat/",
       "summary": null,
       "title": "Adm. Cooper\u2019s Remarks at the High-Level International Conference on the Repatriation of Persons from Al-Hol, Surrounding Camps and Places of Detention"
     },
