@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T03:40:44.778773+00:00",
+  "generatedAt": "2026-07-12T06:35:10.758265+00:00",
   "records": [
     {
       "category": "Videos",
@@ -18,6 +18,22 @@
       "path": "Videos/2026/07/12/1014371/README.md",
       "sourceUrl": "https://www.dvidshub.net/video/1014371/us-forces-finish-latest-round-strikes-against-iran",
       "summary": "Video footage of U.S. Central Command forces striking Iranian military targets after launching aircraft and cruise missiles in response to Iran's attack on commercial vessels transiting the Strait of Hormuz during the week of July 6-11, 2026. (U.S. Central Command Video)",
+      "title": "U.S. Forces Finish Latest Round of Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-11",
+      "id": "centcom:5b03675dc839d7d9",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4540919",
+        "dateAccessed": "2026-07-12T06:34:47.952104Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/11/4540919_U_S_Forces_Finish_Latest_Round_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4540919/us-forces-finish-latest-round-of-strikes-against-iran/",
+      "summary": null,
       "title": "U.S. Forces Finish Latest Round of Strikes Against Iran"
     },
     {
