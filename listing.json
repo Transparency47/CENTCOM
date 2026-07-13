@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-12T23:57:23.587201+00:00",
+  "generatedAt": "2026-07-13T03:40:51.522690+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-13",
+      "id": "centcom:63afb60b226a1073",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-13T03:40:50.805425Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111836248/DOD_111836248-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1014392",
+        "remotePath": "archive/centcom/DOD_111836248-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111836248-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1014392/DOD_111836248.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/13/1014392/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1014392/centcom-completes-another-wave-strikes-against-iran",
+      "summary": "Video footage of U.S. Central Command forces striking Iranian military targets after launching aircraft and cruise missiles in response to Iran's attack on commercial vessels transiting the Strait of Hormuz, released July 12, 2026. (U.S. Central Command Video)",
+      "title": "CENTCOM Completes Another Wave of Strikes Against Iran"
+    },
     {
       "category": "Videos",
       "date": "2026-07-12",
@@ -19,6 +38,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1014371/us-forces-finish-latest-round-strikes-against-iran",
       "summary": "Video footage of U.S. Central Command forces striking Iranian military targets after launching aircraft and cruise missiles in response to Iran's attack on commercial vessels transiting the Strait of Hormuz during the week of July 6-11, 2026. (U.S. Central Command Video)",
       "title": "U.S. Forces Finish Latest Round of Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-12",
+      "id": "centcom:68c62d722b2b83b6",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4541002",
+        "dateAccessed": "2026-07-13T03:40:01.162131Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/12/4541002_CENTCOM_Completes_Another_Wave_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4541002/centcom-completes-another-wave-of-strikes-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Completes Another Wave of Strikes Against Iran"
     },
     {
       "category": "Public Releases",
