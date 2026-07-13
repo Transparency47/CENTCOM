@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T18:45:15.868577+00:00",
+  "generatedAt": "2026-07-13T20:17:07.752015+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1014441/us-sea-drones-strike-submarine-and-ship-maintenance-facility-iran",
       "summary": "Using multiple one-way attack surface drones, CENTCOM forces successfully struck a submarine and ship maintenance facility in Iran, July 12, 2026. Three Corsair unmanned surface vessels hit the port at Bandar Abbas Naval Base, marking the first time American forces have employed ",
       "title": "U.S. Sea Drones Strike Submarine and Ship Maintenance Facility in Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-13",
+      "id": "centcom:23ddf4320e684123",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4542098",
+        "dateAccessed": "2026-07-13T20:17:02.278612Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/13/4542098_U_S_Forces_to_Resume_Naval_Blockade_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4542098/us-forces-to-resume-naval-blockade-against-iran/",
+      "summary": null,
+      "title": "U.S. Forces to Resume Naval Blockade Against Iran"
     },
     {
       "category": "Videos",
