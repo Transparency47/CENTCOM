@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-13T21:59:00.737029+00:00",
+  "generatedAt": "2026-07-13T23:04:41.599649+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-07-13",
+      "id": "centcom:865abd87c4080919",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4543554",
+        "dateAccessed": "2026-07-13T23:04:15.501505Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/07/13/4543554_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4543554/",
+      "summary": null,
+      "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u0432\u043e\u0437\u043e\u0431\u043d\u043e\u0432\u043b\u044f\u044e\u0442 \u043c\u043e\u0440\u0441\u043a\u0443\u044e \u0431\u043b\u043e\u043a\u0430\u0434\u0443 \u0418\u0440\u0430\u043d\u0430"
+    },
     {
       "category": "Videos",
       "date": "2026-07-13",
