@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T12:15:57.626053+00:00",
+  "generatedAt": "2026-07-14T14:54:43.195519+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1014538/us-forces-complete-new-strikes-iranian-military-targets",
       "summary": "U.S. Central Command forces launch strikes in response to Iran's attack on commercial vessels transiting the Strait of Hormuz. (U.S. Central Command Video)",
       "title": "U.S. Forces Complete New Strikes on Iranian Military Targets"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-13",
+      "id": "centcom:f06e724441e91da6",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4544608",
+        "dateAccessed": "2026-07-14T14:54:35.550402Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/07/13/4544608_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4544608/",
+      "summary": null,
+      "title": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0641\u0648\u0627\u062c \u0646\u06d2 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0641\u0648\u062c\u06cc \u0627\u06c1\u062f\u0627\u0641 \u067e\u0631 \u062a\u0627\u0632\u06c1 \u062d\u0645\u0644\u06d2 \u0645\u06a9\u0645\u0644 \u06a9\u0631 \u0644\u06cc\u06d2\u06d4"
     },
     {
       "category": "Public Releases",
@@ -51,6 +67,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4544512/",
       "summary": null,
       "title": "\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u064f\u0643\u0645\u0644 \u0636\u0631\u0628\u0627\u062a \u062c\u062f\u064a\u062f\u0629 \u0636\u062f \u0623\u0647\u062f\u0627\u0641 \u0639\u0633\u0643\u0631\u064a\u0629 \u0625\u064a\u0631\u0627\u0646\u064a\u0629"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-13",
+      "id": "centcom:2234fb436c49cf7a",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4544779",
+        "dateAccessed": "2026-07-14T14:54:30.823895Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/07/13/4544779_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4544779/",
+      "summary": null,
+      "title": "\u05db\u05d5\u05d7\u05d5\u05ea \u05d0\u05e8\u05e6\u05d5\u05ea \u05d4\u05d1\u05e8\u05d9\u05ea \u05d4\u05e9\u05dc\u05d9\u05de\u05d5 \u05d2\u05dc \u05e0\u05d5\u05e1\u05e3 \u05e9\u05dc \u05ea\u05e7\u05d9\u05e4\u05d5\u05ea \u05e0\u05d2\u05d3 \u05d9\u05e2\u05d3\u05d9\u05dd \u05e6\u05d1\u05d0\u05d9\u05d9\u05dd \u05d1\u05d0\u05d9\u05e8\u05d0\u05df"
     },
     {
       "category": "Public Releases",
