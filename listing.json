@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-13T23:04:41.599649+00:00",
+  "generatedAt": "2026-07-14T02:40:31.660863+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-14",
+      "id": "centcom:a6519d7149ac4744",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-14T02:40:30.962423Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111838318/DOD_111838318-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1014538",
+        "remotePath": "archive/centcom/DOD_111838318-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111838318-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1014538/DOD_111838318.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/14/1014538/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1014538/us-forces-complete-new-strikes-iranian-military-targets",
+      "summary": "U.S. Central Command forces launch strikes in response to Iran's attack on commercial vessels transiting the Strait of Hormuz. (U.S. Central Command Video)",
+      "title": "U.S. Forces Complete New Strikes on Iranian Military Targets"
+    },
     {
       "category": "Public Releases",
       "date": "2026-07-13",
