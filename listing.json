@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T02:40:31.660863+00:00",
+  "generatedAt": "2026-07-14T05:33:36.102353+00:00",
   "records": [
     {
       "category": "Videos",
@@ -70,6 +70,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4542098/us-forces-to-resume-naval-blockade-against-iran/",
       "summary": null,
       "title": "U.S. Forces to Resume Naval Blockade Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-13",
+      "id": "centcom:53d221be7cce2af4",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4544409",
+        "dateAccessed": "2026-07-14T05:33:13.104944Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/13/4544409_U_S_Forces_Complete_New_Strikes_on_Iranian_Military_Targets.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4544409/us-forces-complete-new-strikes-on-iranian-military-targets/",
+      "summary": null,
+      "title": "U.S. Forces Complete New Strikes on Iranian Military Targets"
     },
     {
       "category": "Videos",
