@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-14T23:05:31.039856+00:00",
+  "generatedAt": "2026-07-15T02:38:56.076085+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-15",
+      "id": "centcom:70c4d17cfa2809ab",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-15T02:38:55.382084Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111840640/DOD_111840640-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1014695",
+        "remotePath": "archive/centcom/DOD_111840640-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111840640-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1014695/DOD_111840640.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/15/1014695/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1014695/centcom-completes-more-strikes-against-iran",
+      "summary": "Video footage released July 14, 2026, of U.S. Central Command forces striking targets across Iran. (U.S. Central Command Video)",
+      "title": "CENTCOM Completes More Strikes Against Iran"
+    },
     {
       "category": "Videos",
       "date": "2026-07-14",
