@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-15T20:11:18.417796+00:00",
+  "generatedAt": "2026-07-15T22:03:14.895201+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-15",
+      "id": "centcom:96432b91b608a7be",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-15T22:03:14.148761Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111842593/DOD_111842593-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1014825",
+        "remotePath": "archive/centcom/DOD_111842593-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111842593-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1014825/DOD_111842593.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/15/1014825/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1014825/us-forces-disable-non-compliant-vessel-arabian-gulf",
+      "summary": "U.S. forces enforce naval blockade measures against Iran, July 15, by disabling an unladen oil tanker attempting to sail toward an Iranian port in the Arabian Gulf. (U.S. Central Command Video)",
+      "title": "U.S. Forces Disable Non-Compliant Vessel in Arabian Gulf"
+    },
     {
       "category": "Videos",
       "date": "2026-07-15",
