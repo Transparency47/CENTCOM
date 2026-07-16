@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:30:04.750355+00:00",
+  "generatedAt": "2026-07-16T06:21:09.132851+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1014869/latest-wave-us-strikes-against-iran-completed",
       "summary": "Video footage released of U.S. Central Command (CENTCOM) launching aircraft and precision munitions against Iranian military targets, released July 15, 2026. (U.S. Central Command Video)",
       "title": "Latest Wave of U.S. Strikes Against Iran Completed"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-15",
+      "id": "centcom:dc621fa9a79c7d5a",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4546626",
+        "dateAccessed": "2026-07-16T06:20:51.288312Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/15/4546626_U_S_Forces_Disable_Non_Compliant_Vessel_in_Arabian_Gulf.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4546626/us-forces-disable-non-compliant-vessel-in-arabian-gulf/",
+      "summary": null,
+      "title": "U.S. Forces Disable Non-Compliant Vessel in Arabian Gulf"
     },
     {
       "category": "Videos",
