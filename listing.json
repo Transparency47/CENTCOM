@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T09:18:31.397520+00:00",
+  "generatedAt": "2026-07-16T11:42:11.445153+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1014869/latest-wave-us-strikes-against-iran-completed",
       "summary": "Video footage released of U.S. Central Command (CENTCOM) launching aircraft and precision munitions against Iranian military targets, released July 15, 2026. (U.S. Central Command Video)",
       "title": "Latest Wave of U.S. Strikes Against Iran Completed"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-15",
+      "id": "centcom:c05891e10244e22e",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4546802",
+        "dateAccessed": "2026-07-16T11:41:40.248264Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/07/15/4546802_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4546802/",
+      "summary": null,
+      "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u0432\u044b\u0432\u0435\u043b\u0438 \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u0441\u0443\u0434\u043d\u043e, \u043d\u0430\u0440\u0443\u0448\u0438\u0432\u0448\u0435\u0435 \u0440\u0435\u0436\u0438\u043c \u0431\u043b\u043e\u043a\u0430\u0434\u044b \u0432 \u041f\u0435\u0440\u0441\u0438\u0434\u0441\u043a\u043e\u043c \u0437\u0430\u043b\u0438\u0432\u0435."
     },
     {
       "category": "Public Releases",
@@ -94,6 +110,22 @@
       "title": "CENTCOM Completes More Strikes Against Iran"
     },
     {
+      "category": "Public Releases",
+      "date": "2026-07-14",
+      "id": "centcom:e6a1b6a82acf0a6c",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4546799",
+        "dateAccessed": "2026-07-16T11:41:41.628591Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/07/14/4546799_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4546799/",
+      "summary": null,
+      "title": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u043e \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u0443\u044e \u0441\u0435\u0440\u0438\u044e \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0418\u0440\u0430\u043d"
+    },
+    {
       "category": "Videos",
       "date": "2026-07-14",
       "id": "centcom:a6519d7149ac4744",
@@ -111,6 +143,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1014538/us-forces-complete-new-strikes-iranian-military-targets",
       "summary": "U.S. Central Command forces launch strikes in response to Iran's attack on commercial vessels transiting the Strait of Hormuz. (U.S. Central Command Video)",
       "title": "U.S. Forces Complete New Strikes on Iranian Military Targets"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-14",
+      "id": "centcom:8ddc352bcc4d7321",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4546775",
+        "dateAccessed": "2026-07-16T11:41:29.369112Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/14/4546775_CENTCOM_Completes_More_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4546775/centcom-completes-more-strikes-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Completes More Strikes Against Iran"
     },
     {
       "category": "Public Releases",
