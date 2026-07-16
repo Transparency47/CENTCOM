@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-15T23:59:55.207543+00:00",
+  "generatedAt": "2026-07-16T03:30:04.750355+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-16",
+      "id": "centcom:68b2cb3c5e06b45f",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-16T03:30:04.124083Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111842991/DOD_111842991-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1014869",
+        "remotePath": "archive/centcom/DOD_111842991-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111842991-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1014869/DOD_111842991.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/16/1014869/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1014869/latest-wave-us-strikes-against-iran-completed",
+      "summary": "Video footage released of U.S. Central Command (CENTCOM) launching aircraft and precision munitions against Iranian military targets, released July 15, 2026. (U.S. Central Command Video)",
+      "title": "Latest Wave of U.S. Strikes Against Iran Completed"
+    },
     {
       "category": "Videos",
       "date": "2026-07-15",
