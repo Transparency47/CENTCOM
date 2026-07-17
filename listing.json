@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T15:15:59.862852+00:00",
+  "generatedAt": "2026-07-17T17:14:58.837029+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,25 @@
       "sourceUrl": "https://www.dvidshub.net/video/1015047/us-successfully-completes-new-strikes-iran",
       "summary": "Video of U.S. forces launching aircraft and precision munitions against Iranian military targets, released July 16, 2026. (U.S. Central Command Video)",
       "title": "U.S. Successfully Completes New Strikes in Iran"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-07-17",
+      "id": "centcom:81e00f4af8037310",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-17T17:14:58.068648Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111845432/DOD_111845432-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1015049",
+        "remotePath": "archive/centcom/DOD_111845432-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111845432-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1015049/DOD_111845432.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/17/1015049/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1015049/us-marines-11th-marine-expeditionary-unit-conduct-verification-boarding",
+      "summary": "U.S. Marines from the 11th Marine Expeditionary Unit conduct a verification boarding aboard M/T Wen Yao in the Gulf of Oman, July 16, 2026. (U.S. Marine Corps Video)",
+      "title": "U.S. Marines from the 11th Marine Expeditionary Unit Conduct Verification Boarding"
     },
     {
       "category": "Public Releases",
