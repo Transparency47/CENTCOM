@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-18T17:07:27.345364+00:00",
+  "generatedAt": "2026-07-18T19:08:16.237317+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-07-18",
+      "id": "centcom:61f4ab03a67ab4a1",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4549635",
+        "dateAccessed": "2026-07-18T19:08:03.009683Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/18/4549635_CENTCOM_Statement_on_Recently_Fallen_Missing_U_S_Service_Members.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549635/centcom-statement-on-recently-fallen-missing-us-service-members/",
+      "summary": null,
+      "title": "CENTCOM Statement on Recently Fallen, Missing U.S. Service Members"
+    },
     {
       "category": "Videos",
       "date": "2026-07-18",
