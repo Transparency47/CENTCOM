@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T13:20:25.603977+00:00",
+  "generatedAt": "2026-07-18T14:56:03.866812+00:00",
   "records": [
     {
       "category": "Videos",
@@ -57,6 +57,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1015049/us-marines-11th-marine-expeditionary-unit-conduct-verification-boarding",
       "summary": "U.S. Marines from the 11th Marine Expeditionary Unit conduct a verification boarding aboard M/T Wen Yao in the Gulf of Oman, July 16, 2026. (U.S. Marine Corps Video)",
       "title": "U.S. Marines from the 11th Marine Expeditionary Unit Conduct Verification Boarding"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-17",
+      "id": "centcom:690a3d60f7f32546",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4549624",
+        "dateAccessed": "2026-07-18T14:55:44.356458Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/17/4549624_CENTCOM_Finishes_Latest_Wave_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549624/centcom-finishes-latest-wave-of-strikes-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Finishes Latest Wave of Strikes Against Iran"
     },
     {
       "category": "Public Releases",
