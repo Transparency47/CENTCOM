@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-07-19T03:15:22.053360+00:00",
+  "generatedAt": "2026-07-19T06:31:39.570347+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-19",
+      "id": "centcom:4b6cbb08f136cba9",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-19T06:31:38.833232Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111848858/DOD_111848858-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1015206",
+        "remotePath": "archive/centcom/DOD_111848858-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111848858-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1015206/DOD_111848858.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/19/1015206/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1015206/us-completes-8th-consecutive-night-strikes-against-iran",
+      "summary": "Video footage of U.S. forces launching precision strikes targeting Iranian military capabilities for the eighth consecutive night, released July 18, 2026. (U.S. Central Command video)",
+      "title": "U.S. Completes 8th Consecutive Night of Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-18",
+      "id": "centcom:e73e56a7b957eb5e",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4549643",
+        "dateAccessed": "2026-07-19T06:31:24.405540Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/18/4549643_U_S_Completes_8th_Consecutive_Night_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549643/us-completes-8th-consecutive-night-of-strikes-against-iran/",
+      "summary": null,
+      "title": "U.S. Completes 8th Consecutive Night of Strikes Against Iran"
+    },
     {
       "category": "Public Releases",
       "date": "2026-07-18",
