@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T19:18:27.517181+00:00",
+  "generatedAt": "2026-07-19T20:54:41.583349+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1015206/us-completes-8th-consecutive-night-strikes-against-iran",
       "summary": "Video footage of U.S. forces launching precision strikes targeting Iranian military capabilities for the eighth consecutive night, released July 18, 2026. (U.S. Central Command video)",
       "title": "U.S. Completes 8th Consecutive Night of Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-19",
+      "id": "centcom:82052ba735d50c22",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4549648",
+        "dateAccessed": "2026-07-19T20:52:59.345069Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/19/4549648_CENTCOM_Update_on_Recently_Fallen_U_S_Service_Members.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549648/centcom-update-on-recently-fallen-us-service-members/",
+      "summary": null,
+      "title": "CENTCOM Update on Recently Fallen U.S. Service Members"
     },
     {
       "category": "Public Releases",
