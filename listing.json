@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-20T02:09:12.952329+00:00",
+  "generatedAt": "2026-07-20T03:56:32.434448+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-20",
+      "id": "centcom:fd6ad4c13feb02a2",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-20T03:56:31.623677Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111849696/DOD_111849696-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1015246",
+        "remotePath": "archive/centcom/DOD_111849696-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111849696-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1015246/DOD_111849696.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/20/1015246/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1015246/centcom-ends-weekend-wave-strikes-against-iran",
+      "summary": "Video footage of U.S. Central Command launching the ninth consecutive evening of precision strikes further degrading Iranian military capabilities, released July 19, 2026. (U.S. Central Command video)",
+      "title": "CENTCOM Ends Weekend Wave of Strikes Against Iran"
+    },
     {
       "category": "Videos",
       "date": "2026-07-19",
@@ -35,6 +54,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549648/centcom-update-on-recently-fallen-us-service-members/",
       "summary": null,
       "title": "CENTCOM Update on Recently Fallen U.S. Service Members"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-19",
+      "id": "centcom:ac58f815251bb352",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4549657",
+        "dateAccessed": "2026-07-20T03:56:16.628497Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/19/4549657_CENTCOM_Ends_Weekend_Wave_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549657/centcom-ends-weekend-wave-of-strikes-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Ends Weekend Wave of Strikes Against Iran"
     },
     {
       "category": "Public Releases",
