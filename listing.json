@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:26:32.866867+00:00",
+  "generatedAt": "2026-07-21T21:12:36.880298+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,25 @@
       "sourceUrl": "https://www.dvidshub.net/video/1015470/us-finishes-latest-strikes-against-iran",
       "summary": "Video footage of U.S. forces launching the latest round of precision strikes against Iran to degrade their military capabilities, released on July 20, 2026. (U.S. Central Command video)",
       "title": "U.S. Finishes Latest Strikes Against Iran"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-07-21",
+      "id": "centcom:504487e7a2898412",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-21T21:12:36.262000Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111853783/DOD_111853783-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1015574",
+        "remotePath": "archive/centcom/DOD_111853783-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111853783-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1015574/DOD_111853783.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/21/1015574/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1015574/blockade-enforcement",
+      "summary": "Every operational success in the Middle East begins and ends with service members focused on their missions, including the U.S. blockade against Iran. As of July 21, U.S. forces have redirected 8 commercial vessels and disabled 1 to fully enforce the blockade, released July 21, 2",
+      "title": "Blockade Enforcement"
     },
     {
       "category": "Public Releases",
