@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T09:28:28.448799+00:00",
+  "generatedAt": "2026-07-21T11:48:01.244458+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,38 @@
       "sourceUrl": "https://www.dvidshub.net/video/1015470/us-finishes-latest-strikes-against-iran",
       "summary": "Video footage of U.S. forces launching the latest round of precision strikes against Iran to degrade their military capabilities, released on July 20, 2026. (U.S. Central Command video)",
       "title": "U.S. Finishes Latest Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-20",
+      "id": "centcom:7311228fc8d6a777",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4550867",
+        "dateAccessed": "2026-07-21T11:47:48.381197Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/07/20/4550867_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4550867/",
+      "summary": null,
+      "title": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u062a\u062e\u062a\u062a\u0645 \u0623\u062d\u062f\u062b \u0636\u0631\u0628\u0627\u062a\u0647\u0627 \u0636\u062f \u0625\u064a\u0631\u0627\u0646"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-20",
+      "id": "centcom:c72c1f97cbd8b916",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4550865",
+        "dateAccessed": "2026-07-21T11:47:51.116719Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/07/20/4550865_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4550865/",
+      "summary": null,
+      "title": "\u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u0443\u044e \u0441\u0435\u0440\u0438\u044e \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0418\u0440\u0430\u043d\u0443"
     },
     {
       "category": "Public Releases",
