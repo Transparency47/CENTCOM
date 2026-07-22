@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T10:27:01.824649+00:00",
+  "generatedAt": "2026-07-22T12:26:29.205651+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1015603/us-forces-complete-11th-night-strikes-against-iran",
       "summary": "Video footage of U.S. Central Command launching the 11th evening of precision strikes further degrading Iranian military capabilities, released July 21, 2026. (U.S. Central Command video)",
       "title": "U.S. Forces Complete 11th Night of Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-21",
+      "id": "centcom:957a6eaeb5089793",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4552115",
+        "dateAccessed": "2026-07-22T12:26:14.112253Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/07/21/4552115_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4552115/",
+      "summary": null,
+      "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043e\u0434\u0438\u043d\u043d\u0430\u0434\u0446\u0430\u0442\u0443\u044e \u043d\u043e\u0447\u044c \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0418\u0440\u0430\u043d\u0443"
     },
     {
       "category": "Public Releases",
