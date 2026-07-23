@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T05:57:15.432483+00:00",
+  "generatedAt": "2026-07-23T08:41:27.364473+00:00",
   "records": [
     {
       "category": "Videos",
@@ -38,6 +38,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1015603/us-forces-complete-11th-night-strikes-against-iran",
       "summary": "Video footage of U.S. Central Command launching the 11th evening of precision strikes further degrading Iranian military capabilities, released July 21, 2026. (U.S. Central Command video)",
       "title": "U.S. Forces Complete 11th Night of Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-22",
+      "id": "centcom:60bb02a97a57e54f",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4553225",
+        "dateAccessed": "2026-07-23T08:40:55.122962Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/22/4553225_CENTCOM_Completes_Latest_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4553225/centcom-completes-latest-strikes-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Completes Latest Strikes Against Iran"
     },
     {
       "category": "Public Releases",
