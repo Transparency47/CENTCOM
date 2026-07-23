@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T14:06:10.235025+00:00",
+  "generatedAt": "2026-07-23T16:37:21.130623+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,38 @@
       "sourceUrl": "https://www.dvidshub.net/video/1015818/centcom-completes-latest-strikes-against-iran",
       "summary": "Video footage of U.S. Central Command completing precision strikes further degrading Iranian military capabilities, released July 22, 2026. (U.S. Central Command video)",
       "title": "CENTCOM Completes Latest Strikes Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-22",
+      "id": "centcom:0c7b32cae198de7b",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4553501",
+        "dateAccessed": "2026-07-23T16:37:14.635385Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/07/22/4553501_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4553501/",
+      "summary": null,
+      "title": "\u0633\u06cc\u0646\u0679 \u06a9\u0627\u0645 \u0646\u06d2 \u0627\u06cc\u0631\u0627\u0646 \u067e\u0631 \u062d\u0645\u0644\u0648\u06ba \u06a9\u06d2 \u062a\u0627\u0632\u06c1 \u062a\u0631\u06cc\u0646 \u0633\u0644\u0633\u0644\u06d2 \u06a9\u0648 \u0645\u06a9\u0645\u0644 \u06a9\u0631 \u0644\u06cc\u0627"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-07-22",
+      "id": "centcom:a98e1b6b780bff29",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4553489",
+        "dateAccessed": "2026-07-23T16:37:10.287964Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/07/22/4553489_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4553489/",
+      "summary": null,
+      "title": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u043e \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u0443\u044e \u0441\u0435\u0440\u0438\u044e \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0418\u0440\u0430\u043d\u0443"
     },
     {
       "category": "Videos",
