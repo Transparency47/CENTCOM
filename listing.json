@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-24T00:02:40.865903+00:00",
+  "generatedAt": "2026-07-24T04:16:24.851305+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-24",
+      "id": "centcom:a2cb2c68a7b43dce",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-24T04:16:24.052856Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111860184/DOD_111860184-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1016007",
+        "remotePath": "archive/centcom/DOD_111860184-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111860184-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1016007/DOD_111860184.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/24/1016007/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1016007/us-concludes-13th-night-strikes-iranian-military-targets",
+      "summary": "Video footage of U.S. Central Command completing the 13th night of precision strikes further degrading Iranian military capabilities, released July 23, 2026. (U.S. Central Command video)",
+      "title": "U.S. Concludes 13th Night of Strikes on Iranian Military Targets"
+    },
     {
       "category": "Videos",
       "date": "2026-07-23",
