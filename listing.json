@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T12:26:17.109890+00:00",
+  "generatedAt": "2026-07-27T15:43:38.144294+00:00",
   "records": [
     {
       "category": "Videos",
@@ -42,6 +42,25 @@
     {
       "category": "Videos",
       "date": "2026-07-27",
+      "id": "centcom:602264eb3b1af091",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-27T15:43:31.722453Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111861607/DOD_111861607-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1016132",
+        "remotePath": "archive/centcom/DOD_111861607-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111861607-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1016132/DOD_111861607.0000015/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/27/1016132/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1016132/uss-george-hw-bush-cvn-77-conducts-flight-operations",
+      "summary": "Nimitz-class aircraft carrier USS George H.W. Bush (CVN 77) conducts flight operations while sailing in the Arabian Sea, July 17, 2026. George H.W. Bush is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy ",
+      "title": "USS George H.W. Bush (CVN 77) Conducts Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-07-27",
       "id": "centcom:bc093eb888adee19",
       "kind": "centcom_video",
       "metadata": {
@@ -57,6 +76,82 @@
       "sourceUrl": "https://www.dvidshub.net/video/1016136/uss-george-hw-bush-cvn-77-conducts-flight-operations",
       "summary": "Nimitz-class aircraft carrier USS George H.W. Bush (CVN 77) conducts flight operations while sailing in the Arabian Sea, July 20, 2026. George H.W. Bush is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy ",
       "title": "USS George H.W. Bush (CVN 77) Conducts Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-07-27",
+      "id": "centcom:78ea3bcffb247e05",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-27T15:43:28.466899Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111861609/DOD_111861609-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1016133",
+        "remotePath": "archive/centcom/DOD_111861609-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111861609-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1016133/DOD_111861609.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/27/1016133/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1016133/uss-frank-e-petersen-jr-ddg-121-conducts-seamanship-training-team-drill",
+      "summary": "USS Frank E. Petersen Jr. (DDG-121) an Arleigh Burke-class guided-missile destroyer, conducts seamanship training, July 18, 2026. The Frank E. Petersen Jr. is currently deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East",
+      "title": "USS Frank E. Petersen Jr. (DDG-121) Conducts Seamanship Training Team Drill"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-07-27",
+      "id": "centcom:97d5127cd91ebdbe",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-27T15:43:37.511492Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111861197/DOD_111861197-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1016083",
+        "remotePath": "archive/centcom/DOD_111861197-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111861197-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1016083/DOD_111861197.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/27/1016083/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1016083/uss-comstock-lsd-45-flight-operations",
+      "summary": "USS Comstock (LSD-45) a Whidbey Island-class dock landing ship, conducting flight operations, July 14, 2026. The Comstock is currently deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+      "title": "USS Comstock (LSD-45) Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-07-27",
+      "id": "centcom:bd83b72baf772e63",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-27T15:43:25.856716Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111864867/DOD_111864867-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1016359",
+        "remotePath": "archive/centcom/DOD_111864867-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111864867-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1016359/DOD_111864867.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/27/1016359/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1016359/uss-boxer-lhd-4-underway-replenishment",
+      "summary": "USS Boxer (LHD-4), a Wasp-class amphibious assault ship, vertical replenishments-at-sea from the John Lewis-class replenishment oiler USNS John Lewis (T-AO 205) July 20, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability ",
+      "title": "USS Boxer (LHD-4) Underway Replenishment"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-07-27",
+      "id": "centcom:9341f759262eb42d",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-27T15:43:34.150617Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111861584/DOD_111861584-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1016127",
+        "remotePath": "archive/centcom/DOD_111861584-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111861584-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1016127/DOD_111861584.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/27/1016127/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1016127/uss-boxer-lhd-4-flight-operations",
+      "summary": "USS Boxer (LHD-4) a Wasp-class amphibious assault ship of the United States Navy, conducting flight operations, July 15, 2026. The Boxer is currently deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+      "title": "USS Boxer (LHD-4) Flight Operations"
     },
     {
       "category": "Videos",
