@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-28T14:11:50.935840+00:00",
+  "generatedAt": "2026-07-28T16:41:52.569140+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-07-28",
+      "id": "centcom:7f279dac800040aa",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4557279",
+        "dateAccessed": "2026-07-28T16:41:41.234451Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/28/4557279_CENTCOM_to_Launch_1st_Bilateral_AI_Task_Force_with_UAE.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4557279/centcom-to-launch-1st-bilateral-ai-task-force-with-uae/",
+      "summary": null,
+      "title": "CENTCOM to Launch 1st Bilateral AI Task Force with UAE"
+    },
     {
       "category": "Videos",
       "date": "2026-07-27",
