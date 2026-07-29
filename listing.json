@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-28T23:59:18.896589+00:00",
+  "generatedAt": "2026-07-29T03:28:46.398936+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-07-28",
+      "id": "centcom:50293202472758fc",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4558191",
+        "dateAccessed": "2026-07-29T03:28:38.250990Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/07/28/4558191_U_S_Saudi_Forces_Strike_Iran_Backed_Terrorist_Sites_in_Iraq.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4558191/us-saudi-forces-strike-iran-backed-terrorist-sites-in-iraq/",
+      "summary": null,
+      "title": "U.S., Saudi Forces Strike Iran-Backed Terrorist Sites in Iraq"
+    },
     {
       "category": "Public Releases",
       "date": "2026-07-28",
