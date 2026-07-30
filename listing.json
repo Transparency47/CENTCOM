@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-07-30T17:36:58.302675+00:00",
+  "generatedAt": "2026-07-30T19:29:13.821245+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-07-30",
+      "id": "centcom:79d56a336e8862d1",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-07-30T19:29:13.053680Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111872810/DOD_111872810-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1016916",
+        "remotePath": "archive/centcom/DOD_111872810-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111872810-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1016916/DOD_111872810.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/07/30/1016916/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1016916/uss-boxer-lhd-4-conducts-flight-operations",
+      "summary": "Wasp-class amphibious assault ship, USS Boxer (LHD 4), conducts flight operations with a MH-60R Sea Hawk, July 25, 2026. Boxer is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+      "title": "USS Boxer (LHD 4) Conducts Flight Operations"
+    },
     {
       "category": "Videos",
       "date": "2026-07-30",
