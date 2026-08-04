@@ -1,6 +1,82 @@
 {
-  "generatedAt": "2026-08-04T11:25:26.115849+00:00",
+  "generatedAt": "2026-08-04T14:20:19.900421+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-08-04",
+      "id": "centcom:bdfcc1a8922c5e6b",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-08-04T14:20:07.583410Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111878978/DOD_111878978-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1017297",
+        "remotePath": "archive/centcom/DOD_111878978-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111878978-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2608/1017297/DOD_111878978.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/08/04/1017297/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1017297/vertical-replenishment-aboard-uss-mason-ddg-87",
+      "summary": "Vertical replenishment aboard Arleigh Burke-Class Guided-Missile Destroyer USS Mason (DDG 87), Aug. 2, 2026. (U.S. Navy Video)",
+      "title": "Vertical replenishment aboard USS Mason (DDG 87)"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-08-04",
+      "id": "centcom:7c8510a3731200e8",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-08-04T14:20:09.584137Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111875077/DOD_111875077-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1017069",
+        "remotePath": "archive/centcom/DOD_111875077-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111875077-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1017069/DOD_111875077.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/08/04/1017069/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1017069/uss-boxer-lhd-4-conducts-flight-operations",
+      "summary": "USS Boxer (LHD-4) a Wasp-class amphibious assault ship of the United States Navy, conducting flight operations, July 30, 2026. The Boxer is currently deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+      "title": "USS Boxer (LHD-4) Conducts Flight Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-08-04",
+      "id": "centcom:ad462afbc0568408",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-08-04T14:20:19.063321Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111875029/DOD_111875029-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1017066",
+        "remotePath": "archive/centcom/DOD_111875029-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111875029-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1017066/DOD_111875029.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/08/04/1017066/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1017066/kc-135-refuels-f-16s-during-patrol-centcom-aor",
+      "summary": "U.S. Airmen prepare and conduct an air refueling mission aboard a U.S. Air Force KC-135 Stratotanker aircraft in the Middle East July 18, 2026. (U.S. Air Force video)",
+      "title": "KC-135 refuels F-16s during patrol in CENTCOM AOR"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-08-04",
+      "id": "centcom:248cdb98a639f534",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-08-04T14:20:15.520497Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111875069/DOD_111875069-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1017068",
+        "remotePath": "archive/centcom/DOD_111875069-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111875069-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2607/1017068/DOD_111875069.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/08/04/1017068/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1017068/f16s-refueled-during-night-ops-centcom-aor",
+      "summary": "U.S. Airmen prepare and conduct an air refueling mission aboard a U.S. Air Force KC-135 Stratotanker aircraft, in the Middle East July 30, 2026. (U.S. Air Force video)",
+      "title": "F16s refueled during night ops in CENTCOM AOR"
+    },
     {
       "category": "Videos",
       "date": "2026-07-30",
