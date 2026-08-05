@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-05T12:54:49.570568+00:00",
+  "generatedAt": "2026-08-05T17:40:51.143902+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-08-05",
+      "id": "centcom:0ea50da696486367",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4564528",
+        "dateAccessed": "2026-08-05T17:40:24.878768Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/08/05/4564528_U_S_Air_Forces_Central_Conducts_Change_of_Command.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4564528/us-air-forces-central-conducts-change-of-command/",
+      "summary": null,
+      "title": "U.S. Air Forces Central Conducts Change of Command"
+    },
     {
       "category": "Videos",
       "date": "2026-08-04",
