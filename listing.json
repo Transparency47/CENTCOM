@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-11T17:58:42.854435+00:00",
+  "generatedAt": "2026-08-11T19:14:22.107781+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-08-11",
+      "id": "centcom:41b90a66b29864aa",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4568589",
+        "dateAccessed": "2026-08-11T19:14:02.081335Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/08/11/4568589_CJTF_OIR_Welcomes_New_Commander_during_Ceremony_in_Middle_East.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4568589/cjtf-oir-welcomes-new-commander-during-ceremony-in-middle-east/",
+      "summary": null,
+      "title": "CJTF-OIR Welcomes New Commander during Ceremony in Middle East"
+    },
     {
       "category": "Public Releases",
       "date": "2026-08-05",
