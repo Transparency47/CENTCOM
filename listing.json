@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-13T17:58:08.355200+00:00",
+  "generatedAt": "2026-08-13T19:13:44.478688+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-08-13",
+      "id": "centcom:4400f7fc86ddc4d5",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4573159",
+        "dateAccessed": "2026-08-13T19:13:18.587445Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/08/13/4573159_CENTCOM_Launches_First_Ever_Multinational_Attack_Drone_Task_Force.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4573159/centcom-launches-first-ever-multinational-attack-drone-task-force/",
+      "summary": null,
+      "title": "CENTCOM Launches First-Ever Multinational Attack Drone Task Force"
+    },
     {
       "category": "Public Releases",
       "date": "2026-08-12",
