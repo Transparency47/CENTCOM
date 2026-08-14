@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-14T19:50:22.313218+00:00",
+  "generatedAt": "2026-08-14T20:33:01.490663+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-08-14",
+      "id": "centcom:338cb181a9a86cf4",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4574697",
+        "dateAccessed": "2026-08-14T20:32:45.010377Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/08/14/4574697_U_S_Special_Operations_Command_Central_Celebrates_Transfer_of_Leadership.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4574697/us-special-operations-command-central-celebrates-transfer-of-leadership/",
+      "summary": null,
+      "title": "U.S. Special Operations Command Central Celebrates Transfer of Leadership"
+    },
     {
       "category": "Public Releases",
       "date": "2026-08-13",
