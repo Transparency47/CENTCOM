@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-08-15T21:23:43.121115+00:00",
+  "generatedAt": "2026-08-15T22:23:25.078049+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-08-15",
+      "id": "centcom:70dbf01e374fcbe1",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-08-15T22:23:24.213481Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111906422/DOD_111906422-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1018928",
+        "remotePath": "archive/centcom/DOD_111906422-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111906422-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2608/1018928/DOD_111906422.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/08/15/1018928/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1018928/centcom-commander-completes-10-day-trip-middle-east",
+      "summary": "Adm. Brad Cooper, commander of U.S. Central Command, completed a 10-day trip to the Middle East, Aug. 15 that included visits to six countries and to a U.S. Navy aircraft carrier operating in the Arabian Sea. (U.S. Central Command video)",
+      "title": "CENTCOM Commander Completes 10-Day Trip to the Middle East"
+    },
     {
       "category": "Public Releases",
       "date": "2026-08-14",
