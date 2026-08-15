@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-15T22:23:25.078049+00:00",
+  "generatedAt": "2026-08-15T23:23:12.349483+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-08-15",
+      "id": "centcom:ee37c26336eec41b",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4574895",
+        "dateAccessed": "2026-08-15T23:21:55.375069Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/08/15/4574895_CENTCOM_Commander_Completes_10_Day_Trip_to_the_Middle_East.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4574895/centcom-commander-completes-10-day-trip-to-the-middle-east/",
+      "summary": null,
+      "title": "CENTCOM Commander Completes 10-Day Trip to the Middle East"
+    },
     {
       "category": "Videos",
       "date": "2026-08-15",
