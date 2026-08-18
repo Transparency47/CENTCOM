@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-08-18T11:26:57.091768+00:00",
+  "generatedAt": "2026-08-18T12:50:12.740628+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-08-15",
+      "id": "centcom:e83856c020c11cd1",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4575992",
+        "dateAccessed": "2026-08-18T12:49:59.282507Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/08/15/4575992_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4575992/",
+      "summary": null,
+      "title": "\u0642\u0627\u0626\u062f \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u064a\u062e\u062a\u062a\u0645 \u062c\u0648\u0644\u0629 \u0627\u0633\u062a\u0645\u0631\u062a \u0639\u0634\u0631\u0629 \u0623\u064a\u0627\u0645 \u0641\u064a \u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0648\u0633\u0637"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-15",
+      "id": "centcom:b8d735f01d238ba8",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4575995",
+        "dateAccessed": "2026-08-18T12:50:04.029480Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/08/15/4575995_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4575995/",
+      "summary": null,
+      "title": "\u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u0633\u0646\u062a\u06a9\u0627\u0645 \u0633\u0641\u0631 \u06f1\u06f0 \u0631\u0648\u0632\u0647 \u062e\u0648\u062f \u0628\u0647 \u062e\u0627\u0648\u0631\u0645\u06cc\u0627\u0646\u0647 \u0631\u0627 \u0628\u0647 \u067e\u0627\u06cc\u0627\u0646 \u0631\u0633\u0627\u0646\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-15",
+      "id": "centcom:0d18aa69867bc3e8",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4576023",
+        "dateAccessed": "2026-08-18T12:50:05.647282Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/08/15/4576023_10.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4576023/10/",
+      "summary": null,
+      "title": "\u0633\u06cc\u0646\u0679 \u06a9\u0627\u0645 \u06a9\u0645\u0627\u0646\u0688\u0631 \u06a9\u0627 10 \u0631\u0648\u0632\u06c1 \u0645\u0634\u0631\u0642\u0650 \u0648\u0633\u0637\u06cc\u0670 \u06a9\u0627 \u062f\u0648\u0631\u06c1 \u0645\u06a9\u0645\u0644"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-15",
+      "id": "centcom:dd03c8713f851926",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4576001",
+        "dateAccessed": "2026-08-18T12:50:01.381343Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/08/15/4576001_10.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4576001/10/",
+      "summary": null,
+      "title": "\u041a\u043e\u043c\u0430\u043d\u0434\u0443\u044e\u0449\u0438\u0439 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u043c \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b 10-\u0434\u043d\u0435\u0432\u043d\u0443\u044e \u043f\u043e\u0435\u0437\u0434\u043a\u0443 \u043d\u0430 \u0411\u043b\u0438\u0436\u043d\u0438\u0439 \u0412\u043e\u0441\u0442\u043e\u043a"
+    },
     {
       "category": "Public Releases",
       "date": "2026-08-15",
@@ -35,6 +99,70 @@
       "sourceUrl": "https://www.dvidshub.net/video/1018928/centcom-commander-completes-10-day-trip-middle-east",
       "summary": "Adm. Brad Cooper, commander of U.S. Central Command, completed a 10-day trip to the Middle East, Aug. 15 that included visits to six countries and to a U.S. Navy aircraft carrier operating in the Arabian Sea. (U.S. Central Command video)",
       "title": "CENTCOM Commander Completes 10-Day Trip to the Middle East"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-14",
+      "id": "centcom:f829262edf862685",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4575988",
+        "dateAccessed": "2026-08-18T12:49:59.542499Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/08/14/4575988_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4575988/",
+      "summary": null,
+      "title": "\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u062d\u062a\u0641\u0644 \u0628\u0623\u0646\u062a\u0642\u0627\u0644 \u0645\u0647\u0627\u0645 \u0627\u0644\u0642\u064a\u0627\u062f\u0629"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-14",
+      "id": "centcom:1a846de2a103b9b7",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4575984",
+        "dateAccessed": "2026-08-18T12:50:04.249750Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/08/14/4575984_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4575984/",
+      "summary": null,
+      "title": "\u0641\u0631\u0645\u0627\u0646\u062f\u0647\u06cc \u0645\u0631\u06a9\u0632\u06cc \u0639\u0645\u0644\u06cc\u0627\u062a \u0648\u06cc\u0698\u0647 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647\u060c \u0627\u0646\u062a\u0642\u0627\u0644 \u0631\u0647\u0628\u0631\u06cc \u0631\u0627 \u062c\u0634\u0646 \u0645\u06cc\u200c\u06af\u06cc\u0631\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-14",
+      "id": "centcom:dafc7723f7a1a687",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4576013",
+        "dateAccessed": "2026-08-18T12:50:05.870893Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/08/14/4576013_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4576013/",
+      "summary": null,
+      "title": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0633\u067e\u06cc\u0634\u0644 \u0622\u067e\u0631\u06cc\u0634\u0646\u0632 \u06a9\u0645\u0627\u0646\u0688 \u0633\u06cc\u0646\u0679\u0631\u0644 \u0645\u06cc\u06ba \u0642\u06cc\u0627\u062f\u062a \u06a9\u06cc \u0645\u0646\u062a\u0642\u0644\u06cc \u06a9\u06cc \u062a\u0642\u0631\u06cc\u0628"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-14",
+      "id": "centcom:42b51b4fb6ab6c3d",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4575979",
+        "dateAccessed": "2026-08-18T12:50:01.616398Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/08/14/4575979_SOCCENT.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4575979/soccent/",
+      "summary": null,
+      "title": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0441\u0438\u043b \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u0428\u0410 (SOCCENT) \u043f\u0440\u043e\u0432\u0435\u043b \u0446\u0435\u0440\u0435\u043c\u043e\u043d\u0438\u044e \u0441\u043c\u0435\u043d\u044b \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u044f"
     },
     {
       "category": "Public Releases",
