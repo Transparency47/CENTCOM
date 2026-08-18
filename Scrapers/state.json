@@ -2760,6 +2760,18 @@
       "path": "Public Releases/Hebrew/2026/08/05/4565306_untitled.md",
       "title": "\u05d7\u05d9\u05dc \u05d4\u05d0\u05d5\u05d5\u05d9\u05e8 \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9-\u05de\u05e8\u05db\u05d6 \u05e2\u05e8\u05da \u05d8\u05e7\u05e1 \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05e4\u05d9\u05e7\u05d5\u05d3"
     },
+    "releases:Hebrew:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4576030/": {
+      "dateAccessed": "2026-08-18T13:44:22.177661Z",
+      "datePublished": "2026-08-14T00:00:00Z",
+      "path": "Public Releases/Hebrew/2026/08/14/4576030_untitled.md",
+      "title": "\u05e4\u05d9\u05e7\u05d5\u05d3 \u05d4\u05de\u05d1\u05e6\u05e2\u05d9\u05dd \u05d4\u05de\u05d9\u05d5\u05d7\u05d3\u05d9\u05dd \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9-\u05de\u05e8\u05db\u05d6 \u05de\u05e6\u05d9\u05d9\u05df \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05e4\u05d9\u05e7\u05d5\u05d3"
+    },
+    "releases:Hebrew:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4576033/10/": {
+      "dateAccessed": "2026-08-18T13:44:18.126370Z",
+      "datePublished": "2026-08-15T00:00:00Z",
+      "path": "Public Releases/Hebrew/2026/08/15/4576033_10.md",
+      "title": "\u05de\u05e4\u05e7\u05d3 \u05e1\u05e0\u05d8\u05e7\u05d5\u05dd \u05de\u05e1\u05d9\u05d9\u05dd \u05d1\u05d9\u05e7\u05d5\u05e8 \u05d1\u05df 10 \u05d9\u05de\u05d9\u05dd \u05d1\u05de\u05d6\u05e8\u05d7 \u05d4\u05ea\u05d9\u05db\u05d5\u05df"
+    },
     "releases:Russian:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4321503/": {
       "dateAccessed": "2026-06-02T21:53:10.947985Z",
       "datePublished": "2025-08-08T00:00:00Z",
@@ -4984,6 +4996,13 @@
       "remotePath": "archive/centcom/DOD_111878978-1920x1080-6000k.mp4",
       "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111878978-1920x1080-6000k.mp4",
       "title": "Vertical replenishment aboard USS Mason (DDG 87)"
+    },
+    "1018581": {
+      "datePublished": "2026-08-18T13:21:01Z",
+      "path": "Videos/2026/08/18/1018581/README.md",
+      "remotePath": "archive/centcom/DOD_111901352-1920x1080-6000k.mp4",
+      "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111901352-1920x1080-6000k.mp4",
+      "title": "Aircraft generation takes place in the Middle East"
     },
     "1018928": {
       "datePublished": "2026-08-15T22:00:42Z",

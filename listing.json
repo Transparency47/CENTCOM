@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-08-18T12:50:12.740628+00:00",
+  "generatedAt": "2026-08-18T13:45:17.189844+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-08-18",
+      "id": "centcom:fc94f0245ecb1e48",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-08-18T13:45:16.489113Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111901352/DOD_111901352-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1018581",
+        "remotePath": "archive/centcom/DOD_111901352-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111901352-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2608/1018581/DOD_111901352.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/08/18/1018581/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1018581/aircraft-generation-takes-place-middle-east",
+      "summary": "U.S. Air Force F-16CM Fighting Falcon, F-35A Lighting II and C-17A Globemaster III aircraft conduct flight take off from a base in the U.S. Central Command area of responsibility, July 30, 2026. (U.S. Air Force video)",
+      "title": "Aircraft generation takes place in the Middle East"
+    },
     {
       "category": "Public Releases",
       "date": "2026-08-15",
@@ -48,6 +67,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4576023/10/",
       "summary": null,
       "title": "\u0633\u06cc\u0646\u0679 \u06a9\u0627\u0645 \u06a9\u0645\u0627\u0646\u0688\u0631 \u06a9\u0627 10 \u0631\u0648\u0632\u06c1 \u0645\u0634\u0631\u0642\u0650 \u0648\u0633\u0637\u06cc\u0670 \u06a9\u0627 \u062f\u0648\u0631\u06c1 \u0645\u06a9\u0645\u0644"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-15",
+      "id": "centcom:5bb0af817a51aeeb",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4576033",
+        "dateAccessed": "2026-08-18T13:44:18.126370Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/08/15/4576033_10.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4576033/10/",
+      "summary": null,
+      "title": "\u05de\u05e4\u05e7\u05d3 \u05e1\u05e0\u05d8\u05e7\u05d5\u05dd \u05de\u05e1\u05d9\u05d9\u05dd \u05d1\u05d9\u05e7\u05d5\u05e8 \u05d1\u05df 10 \u05d9\u05de\u05d9\u05dd \u05d1\u05de\u05d6\u05e8\u05d7 \u05d4\u05ea\u05d9\u05db\u05d5\u05df"
     },
     {
       "category": "Public Releases",
@@ -147,6 +182,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4576013/",
       "summary": null,
       "title": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0633\u067e\u06cc\u0634\u0644 \u0622\u067e\u0631\u06cc\u0634\u0646\u0632 \u06a9\u0645\u0627\u0646\u0688 \u0633\u06cc\u0646\u0679\u0631\u0644 \u0645\u06cc\u06ba \u0642\u06cc\u0627\u062f\u062a \u06a9\u06cc \u0645\u0646\u062a\u0642\u0644\u06cc \u06a9\u06cc \u062a\u0642\u0631\u06cc\u0628"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-08-14",
+      "id": "centcom:212932e9e496ce2d",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4576030",
+        "dateAccessed": "2026-08-18T13:44:22.177661Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/08/14/4576030_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4576030/",
+      "summary": null,
+      "title": "\u05e4\u05d9\u05e7\u05d5\u05d3 \u05d4\u05de\u05d1\u05e6\u05e2\u05d9\u05dd \u05d4\u05de\u05d9\u05d5\u05d7\u05d3\u05d9\u05dd \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9-\u05de\u05e8\u05db\u05d6 \u05de\u05e6\u05d9\u05d9\u05df \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05e4\u05d9\u05e7\u05d5\u05d3"
     },
     {
       "category": "Public Releases",
