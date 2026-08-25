@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-08-25T17:35:37.601130+00:00",
+  "generatedAt": "2026-08-25T18:41:28.899574+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-08-25",
+      "id": "centcom:9d0ef634c314619e",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-08-25T18:41:25.809247Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111920316/DOD_111920316-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1020184",
+        "remotePath": "archive/centcom/DOD_111920316-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111920316-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2608/1020184/DOD_111920316.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/08/25/1020184/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1020184/uss-mason-ddg-87-conducts-weapons-maintenance",
+      "summary": "U.S. Sailors conduct maintenance on a Mk 15 Phalanx Close-In Weapon System aboard Arleigh Burke-class guided-missile destroyer USS Mason (DDG 87), Aug. 19, 2026. Mason is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle Ea",
+      "title": "USS Mason (DDG 87) Conducts Weapons Maintenance"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-08-25",
+      "id": "centcom:e3143eaaafa971ab",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-08-25T18:41:28.042742Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111925020/DOD_111925020-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1020525",
+        "remotePath": "archive/centcom/DOD_111925020-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111925020-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2608/1020525/DOD_111925020.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/08/25/1020525/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1020525/11th-meu-marines-sailors-conduct-hoist-training-aboard-uss-portland",
+      "summary": "U.S. Marines with Combat Logistics Battalion 11, 11th Marine Expeditionary Unit and Sailors with Helicopter Sea Combat Squadron (HSC) 21 conduct hoist training with an MH-60S Sea Hawk on the flight deck of San Antonio-class amphibious transport dock ship USS Portland (LPD 27) in ",
+      "title": "11th MEU Marines, Sailors Conduct Hoist Training Aboard USS Portland"
+    },
     {
       "category": "Videos",
       "date": "2026-08-21",
