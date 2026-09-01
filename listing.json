@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-09-01T20:43:43.709508+00:00",
+  "generatedAt": "2026-09-01T23:06:47.490252+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-09-01",
+      "id": "centcom:f637bd82bff25a20",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-09-01T23:06:46.645670Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111943465/DOD_111943465-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1021498",
+        "remotePath": "archive/centcom/DOD_111943465-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111943465-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2609/1021498/DOD_111943465.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/09/01/1021498/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1021498/centcom-completes-strikes-irgc-targets-iran",
+      "summary": "Video of U.S. Central Command conducting strikes against Islamic Revolutionary Guard Corps targets in Iran, released Sept. 1, 2026. (U.S. Central Command Video)",
+      "title": "CENTCOM Completes Strikes on IRGC Targets in Iran"
+    },
     {
       "category": "Videos",
       "date": "2026-08-28",
