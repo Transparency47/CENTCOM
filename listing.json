@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-01T23:06:47.490252+00:00",
+  "generatedAt": "2026-09-02T03:30:29.969481+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-09-01",
+      "id": "centcom:c1fe8394320d3dc6",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4588389",
+        "dateAccessed": "2026-09-02T03:30:10.271193Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/09/01/4588389_CENTCOM_Completes_Strikes_on_IRGC_Targets_in_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4588389/centcom-completes-strikes-on-irgc-targets-in-iran/",
+      "summary": null,
+      "title": "CENTCOM Completes Strikes on IRGC Targets in Iran"
+    },
     {
       "category": "Videos",
       "date": "2026-09-01",
