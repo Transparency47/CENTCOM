@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-05T13:43:51.741087+00:00",
+  "generatedAt": "2026-09-05T16:37:12.706085+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-09-05",
+      "id": "centcom:69c25f4abfae21bf",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4591744",
+        "dateAccessed": "2026-09-05T16:36:56.206410Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/09/05/4591744_CENTCOM_Destroys_3_IRGC_Oil_Tankers_After_Iran_Targets_2_U_S_Navy_Warships.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4591744/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships/",
+      "summary": null,
+      "title": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships"
+    },
     {
       "category": "Videos",
       "date": "2026-09-05",
