@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-09-05T10:09:24.698173+00:00",
+  "generatedAt": "2026-09-05T13:43:51.741087+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-09-05",
+      "id": "centcom:4763918be75299b8",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-09-05T13:43:50.910260Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111954730/DOD_111954730-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1021952",
+        "remotePath": "archive/centcom/DOD_111954730-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111954730-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2609/1021952/DOD_111954730.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/09/05/1021952/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1021952/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships",
+      "summary": "Video of U.S. Central Command forces striking three Iranian crude oil carriers, Sept. 5, 2026. (U.S. Central Command video)",
+      "title": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships"
+    },
     {
       "category": "Videos",
       "date": "2026-09-02",
