@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T14:58:16.113578+00:00",
+  "generatedAt": "2026-09-08T18:30:26.029636+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1021961/m-t-kylo-sinking-gulf-oman",
       "summary": "Video footage of M/T Kylo sinking in the Gulf of Oman, Sept. 5, 2026. (U.S. Central Command Video)",
       "title": "M/T Kylo Sinking in the Gulf of Oman"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-09-05",
+      "id": "centcom:df5a3f297425f49f",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4592482",
+        "dateAccessed": "2026-09-08T18:30:19.297843Z",
+        "language": "Urdu",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Urdu/2026/09/05/4592482_3.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4592482/3/",
+      "summary": null,
+      "title": "\u062f\u0648 \u0627\u0645\u0631\u06cc\u06a9\u06cc \u0628\u062d\u0631\u06cc \u062c\u0646\u06af\u06cc \u062c\u06c1\u0627\u0632\u0648\u06ba \u067e\u0631 \u062d\u0645\u0644\u06d2 \u06a9\u06d2 \u0628\u0639\u062f\u060c \u0633\u06cc\u0646\u0679 \u06a9\u0627\u0645 \u0646\u06d2 \u0622\u0626\u06cc \u0622\u0631 \u062c\u06cc \u0633\u06cc \u06a9\u06d2 3 \u062a\u06cc\u0644 \u0628\u0631\u062f\u0627\u0631 \u062c\u06c1\u0627\u0632\u0648\u06ba \u06a9\u0648 \u062a\u0628\u0627\u06c1 \u06a9\u0631 \u062f\u06cc\u0627"
     },
     {
       "category": "Public Releases",
@@ -51,6 +67,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4591884/",
       "summary": null,
       "title": "\u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u064f\u062f\u0645\u0631 \u062b\u0644\u0627\u062b \u0646\u0627\u0642\u0644\u0627\u062a \u0646\u0641\u0637 \u062a\u0627\u0628\u0639\u0629 \u0644\u0644\u062d\u0631\u0633 \u0627\u0644\u062b\u0648\u0631\u064a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a \u0628\u0639\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0625\u064a\u0631\u0627\u0646 \u0644\u0633\u0641\u064a\u0646\u062a\u064a\u0646"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-09-05",
+      "id": "centcom:b70bda643d7ee926",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4592473",
+        "dateAccessed": "2026-09-08T18:30:15.505356Z",
+        "language": "Hebrew",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Hebrew/2026/09/05/4592473_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4592473/",
+      "summary": null,
+      "title": "\u05e1\u05e0\u05d8\u05e7\u05d5\u05dd \u05d4\u05e9\u05de\u05d9\u05d3 \u05e9\u05dc\u05d5\u05e9 \u05de\u05db\u05dc\u05d9\u05d5\u05ea \u05e0\u05e4\u05d8 \u05e9\u05dc \u05de\u05e9\u05de\u05e8\u05d5\u05ea \u05d4\u05de\u05d4\u05e4\u05db\u05d4 \u05dc\u05d0\u05d7\u05e8 \u05e9\u05d0\u05d9\u05e8\u05d0\u05df \u05ea\u05e7\u05e4\u05d4 \u05e9\u05ea\u05d9 \u05d0\u05d5\u05e0\u05d9\u05d5\u05ea \u05de\u05dc\u05d7\u05de\u05d4 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05d5\u05ea"
     },
     {
       "category": "Public Releases",
