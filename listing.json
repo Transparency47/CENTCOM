@@ -1,6 +1,41 @@
 {
-  "generatedAt": "2026-09-08T21:39:39.443435+00:00",
+  "generatedAt": "2026-09-08T23:55:12.487413+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-09-08",
+      "id": "centcom:11b311bc69677913",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4593050",
+        "dateAccessed": "2026-09-08T23:54:40.020776Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/09/08/4593050_U_S_Destroys_5_IRGC_Tankers_After_Iran_Targets_Another_American_Warship.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4593050/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship/",
+      "summary": null,
+      "title": "U.S. Destroys 5 IRGC Tankers After Iran Targets Another American Warship"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-09-08",
+      "id": "centcom:47067315b74d28e0",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-09-08T23:55:11.653167Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111959565/DOD_111959565-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1022155",
+        "remotePath": "archive/centcom/DOD_111959565-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111959565-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2609/1022155/DOD_111959565.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/09/08/1022155/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1022155/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship",
+      "summary": "U.S. Central Command (CENTCOM) forces destroyed five Iranian crude oil carriers, Sept. 8, after the Islamic Revolutionary Guard Corps (IRGC) targeted a U.S. Navy warship with ballistic missiles twice over the past two days. (U.S. Central Command video)",
+      "title": "U.S. Destroys 5 IRGC Tankers After Iran Targets Another American Warship"
+    },
     {
       "category": "Videos",
       "date": "2026-09-06",
