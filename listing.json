@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T08:47:04.014788+00:00",
+  "generatedAt": "2026-09-09T13:34:31.439745+00:00",
   "records": [
     {
       "category": "Videos",
@@ -19,6 +19,54 @@
       "sourceUrl": "https://www.dvidshub.net/video/1022167/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship",
       "summary": "M/T Riesco sinks in the Gulf of Oman, Sept. 8, after being destroyed by CENTCOM forces in response to attempted IRGC attacks on a U.S. Navy warship. (U.S. Central Command video)",
       "title": "U.S. Destroys 5 IRGC Tankers After Iran Targets Another American Warship"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-09-08",
+      "id": "centcom:db83cbdbad7c8e41",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4593262",
+        "dateAccessed": "2026-09-09T13:33:05.620539Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/09/08/4593262_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4593262/",
+      "summary": null,
+      "title": "\u0627\u0645\u0631\u06cc\u06a9\u0627 \u067e\u0633 \u0627\u0632 \u0647\u062f\u0641 \u0642\u0631\u0627\u0631 \u062f\u0627\u062f\u0646 \u06cc\u06a9 \u06a9\u0634\u062a\u06cc \u062c\u0646\u06af\u06cc \u062f\u06cc\u06af\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u062a\u0648\u0633\u0637 \u0627\u06cc\u0631\u0627\u0646\u060c \u06f5 \u0646\u0641\u062a\u06a9\u0634 \u0633\u067e\u0627\u0647 \u067e\u0627\u0633\u062f\u0627\u0631\u0627\u0646 \u0631\u0627 \u0645\u0646\u0647\u062f\u0645 \u06a9\u0631\u062f"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-09-08",
+      "id": "centcom:36d36a47b98e02f2",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4593268",
+        "dateAccessed": "2026-09-09T13:32:33.327106Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/09/08/4593268_5.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4593268/5/",
+      "summary": null,
+      "title": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u062a\u062f\u0645\u0631 5 \u0646\u0627\u0642\u0644\u0627\u062a \u0646\u0641\u0637 \u062a\u0627\u0628\u0639\u0629 \u0644\u0644\u062d\u0631\u0633 \u0627\u0644\u062b\u0648\u0631\u064a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a \u0628\u0639\u062f \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0625\u064a\u0631\u0627\u0646 \u0644\u0633\u0641\u064a\u0646\u0629 \u062d\u0631\u0628\u064a\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0623\u062e\u0631\u0649"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-09-08",
+      "id": "centcom:f0614e9c90a47b62",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4593260",
+        "dateAccessed": "2026-09-09T13:32:36.489315Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/09/08/4593260_5.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4593260/5/",
+      "summary": null,
+      "title": "\u0421\u0428\u0410 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u043b\u0438 5 \u0442\u0430\u043d\u043a\u0435\u0440\u043e\u0432 \u041a\u0421\u0418\u0420 \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0418\u0440\u0430\u043d\u0430 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0435\u0449\u0435 \u043e\u0434\u0438\u043d \u0432\u043e\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0440\u0430\u0431\u043b\u044c \u0421\u0428\u0410"
     },
     {
       "category": "Public Releases",
