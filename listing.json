@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-09-08T23:55:12.487413+00:00",
+  "generatedAt": "2026-09-09T03:41:56.881076+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-09-09",
+      "id": "centcom:94dea25bbb3a1ea9",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-09-09T03:41:56.235948Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111959783/DOD_111959783-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1022167",
+        "remotePath": "archive/centcom/DOD_111959783-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111959783-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2609/1022167/DOD_111959783.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/09/09/1022167/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1022167/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship",
+      "summary": "M/T Riesco sinks in the Gulf of Oman, Sept. 8, after being destroyed by CENTCOM forces in response to attempted IRGC attacks on a U.S. Navy warship. (U.S. Central Command video)",
+      "title": "U.S. Destroys 5 IRGC Tankers After Iran Targets Another American Warship"
+    },
     {
       "category": "Public Releases",
       "date": "2026-09-08",
