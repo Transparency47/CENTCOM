@@ -2862,6 +2862,12 @@
       "path": "Public Releases/Hebrew/2026/09/05/4592473_untitled.md",
       "title": "\u05e1\u05e0\u05d8\u05e7\u05d5\u05dd \u05d4\u05e9\u05de\u05d9\u05d3 \u05e9\u05dc\u05d5\u05e9 \u05de\u05db\u05dc\u05d9\u05d5\u05ea \u05e0\u05e4\u05d8 \u05e9\u05dc \u05de\u05e9\u05de\u05e8\u05d5\u05ea \u05d4\u05de\u05d4\u05e4\u05db\u05d4 \u05dc\u05d0\u05d7\u05e8 \u05e9\u05d0\u05d9\u05e8\u05d0\u05df \u05ea\u05e7\u05e4\u05d4 \u05e9\u05ea\u05d9 \u05d0\u05d5\u05e0\u05d9\u05d5\u05ea \u05de\u05dc\u05d7\u05de\u05d4 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05d5\u05ea"
     },
+    "releases:Hebrew:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4595427/": {
+      "dateAccessed": "2026-09-10T17:32:05.146323Z",
+      "datePublished": "2026-09-08T00:00:00Z",
+      "path": "Public Releases/Hebrew/2026/09/08/4595427_untitled.md",
+      "title": "\u05db\u05d5\u05d7\u05d5\u05ea \u05e1\u05e0\u05d8\u05e7\u05d5\u05dd \u05d4\u05e9\u05de\u05d9\u05d3\u05d5 \u05d7\u05de\u05e9 \u05de\u05db\u05dc\u05d9\u05d5\u05ea \u05e0\u05e4\u05d8 \u05d2\u05d5\u05dc\u05de\u05d9 \u05d0\u05d9\u05e8\u05d0\u05e0\u05d9\u05d5\u05ea \u05dc\u05d0\u05d7\u05e8 \u05e9\u05de\u05e9\u05de\u05e8\u05d5\u05ea \u05d4\u05de\u05d4\u05e4\u05db\u05d4 \u05ea\u05e7\u05e4\u05d5 \u05d0\u05d5\u05e0\u05d9\u05d9\u05ea \u05de\u05dc\u05d7\u05de\u05d4 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05ea"
+    },
     "releases:Russian:https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4321503/": {
       "dateAccessed": "2026-06-02T21:53:10.947985Z",
       "datePublished": "2025-08-08T00:00:00Z",
@@ -5179,11 +5185,32 @@
       "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111943465-1920x1080-6000k.mp4",
       "title": "CENTCOM Completes Strikes on IRGC Targets in Iran"
     },
+    "1021546": {
+      "datePublished": "2026-09-10T15:52:29Z",
+      "path": "Videos/2026/09/10/1021546/README.md",
+      "remotePath": "archive/centcom/DOD_111944591-1920x1080-6000k.mp4",
+      "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111944591-1920x1080-6000k.mp4",
+      "title": "George Washington Conducts Flight Operations"
+    },
     "1021549": {
       "datePublished": "2026-09-02T14:52:15Z",
       "path": "Videos/2026/09/02/1021549/README.md",
       "remotePath": "archive/centcom/DOD_111944653-1920x1080-6000k.mp4",
       "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111944653-1920x1080-6000k.mp4",
+      "title": "George Washington Conducts Flight Operations"
+    },
+    "1021551": {
+      "datePublished": "2026-09-10T16:05:39Z",
+      "path": "Videos/2026/09/10/1021551/README.md",
+      "remotePath": "archive/centcom/DOD_111944661-1920x1080-6000k.mp4",
+      "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111944661-1920x1080-6000k.mp4",
+      "title": "USS Boxer, VMFA 122 Conduct Flight Operations"
+    },
+    "1021582": {
+      "datePublished": "2026-09-10T16:07:42Z",
+      "path": "Videos/2026/09/10/1021582/README.md",
+      "remotePath": "archive/centcom/DOD_111944962-1920x1080-6000k.mp4",
+      "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111944962-1920x1080-6000k.mp4",
       "title": "George Washington Conducts Flight Operations"
     },
     "1021952": {
