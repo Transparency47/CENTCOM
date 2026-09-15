@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-15T13:16:46.539639+00:00",
+  "generatedAt": "2026-09-15T18:00:59.094316+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-09-15",
+      "id": "centcom:76378f454e33606b",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4601351",
+        "dateAccessed": "2026-09-15T18:00:37.179734Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/09/15/4601351_CENTCOM_Hosts_Jordan_for_Exercise_Eager_Lion_in_Colorado.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4601351/centcom-hosts-jordan-for-exercise-eager-lion-in-colorado/",
+      "summary": null,
+      "title": "CENTCOM Hosts Jordan for Exercise Eager Lion in Colorado"
+    },
     {
       "category": "Videos",
       "date": "2026-09-10",
