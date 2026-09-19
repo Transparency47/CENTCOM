@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-09-19T09:14:28.999737+00:00",
+  "generatedAt": "2026-09-19T13:45:45.561818+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-09-19",
+      "id": "centcom:7617b556211acedb",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-09-19T13:45:44.713478Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111993120/DOD_111993120-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1023666",
+        "remotePath": "archive/centcom/DOD_111993120-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111993120-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2609/1023666/DOD_111993120.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/09/19/1023666/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1023666/update-centcom-commander",
+      "summary": "Adm. Brad Cooper, commander of U.S. Central Command, provides an operational update about ongoing missions in the Middle East, Sept. 19, 2026. (U.S. Central Command video)",
+      "title": "Update from CENTCOM Commander"
+    },
     {
       "category": "Public Releases",
       "date": "2026-09-15",
