@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-09-22T14:27:15.493466+00:00",
+  "generatedAt": "2026-09-22T18:35:46.789030+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-09-22",
+      "id": "centcom:56c11263c4fb0db3",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-09-22T18:35:45.938361Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111999767/DOD_111999767-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1023971",
+        "remotePath": "archive/centcom/DOD_111999767-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111999767-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2609/1023971/DOD_111999767.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/09/22/1023971/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1023971/us-central-command-exercises",
+      "summary": "U.S. Central Command hosts multiple exercises including Exercise Bright Star, Exercise Eager Lion, and Exercise Regional Cooperation. (U.S. Central Command Video)",
+      "title": "U.S. Central Command Exercises"
+    },
     {
       "category": "Videos",
       "date": "2026-09-19",
