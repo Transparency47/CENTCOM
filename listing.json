@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:09:14.194984+00:00",
+  "generatedAt": "2026-09-22T14:27:15.493466+00:00",
   "records": [
     {
       "category": "Videos",
@@ -35,6 +35,54 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/URDU-PUBLIC-RELEASES/Article/4603045/",
       "summary": null,
       "title": "\u06a9\u0648\u0644\u0648\u0631\u0627\u0688\u0648 \u0645\u06cc\u06ba \u0633\u06cc\u0646\u0679 \u06a9\u0627\u0645 \u0627\u0648\u0631 \u0627\u0631\u062f\u0646 \u06a9\u06cc \u0627\u06cc\u06af\u0631 \u0644\u0627\u0626\u0646 \u0646\u0627\u0645\u06cc \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0645\u0634\u0642 \u06a9\u0627 \u0622\u063a\u0627\u0632"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-09-15",
+      "id": "centcom:21993eb2c34d12fc",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4608051",
+        "dateAccessed": "2026-09-22T14:27:04.937275Z",
+        "language": "Farsi",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Farsi/2026/09/15/4608051_Eager_Lion.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/FARSI-PUBLIC-RELEASES/Farsi-Press-Release-View/Article/4608051/eager-lion/",
+      "summary": null,
+      "title": "\u0645\u06cc\u0632\u0628\u0627\u0646\u06cc \u0633\u0646\u062a\u06a9\u0627\u0645 \u0627\u0632 \u0627\u0631\u062f\u0646 \u0628\u0631\u0627\u06cc \u0631\u0632\u0645\u0627\u06cc\u0634 \u00ab\u0634\u06cc\u0631 \u0645\u0634\u062a\u0627\u0642\u00bb (Eager Lion) \u062f\u0631 \u06a9\u0644\u0631\u0627\u062f\u0648"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-09-15",
+      "id": "centcom:ec1f1ff653d74f50",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4608159",
+        "dateAccessed": "2026-09-22T14:26:58.746199Z",
+        "language": "Arabic",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Arabic/2026/09/15/4608159_untitled.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/ARABIC-PUBLIC-RELEASES/Arabic-Public-Release-View/Article/4608159/",
+      "summary": null,
+      "title": "\u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u062a\u0633\u062a\u0636\u064a\u0641 \u0627\u0644\u0623\u0631\u062f\u0646 \u0641\u064a \u062a\u0645\u0631\u064a\u0646 \u0627\u0644\u0623\u0633\u062f \u0627\u0644\u0645\u062a\u0623\u0647\u0628 \u0641\u064a \u0648\u0644\u0627\u064a\u0629 \u0643\u0648\u0644\u0648\u0631\u0627\u062f\u0648"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-09-15",
+      "id": "centcom:bc24c0aa5f663330",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4608102",
+        "dateAccessed": "2026-09-22T14:27:00.999100Z",
+        "language": "Russian",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/Russian/2026/09/15/4608102_Eager_Lion.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4608102/eager-lion/",
+      "summary": null,
+      "title": "\u0426\u0415\u041d\u0422\u041a\u041e\u041c \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442 \u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044e \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432 \u0443\u0447\u0435\u043d\u0438\u044f\u0445 Eager Lion \u0432 \u041a\u043e\u043b\u043e\u0440\u0430\u0434\u043e"
     },
     {
       "category": "Public Releases",
