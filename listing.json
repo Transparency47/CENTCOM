@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-09-24T07:24:20.881875+00:00",
+  "generatedAt": "2026-09-24T13:22:12.143159+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-09-24",
+      "id": "centcom:497b70ea9a124ac6",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-09-24T13:22:05.951687Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111999485/DOD_111999485-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1023958",
+        "remotePath": "archive/centcom/DOD_111999485-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111999485-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2609/1023958/DOD_111999485.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/09/24/1023958/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1023958/kc135-supports-fighter-night-operations",
+      "summary": "U.S. Airmen prepare and conduct an air refueling mission aboard a U.S. Air Force KC-135 Stratotanker aircraft, in the Middle East Sept. 18, 2026. (U.S. Air Force video)",
+      "title": "KC135 Supports Fighter Night Operations"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-09-24",
+      "id": "centcom:58bb442ccec260a1",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-09-24T13:22:11.335707Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111996998/DOD_111996998-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1023813",
+        "remotePath": "archive/centcom/DOD_111996998-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_111996998-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2609/1023813/DOD_111996998.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/09/24/1023813/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1023813/kc-135-supports-airstrike-operations-with-f-16-aerial-refueling",
+      "summary": "U.S. Airmen prepare and conduct an air refueling mission aboard a U.S. Air Force KC-135 Stratotanker aircraft, in the Middle East July 16, 2026. (U.S. Air Force video)",
+      "title": "KC-135 supports airstrike operations with F-16 aerial refueling"
+    },
     {
       "category": "Videos",
       "date": "2026-09-22",
