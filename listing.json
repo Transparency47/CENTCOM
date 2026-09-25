@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-25T18:18:08.341340+00:00",
+  "generatedAt": "2026-09-25T22:03:04.808512+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-09-25",
+      "id": "centcom:260e0ab1763d79bd",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4611911",
+        "dateAccessed": "2026-09-25T22:02:52.851578Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/09/25/4611911_CENTCOM_Completes_Exercise_Eager_Lion_in_Colorado.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4611911/centcom-completes-exercise-eager-lion-in-colorado/",
+      "summary": null,
+      "title": "CENTCOM Completes Exercise Eager Lion in Colorado"
+    },
     {
       "category": "Videos",
       "date": "2026-09-24",
