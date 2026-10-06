@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-05T18:07:11.239091+00:00",
+  "generatedAt": "2026-10-06T00:39:15.428135+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-10-05",
+      "id": "centcom:2fea6e185bbf793f",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4619553",
+        "dateAccessed": "2026-10-06T00:38:51.703547Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/10/05/4619553_CENTCOM_Maintains_Strict_Enforcement_of_U_S_Blockade_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4619553/centcom-maintains-strict-enforcement-of-us-blockade-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Maintains Strict Enforcement of U.S. Blockade Against Iran"
+    },
     {
       "category": "Public Releases",
       "date": "2026-09-30",
