@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-14T19:18:03.432639+00:00",
+  "generatedAt": "2026-10-14T23:02:57.068895+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-10-14",
+      "id": "centcom:0e70e878f58ed909",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-10-14T23:02:56.198231Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112057625/DOD_112057625-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1026387",
+        "remotePath": "archive/centcom/DOD_112057625-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_112057625-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2610/1026387/DOD_112057625.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/10/14/1026387/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1026387/us-forces-destroy-iranian-affiliated-dhow-conducting-surveillance-and-targeting-us-navy-ships",
+      "summary": "On Oct. 6, U.S. forces destroyed an Iranian-affiliated dhow conducting surveillance and targeting U.S. Navy ships in the Gulf of Oman. Over the past seven months, Iran's Islamic Revolutionary Guard Corps has continued to indiscriminately target thousands of civilian mariners tran",
+      "title": "U.S. Forces Destroy Iranian-affiliated Dhow Conducting Surveillance and Targeting U.S. Navy Ships"
+    },
     {
       "category": "Videos",
       "date": "2026-10-11",
