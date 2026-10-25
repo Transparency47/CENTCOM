@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-25T18:46:43.872773+00:00",
+  "generatedAt": "2026-10-25T21:31:18.875234+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-10-25",
+      "id": "centcom:b36214221fdd8abc",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4633061",
+        "dateAccessed": "2026-10-25T21:31:12.433704Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/10/25/4633061_CENTCOM_Commander_Visits_Strait_of_Hormuz_during_Milestone_Week.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4633061/centcom-commander-visits-strait-of-hormuz-during-milestone-week/",
+      "summary": null,
+      "title": "CENTCOM Commander Visits Strait of Hormuz during Milestone Week"
+    },
     {
       "category": "Videos",
       "date": "2026-10-19",
