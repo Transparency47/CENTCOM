@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-10-30T08:14:29.239129+00:00",
+  "generatedAt": "2026-10-30T15:40:33.101750+00:00",
   "records": [
+    {
+      "category": "Videos",
+      "date": "2026-10-30",
+      "id": "centcom:34ab4946dfdb143c",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-10-30T15:40:32.402256Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112110165/DOD_112110165-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1028094",
+        "remotePath": "archive/centcom/DOD_112110165-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_112110165-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2610/1028094/DOD_112110165.0000001/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/10/30/1028094/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1028094/centcom-commander-provides-operational-update",
+      "summary": "Adm. Brad Cooper, CENTCOM commander, provides an update, Oct. 30, 2026. (U.S. Central Command video)",
+      "title": "CENTCOM Commander Provides Operational Update"
+    },
     {
       "category": "Public Releases",
       "date": "2026-10-25",
