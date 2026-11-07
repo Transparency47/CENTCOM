@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-07T09:43:12.166070+00:00",
+  "generatedAt": "2026-11-07T16:08:59.202849+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-11-07",
+      "id": "centcom:f91b53de59ff6dc7",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4644250",
+        "dateAccessed": "2026-11-07T16:08:43.649436Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/11/07/4644250_CENTCOM_Launches_Task_Force_to_Disrupt_Iranian_Ground_Transit_Routes_Supporting_Illegal_Shipment.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/",
+      "summary": null,
+      "title": "CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments"
+    },
     {
       "category": "Videos",
       "date": "2026-10-30",
