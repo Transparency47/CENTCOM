@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-07T20:42:13.556435+00:00",
+  "generatedAt": "2026-11-08T00:15:48.366158+00:00",
   "records": [
+    {
+      "category": "Public Releases",
+      "date": "2026-11-07",
+      "id": "centcom:d23cbd41ed767b90",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4644273",
+        "dateAccessed": "2026-11-08T00:15:00.756718Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/11/07/4644273_U_S_Forces_Disable_Cargo_Vessel_Attempting_to_Violate_Naval_Blockade.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644273/us-forces-disable-cargo-vessel-attempting-to-violate-naval-blockade/",
+      "summary": null,
+      "title": "U.S. Forces Disable Cargo Vessel Attempting to Violate Naval Blockade"
+    },
     {
       "category": "Videos",
       "date": "2026-11-07",
