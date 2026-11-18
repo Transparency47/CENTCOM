@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:17:30.049736+00:00",
+  "generatedAt": "2026-11-18T20:08:24.118488+00:00",
   "records": [
     {
       "category": "Public Releases",
@@ -130,6 +130,22 @@
       "title": "\u0412\u043e\u0435\u043d\u043d\u044b\u0435 \u0421\u0428\u0410 \u0432\u044b\u0432\u0435\u043b\u0438 \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u0433\u0440\u0443\u0437\u043e\u0432\u043e\u0435 \u0441\u0443\u0434\u043d\u043e, \u043f\u044b\u0442\u0430\u0432\u0448\u0435\u0435\u0441\u044f \u043d\u0430\u0440\u0443\u0448\u0438\u0442\u044c \u0432\u043e\u0435\u043d\u043d\u043e-\u043c\u043e\u0440\u0441\u043a\u0443\u044e \u0431\u043b\u043e\u043a\u0430\u0434\u0443 \u0418\u0440\u0430\u043d\u0430"
     },
     {
+      "category": "News Articles",
+      "date": "2026-11-07",
+      "id": "centcom:1b26171230353d8c",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4644273",
+        "dateAccessed": "2026-11-18T20:07:57.398428Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/11/07/4644273_U_S_Forces_Disable_Cargo_Vessel_Attempting_to_Violate_Naval_Blockade.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644273/us-forces-disable-cargo-vessel-attempting-to-violate-naval-blockade/",
+      "summary": null,
+      "title": "U.S. Forces Disable Cargo Vessel Attempting to Violate Naval Blockade"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-11-07",
       "id": "centcom:d23cbd41ed767b90",
@@ -179,6 +195,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4644997/centcom/",
       "summary": null,
       "title": "CENTCOM \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0434\u043b\u044f \u043f\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u044f \u043d\u0435\u0437\u0430\u043a\u043e\u043d\u043d\u044b\u0445 \u043f\u043e\u0441\u0442\u0430\u0432\u043e\u043a \u043f\u043e \u0441\u0443\u0445\u043e\u043f\u0443\u0442\u043d\u044b\u043c \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u0430\u043c \u0418\u0440\u0430\u043d\u0430"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-11-07",
+      "id": "centcom:301103a87a2132c8",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4644250",
+        "dateAccessed": "2026-11-18T20:07:57.589245Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/11/07/4644250_CENTCOM_Launches_Task_Force_to_Disrupt_Iranian_Ground_Transit_Routes_Supporting_Illegal_Shipment.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/",
+      "summary": null,
+      "title": "CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments"
     },
     {
       "category": "Public Releases",
@@ -294,6 +326,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4633720/centcom/",
       "summary": null,
       "title": "\u041a\u043e\u043c\u0430\u043d\u0434\u0443\u044e\u0449\u0438\u0439 CENTCOM \u043f\u043e\u0441\u0435\u0442\u0438\u043b \u041e\u0440\u043c\u0443\u0437\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u043b\u0438\u0432 \u043d\u0430 \u043d\u0435\u0434\u0435\u043b\u0435, \u043e\u0437\u043d\u0430\u043c\u0435\u043d\u043e\u0432\u0430\u0432\u0448\u0435\u0439\u0441\u044f \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u0435\u043c \u0432\u0430\u0436\u043d\u043e\u0433\u043e \u0440\u0443\u0431\u0435\u0436\u0430"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-10-25",
+      "id": "centcom:2f81ba5bd60b80c4",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4633061",
+        "dateAccessed": "2026-11-18T20:07:57.772652Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/10/25/4633061_CENTCOM_Commander_Visits_Strait_of_Hormuz_during_Milestone_Week.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4633061/centcom-commander-visits-strait-of-hormuz-during-milestone-week/",
+      "summary": null,
+      "title": "CENTCOM Commander Visits Strait of Hormuz during Milestone Week"
     },
     {
       "category": "Public Releases",
@@ -468,6 +516,22 @@
       "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0435 \u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u0432\u044b\u0432\u0435\u043b\u0438 \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u0433\u0440\u0443\u0437\u043e\u0432\u043e\u0435 \u0441\u0443\u0434\u043d\u043e, \u043f\u044b\u0442\u0430\u0432\u0448\u0435\u0435\u0441\u044f \u043d\u0430\u0440\u0443\u0448\u0438\u0442\u044c \u0431\u043b\u043e\u043a\u0430\u0434\u0443 \u0418\u0440\u0430\u043d\u0430"
     },
     {
+      "category": "News Articles",
+      "date": "2026-10-10",
+      "id": "centcom:1daf47b70c078d02",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4623817",
+        "dateAccessed": "2026-11-18T20:07:57.981349Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/10/10/4623817_U_S_Forces_Disable_Cargo_Vessel_Attempting_to_Violate_Blockade.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4623817/us-forces-disable-cargo-vessel-attempting-to-violate-blockade/",
+      "summary": null,
+      "title": "U.S. Forces Disable Cargo Vessel Attempting to Violate Blockade"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-10-10",
       "id": "centcom:06deb4a3242bb242",
@@ -564,6 +628,22 @@
       "title": "CENTCOM \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0442\u044c \u0441\u0442\u0440\u043e\u0433\u0438\u0439 \u0440\u0435\u0436\u0438\u043c \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0431\u043b\u043e\u043a\u0430\u0434\u044b \u0418\u0440\u0430\u043d\u0430"
     },
     {
+      "category": "News Articles",
+      "date": "2026-10-05",
+      "id": "centcom:0a994ed332305cf7",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4619553",
+        "dateAccessed": "2026-11-18T20:07:58.168293Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/10/05/4619553_CENTCOM_Maintains_Strict_Enforcement_of_U_S_Blockade_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4619553/centcom-maintains-strict-enforcement-of-us-blockade-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Maintains Strict Enforcement of U.S. Blockade Against Iran"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-10-05",
       "id": "centcom:2fea6e185bbf793f",
@@ -626,6 +706,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/HEBREW-PUBLIC-RELEASES/Hebrew-Press-Release-View/Article/4614685/",
       "summary": null,
       "title": "\u05d4\u05db\u05d5\u05d7\u05d5\u05ea \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9\u05dd \u05de\u05e1\u05d9\u05d9\u05de\u05d9\u05dd \u05d0\u05ea \u05de\u05e9\u05d9\u05de\u05ea \u05de\u05d1\u05e6\u05e2 \u05e0\u05d7\u05d9\u05e9\u05d5\u05ea \u05d8\u05d1\u05d5\u05e2\u05d4 \u05d1\u05e2\u05d9\u05e8\u05d0\u05e7"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-09-30",
+      "id": "centcom:05eec5c11d81dcfe",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4614532",
+        "dateAccessed": "2026-11-18T20:07:58.360676Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/09/30/4614532_U_S_Forces_End_Operation_Inherent_Resolve_Mission_in_Iraq.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4614532/us-forces-end-operation-inherent-resolve-mission-in-iraq/",
+      "summary": null,
+      "title": "U.S. Forces End Operation Inherent Resolve Mission in Iraq"
     },
     {
       "category": "Public Releases",
@@ -722,6 +818,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4613673/centcom-eager-lion-2026/",
       "summary": null,
       "title": "CENTCOM \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u043e \u0443\u0447\u0435\u043d\u0438\u044f Eager Lion 2026 \u0432 \u041a\u043e\u043b\u043e\u0440\u0430\u0434\u043e"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-09-25",
+      "id": "centcom:b168efef02c444e9",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4611911",
+        "dateAccessed": "2026-11-18T20:07:58.550142Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/09/25/4611911_CENTCOM_Completes_Exercise_Eager_Lion_in_Colorado.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4611911/centcom-completes-exercise-eager-lion-in-colorado/",
+      "summary": null,
+      "title": "CENTCOM Completes Exercise Eager Lion in Colorado"
     },
     {
       "category": "Public Releases",
@@ -880,6 +992,22 @@
       "title": "\u0426\u0415\u041d\u0422\u041a\u041e\u041c \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442 \u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044e \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0438\u044f \u0432 \u0443\u0447\u0435\u043d\u0438\u044f\u0445 Eager Lion \u0432 \u041a\u043e\u043b\u043e\u0440\u0430\u0434\u043e"
     },
     {
+      "category": "News Articles",
+      "date": "2026-09-15",
+      "id": "centcom:4e9c099225694706",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4601351",
+        "dateAccessed": "2026-11-18T20:07:58.753509Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/09/15/4601351_CENTCOM_Hosts_Jordan_for_Exercise_Eager_Lion_in_Colorado.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4601351/centcom-hosts-jordan-for-exercise-eager-lion-in-colorado/",
+      "summary": null,
+      "title": "CENTCOM Hosts Jordan for Exercise Eager Lion in Colorado"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-09-15",
       "id": "centcom:76378f454e33606b",
@@ -1036,6 +1164,22 @@
       "title": "\u0421\u0428\u0410 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u043b\u0438 5 \u0442\u0430\u043d\u043a\u0435\u0440\u043e\u0432 \u041a\u0421\u0418\u0420 \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0418\u0440\u0430\u043d\u0430 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0435\u0449\u0435 \u043e\u0434\u0438\u043d \u0432\u043e\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u0440\u0430\u0431\u043b\u044c \u0421\u0428\u0410"
     },
     {
+      "category": "News Articles",
+      "date": "2026-09-08",
+      "id": "centcom:1205fe12d8578b78",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4593050",
+        "dateAccessed": "2026-11-18T20:07:58.937046Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/09/08/4593050_U_S_Destroys_5_IRGC_Tankers_After_Iran_Targets_Another_American_Warship.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4593050/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship/",
+      "summary": null,
+      "title": "U.S. Destroys 5 IRGC Tankers After Iran Targets Another American Warship"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-09-08",
       "id": "centcom:11b311bc69677913",
@@ -1168,6 +1312,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4591880/",
       "summary": null,
       "title": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0432\u044b\u0432\u0435\u043b\u043e \u0438\u0437 \u0441\u0442\u0440\u043e\u044f \u0442\u0440\u0438 \u043d\u0435\u0444\u0442\u044f\u043d\u044b\u0445 \u0442\u0430\u043d\u043a\u0435\u0440\u0430 \u041a\u0421\u0418\u0420 \u043f\u043e\u0441\u043b\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0418\u0440\u0430\u043d\u0430 \u0430\u0442\u0430\u043a\u043e\u0432\u0430\u0442\u044c \u0434\u0432\u0430 \u0432\u043e\u0435\u043d\u043d\u044b\u0445 \u043a\u043e\u0440\u0430\u0431\u043b\u044f \u0412\u041c\u0421 \u0421\u0428\u0410"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-09-05",
+      "id": "centcom:4021da22723fed9e",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4591744",
+        "dateAccessed": "2026-11-18T20:07:59.142108Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/09/05/4591744_CENTCOM_Destroys_3_IRGC_Oil_Tankers_After_Iran_Targets_2_U_S_Navy_Warships.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4591744/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships/",
+      "summary": null,
+      "title": "CENTCOM Destroys 3 IRGC Oil Tankers After Iran Targets 2 U.S. Navy Warships"
     },
     {
       "category": "Public Releases",
@@ -1350,6 +1510,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4589665/",
       "summary": null,
       "title": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435 (\u0426\u0415\u041d\u0422\u041a\u041e\u041c) \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u043e \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u0438\u0435 \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c \u041a\u0421\u0418\u0420 \u0432 \u0418\u0440\u0430\u043d\u0435"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-09-01",
+      "id": "centcom:e3c911bf647383a0",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4588389",
+        "dateAccessed": "2026-11-18T20:07:59.600263Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/09/01/4588389_CENTCOM_Completes_Strikes_on_IRGC_Targets_in_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4588389/centcom-completes-strikes-on-irgc-targets-in-iran/",
+      "summary": null,
+      "title": "CENTCOM Completes Strikes on IRGC Targets in Iran"
     },
     {
       "category": "Public Releases",
@@ -1581,6 +1757,22 @@
       "title": "\u041a\u043e\u043c\u0430\u043d\u0434\u0443\u044e\u0449\u0438\u0439 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u043c \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b 10-\u0434\u043d\u0435\u0432\u043d\u0443\u044e \u043f\u043e\u0435\u0437\u0434\u043a\u0443 \u043d\u0430 \u0411\u043b\u0438\u0436\u043d\u0438\u0439 \u0412\u043e\u0441\u0442\u043e\u043a"
     },
     {
+      "category": "News Articles",
+      "date": "2026-08-15",
+      "id": "centcom:5140fc49d19aa559",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4574895",
+        "dateAccessed": "2026-11-18T20:07:59.776750Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/08/15/4574895_CENTCOM_Commander_Completes_10_Day_Trip_to_the_Middle_East.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4574895/centcom-commander-completes-10-day-trip-to-the-middle-east/",
+      "summary": null,
+      "title": "CENTCOM Commander Completes 10-Day Trip to the Middle East"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-08-15",
       "id": "centcom:ee37c26336eec41b",
@@ -1696,6 +1888,22 @@
       "title": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0441\u0438\u043b \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u0428\u0410 (SOCCENT) \u043f\u0440\u043e\u0432\u0435\u043b \u0446\u0435\u0440\u0435\u043c\u043e\u043d\u0438\u044e \u0441\u043c\u0435\u043d\u044b \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u044f"
     },
     {
+      "category": "News Articles",
+      "date": "2026-08-14",
+      "id": "centcom:983096bf445e8a2d",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4574697",
+        "dateAccessed": "2026-11-18T20:07:59.974331Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/08/14/4574697_U_S_Special_Operations_Command_Central_Celebrates_Transfer_of_Leadership.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4574697/us-special-operations-command-central-celebrates-transfer-of-leadership/",
+      "summary": null,
+      "title": "U.S. Special Operations Command Central Celebrates Transfer of Leadership"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-08-14",
       "id": "centcom:338cb181a9a86cf4",
@@ -1774,6 +1982,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4573823/",
       "summary": null,
       "title": "\u0426\u0415\u041d\u0422\u041a\u041e\u041c \u0441\u043e\u0437\u0434\u0430\u0435\u0442 \u043f\u0435\u0440\u0432\u0443\u044e \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043c\u043d\u043e\u0433\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u043f\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044e \u0443\u0434\u0430\u0440\u043d\u044b\u0445 \u0431\u0435\u0441\u043f\u0438\u043b\u043e\u0442\u043d\u0438\u043a\u043e\u0432"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-08-13",
+      "id": "centcom:0b487672ff399244",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4573159",
+        "dateAccessed": "2026-11-18T20:08:00.174310Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/08/13/4573159_CENTCOM_Launches_First_Ever_Multinational_Attack_Drone_Task_Force.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4573159/centcom-launches-first-ever-multinational-attack-drone-task-force/",
+      "summary": null,
+      "title": "CENTCOM Launches First-Ever Multinational Attack Drone Task Force"
     },
     {
       "category": "Public Releases",
@@ -1888,6 +2112,22 @@
       "title": "CJTF-OIR \u05de\u05e6\u05d9\u05d9\u05df \u05d7\u05d9\u05dc\u05d5\u05e4\u05d9 \u05e4\u05d9\u05e7\u05d5\u05d3 \u05d1\u05d8\u05e7\u05e1 \u05d1\u05de\u05d6\u05e8\u05d7 \u05d4\u05ea\u05d9\u05db\u05d5\u05df"
     },
     {
+      "category": "News Articles",
+      "date": "2026-08-11",
+      "id": "centcom:4e1fba7f9755f579",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4568589",
+        "dateAccessed": "2026-11-18T20:08:00.411047Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/08/11/4568589_CJTF_OIR_Welcomes_New_Commander_during_Ceremony_in_Middle_East.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4568589/cjtf-oir-welcomes-new-commander-during-ceremony-in-middle-east/",
+      "summary": null,
+      "title": "CJTF-OIR Welcomes New Commander during Ceremony in Middle East"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-08-11",
       "id": "centcom:41b90a66b29864aa",
@@ -1966,6 +2206,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4565986/afcent/",
       "summary": null,
       "title": "\u0421\u043c\u0435\u043d\u0430 \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0430 \u0412\u0412\u0421 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u0428\u0410 (AFCENT)"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-08-05",
+      "id": "centcom:94c22065f39d64a1",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4564528",
+        "dateAccessed": "2026-11-18T20:08:00.597728Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/08/05/4564528_U_S_Air_Forces_Central_Conducts_Change_of_Command.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4564528/us-air-forces-central-conducts-change-of-command/",
+      "summary": null,
+      "title": "U.S. Air Forces Central Conducts Change of Command"
     },
     {
       "category": "Public Releases",
@@ -2178,6 +2434,22 @@
       "title": "\u0421\u0428\u0410 \u043d\u0430\u043d\u0435\u0441\u043b\u0438 \u0443\u0434\u0430\u0440\u044b \u043f\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c \u041a\u0421\u0418\u0420 \u0432 \u043e\u0442\u0432\u0435\u0442 \u043d\u0430 \u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0430\u0442\u0430\u043a \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0418\u0440\u0430\u043d\u0430"
     },
     {
+      "category": "News Articles",
+      "date": "2026-07-29",
+      "id": "centcom:03f3a120c247723e",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4559495",
+        "dateAccessed": "2026-11-18T20:08:00.776204Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/29/4559495_U_S_Strikes_IRGC_Targets_After_Attempted_Iranian_Attacks.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4559495/us-strikes-irgc-targets-after-attempted-iranian-attacks/",
+      "summary": null,
+      "title": "U.S. Strikes IRGC Targets After Attempted Iranian Attacks"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-07-29",
       "id": "centcom:4e28aa278c186902",
@@ -2338,6 +2610,22 @@
       "title": "\u0421\u0438\u043b\u044b \u0421\u0428\u0410 \u0438 \u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u043e\u0439 \u0410\u0440\u0430\u0432\u0438\u0438 \u043d\u0430\u043d\u0435\u0441\u043b\u0438 \u0443\u0434\u0430\u0440\u044b \u043f\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043c\u044b\u0445 \u0418\u0440\u0430\u043d\u043e\u043c \u0442\u0435\u0440\u0440\u043e\u0440\u0438\u0441\u0442\u043e\u0432 \u0432 \u0418\u0440\u0430\u043a\u0435"
     },
     {
+      "category": "News Articles",
+      "date": "2026-07-28",
+      "id": "centcom:291575caafc46b72",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4558191",
+        "dateAccessed": "2026-11-18T20:08:00.985028Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/28/4558191_U_S_Saudi_Forces_Strike_Iran_Backed_Terrorist_Sites_in_Iraq.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4558191/us-saudi-forces-strike-iran-backed-terrorist-sites-in-iraq/",
+      "summary": null,
+      "title": "U.S., Saudi Forces Strike Iran-Backed Terrorist Sites in Iraq"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-07-28",
       "id": "centcom:50293202472758fc",
@@ -2352,6 +2640,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4558191/us-saudi-forces-strike-iran-backed-terrorist-sites-in-iraq/",
       "summary": null,
       "title": "U.S., Saudi Forces Strike Iran-Backed Terrorist Sites in Iraq"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-07-28",
+      "id": "centcom:21b63dd75d8fb21d",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4557279",
+        "dateAccessed": "2026-11-18T20:08:01.188448Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/28/4557279_CENTCOM_to_Launch_1st_Bilateral_AI_Task_Force_with_UAE.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4557279/centcom-to-launch-1st-bilateral-ai-task-force-with-uae/",
+      "summary": null,
+      "title": "CENTCOM to Launch 1st Bilateral AI Task Force with UAE"
     },
     {
       "category": "Public Releases",
@@ -2732,6 +3036,22 @@
       "title": "\u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u0442\u0440\u0438\u043d\u0430\u0434\u0446\u0430\u0442\u0443\u044e \u043d\u043e\u0447\u044c \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0432\u043e\u0435\u043d\u043d\u044b\u043c \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c \u0418\u0440\u0430\u043d\u0430"
     },
     {
+      "category": "News Articles",
+      "date": "2026-07-23",
+      "id": "centcom:5e60b2b9175b2dbd",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4554310",
+        "dateAccessed": "2026-11-18T20:08:01.374017Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/23/4554310_U_S_Concludes_13th_Night_of_Strikes_on_Iranian_Military_Targets.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4554310/us-concludes-13th-night-of-strikes-on-iranian-military-targets/",
+      "summary": null,
+      "title": "U.S. Concludes 13th Night of Strikes on Iranian Military Targets"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-07-23",
       "id": "centcom:f86a2b6bf705d06c",
@@ -2866,6 +3186,22 @@
       "title": "U.S. Forces Complete 11th Night of Strikes Against Iran"
     },
     {
+      "category": "News Articles",
+      "date": "2026-07-22",
+      "id": "centcom:ba0887d23f7b747c",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4553225",
+        "dateAccessed": "2026-11-18T20:08:03.103004Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/22/4553225_CENTCOM_Completes_Latest_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4553225/centcom-completes-latest-strikes-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Completes Latest Strikes Against Iran"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-07-22",
       "id": "centcom:60bb02a97a57e54f",
@@ -2960,6 +3296,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4552115/",
       "summary": null,
       "title": "\u0412\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0435 \u0441\u0438\u043b\u044b \u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043e\u0434\u0438\u043d\u043d\u0430\u0434\u0446\u0430\u0442\u0443\u044e \u043d\u043e\u0447\u044c \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0418\u0440\u0430\u043d\u0443"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-07-21",
+      "id": "centcom:f001b5a5644cf641",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4552008",
+        "dateAccessed": "2026-11-18T20:08:03.283476Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/21/4552008_U_S_Forces_Complete_11th_Night_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4552008/us-forces-complete-11th-night-of-strikes-against-iran/",
+      "summary": null,
+      "title": "U.S. Forces Complete 11th Night of Strikes Against Iran"
     },
     {
       "category": "Public Releases",
@@ -3094,6 +3446,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4550865/",
       "summary": null,
       "title": "\u0421\u0428\u0410 \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043e\u0447\u0435\u0440\u0435\u0434\u043d\u0443\u044e \u0441\u0435\u0440\u0438\u044e \u0443\u0434\u0430\u0440\u043e\u0432 \u043f\u043e \u0418\u0440\u0430\u043d\u0443"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-07-20",
+      "id": "centcom:7e34bbc7e54ad52c",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4550818",
+        "dateAccessed": "2026-11-18T20:08:03.479209Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/20/4550818_U_S_Finishes_Latest_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4550818/us-finishes-latest-strikes-against-iran/",
+      "summary": null,
+      "title": "U.S. Finishes Latest Strikes Against Iran"
     },
     {
       "category": "Public Releases",
@@ -3310,6 +3678,22 @@
       "title": "U.S. Completes 8th Consecutive Night of Strikes Against Iran"
     },
     {
+      "category": "News Articles",
+      "date": "2026-07-19",
+      "id": "centcom:c1261b47617dc37b",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4549648",
+        "dateAccessed": "2026-11-18T20:08:03.885127Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/19/4549648_CENTCOM_Update_on_Recently_Fallen_U_S_Service_Members.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549648/centcom-update-on-recently-fallen-us-service-members/",
+      "summary": null,
+      "title": "CENTCOM Update on Recently Fallen U.S. Service Members"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-07-19",
       "id": "centcom:82052ba735d50c22",
@@ -3324,6 +3708,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549648/centcom-update-on-recently-fallen-us-service-members/",
       "summary": null,
       "title": "CENTCOM Update on Recently Fallen U.S. Service Members"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-07-19",
+      "id": "centcom:52cf2018fe37fa97",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4549657",
+        "dateAccessed": "2026-11-18T20:08:03.705966Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/19/4549657_CENTCOM_Ends_Weekend_Wave_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549657/centcom-ends-weekend-wave-of-strikes-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Ends Weekend Wave of Strikes Against Iran"
     },
     {
       "category": "Public Releases",
@@ -3502,6 +3902,22 @@
       "title": "\u0417\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u0426\u0415\u041d\u0422\u041a\u041e\u041c \u043e \u043d\u0435\u0434\u0430\u0432\u043d\u043e \u043f\u043e\u0433\u0438\u0431\u0448\u0438\u0445 \u0438 \u043f\u0440\u043e\u043f\u0430\u0432\u0448\u0435\u043c \u0431\u0435\u0437 \u0432\u0435\u0441\u0442\u0438 \u0432\u043e\u0435\u043d\u043d\u043e\u0441\u043b\u0443\u0436\u0430\u0449\u0438\u0445 \u0421\u0428\u0410"
     },
     {
+      "category": "News Articles",
+      "date": "2026-07-18",
+      "id": "centcom:467ef912902c992c",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4549643",
+        "dateAccessed": "2026-11-18T20:08:04.102519Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/18/4549643_U_S_Completes_8th_Consecutive_Night_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549643/us-completes-8th-consecutive-night-of-strikes-against-iran/",
+      "summary": null,
+      "title": "U.S. Completes 8th Consecutive Night of Strikes Against Iran"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-07-18",
       "id": "centcom:e73e56a7b957eb5e",
@@ -3516,6 +3932,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549643/us-completes-8th-consecutive-night-of-strikes-against-iran/",
       "summary": null,
       "title": "U.S. Completes 8th Consecutive Night of Strikes Against Iran"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-07-18",
+      "id": "centcom:85c30e80d9d07b43",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4549635",
+        "dateAccessed": "2026-11-18T20:08:04.344226Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/18/4549635_CENTCOM_Statement_on_Recently_Fallen_Missing_U_S_Service_Members.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549635/centcom-statement-on-recently-fallen-missing-us-service-members/",
+      "summary": null,
+      "title": "CENTCOM Statement on Recently Fallen, Missing U.S. Service Members"
     },
     {
       "category": "Public Releases",
@@ -3671,6 +4103,22 @@
       "title": "U.S. Marines from the 11th Marine Expeditionary Unit Conduct Verification Boarding"
     },
     {
+      "category": "News Articles",
+      "date": "2026-07-17",
+      "id": "centcom:866e7d15d688888c",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4549624",
+        "dateAccessed": "2026-11-18T20:08:04.520850Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/17/4549624_CENTCOM_Finishes_Latest_Wave_of_Strikes_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4549624/centcom-finishes-latest-wave-of-strikes-against-iran/",
+      "summary": null,
+      "title": "CENTCOM Finishes Latest Wave of Strikes Against Iran"
+    },
+    {
       "category": "Public Releases",
       "date": "2026-07-17",
       "id": "centcom:690a3d60f7f32546",
@@ -3765,6 +4213,22 @@
       "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/RUSSIAN-PUBLIC-RELEASES/Russian-Press-Release-View/Article/4548537/",
       "summary": null,
       "title": "\u0421\u0428\u0410 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043d\u0430\u043d\u0435\u0441\u043b\u0438 \u043d\u043e\u0432\u044b\u0435 \u0443\u0434\u0430\u0440\u044b \u043f\u043e \u0446\u0435\u043b\u044f\u043c \u0432 \u0418\u0440\u0430\u043d\u0435"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-07-16",
+      "id": "centcom:54684e6cc49ae01c",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4548433",
+        "dateAccessed": "2026-11-18T20:08:04.704886Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/16/4548433_U_S_Successfully_Completes_New_Strikes_in_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4548433/us-successfully-completes-new-strikes-in-iran/",
+      "summary": null,
+      "title": "U.S. Successfully Completes New Strikes in Iran"
     },
     {
       "category": "Public Releases",
@@ -3979,6 +4443,22 @@
       "sourceUrl": "https://www.dvidshub.net/video/1014825/us-forces-disable-non-compliant-vessel-arabian-gulf",
       "summary": "U.S. forces enforce naval blockade measures against Iran, July 15, by disabling an unladen oil tanker attempting to sail toward an Iranian port in the Arabian Gulf. (U.S. Central Command Video)",
       "title": "U.S. Forces Disable Non-Compliant Vessel in Arabian Gulf"
+    },
+    {
+      "category": "News Articles",
+      "date": "2026-07-15",
+      "id": "centcom:9529b4f865b7c362",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4546816",
+        "dateAccessed": "2026-11-18T20:08:04.894602Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/07/15/4546816_Latest_Wave_of_U_S_Strikes_Against_Iran_Completed.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4546816/latest-wave-of-us-strikes-against-iran-completed/",
+      "summary": null,
+      "title": "Latest Wave of U.S. Strikes Against Iran Completed"
     },
     {
       "category": "Public Releases",
