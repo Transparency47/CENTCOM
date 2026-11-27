@@ -1,6 +1,57 @@
 {
-  "generatedAt": "2026-11-27T14:46:45.191899+00:00",
+  "generatedAt": "2026-11-27T23:16:19.979364+00:00",
   "records": [
+    {
+      "category": "News Articles",
+      "date": "2026-11-27",
+      "id": "centcom:c59e2531c192cedd",
+      "kind": "centcom_news_article",
+      "metadata": {
+        "articleId": "4660484",
+        "dateAccessed": "2026-11-27T23:15:53.910538Z",
+        "language": "English",
+        "section": "News Articles"
+      },
+      "path": "News Articles/2026/11/27/4660484_U_S_Forces_Disable_Commercial_Vessel_During_Blockade_Enforcement_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4660484/us-forces-disable-commercial-vessel-during-blockade-enforcement-against-iran/",
+      "summary": null,
+      "title": "U.S. Forces Disable Commercial Vessel During Blockade Enforcement Against Iran"
+    },
+    {
+      "category": "Public Releases",
+      "date": "2026-11-27",
+      "id": "centcom:7db5b1d44d4381f2",
+      "kind": "centcom_public_release",
+      "metadata": {
+        "articleId": "4660484",
+        "dateAccessed": "2026-11-27T23:15:56.505548Z",
+        "language": "English",
+        "section": "Public Releases"
+      },
+      "path": "Public Releases/English/2026/11/27/4660484_U_S_Forces_Disable_Commercial_Vessel_During_Blockade_Enforcement_Against_Iran.md",
+      "sourceUrl": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4660484/us-forces-disable-commercial-vessel-during-blockade-enforcement-against-iran/",
+      "summary": null,
+      "title": "U.S. Forces Disable Commercial Vessel During Blockade Enforcement Against Iran"
+    },
+    {
+      "category": "Videos",
+      "date": "2026-11-27",
+      "id": "centcom:7c44bc5e20d465d8",
+      "kind": "centcom_video",
+      "metadata": {
+        "dateAccessed": "2026-11-27T23:16:19.433554Z",
+        "downloadUrl": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112177493/DOD_112177493-1920x1080-6000k.mp4",
+        "dvidsVideoId": "1031212",
+        "remotePath": "archive/centcom/DOD_112177493-1920x1080-6000k.mp4",
+        "remoteUrl": "https://cdn.comparify.app/archive/centcom/DOD_112177493-1920x1080-6000k.mp4",
+        "section": "Videos",
+        "thumbnail": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2611/1031212/DOD_112177493.0000000/122x92_q95.jpg"
+      },
+      "path": "Videos/2026/11/27/1031212/README.md",
+      "sourceUrl": "https://www.dvidshub.net/video/1031212/us-forces-disable-commercial-vessel-during-blockade-enforcement-against-iran",
+      "summary": "CENTCOM disabled a commercial vessel in the Gulf of Oman, Nov. 26, after the crew attempted to run the U.S. naval blockade, despite multiple warnings, following departure from Bandar Abbas. A U.S. military aircraft launched precision munitions that struck the stern of Palau-flagg",
+      "title": "U.S. Forces Disable Commercial Vessel During Blockade Enforcement Against Iran"
+    },
     {
       "category": "Public Releases",
       "date": "2026-11-07",
